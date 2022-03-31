@@ -1,0 +1,30 @@
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["TIME NPC BY FLOPPA"],Name:"§4floppas day time npc"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "î„ƒÂ§1Â§lTime Dayî„ƒ",
+      "data" : [
+         {
+            "cmd_line" : "/time set 2000",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "î„ƒÂ§1Â§lTime Nightî„ƒ",
+      "data" : [
+         {
+            "cmd_line" : "/time set 13000",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:225f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:16.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:"î„…Â§dÂ§lday Changerî„‚ Â§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"FLoppas day changer
+
+Â§rÂ§6Â§l1. time day
+Â§rÂ§7Â§l2time night",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"day changer by floppa",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:18,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}

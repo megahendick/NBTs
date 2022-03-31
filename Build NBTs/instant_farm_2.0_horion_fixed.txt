@@ -1,0 +1,3318 @@
+{Block:{name:"minecraft:chest",states:{facing_direction:3},version:17879555},CanPlaceOn:["waterlily","stone_brick_stairs","mycelium","nether_brick","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","blast_furnace","lectern","grindstone","darkoak_wall_sign","nether_brick_stairs","nether_wart","nether_brick_fence","beacon","enchanting_table","blue_ice","smoker","cartography_table","fletching_table","smithing_table","barrel","bell","lantern","loom","campfire","beehive","composter","wither_rose","wood","bee_nest","honeycomb_block","honey_block","double_wooden_slab","stone_slab2","grass","stone_slab","leaves","double_stone_slab","wooden_slab","leaves2","double_plant","double_stone_slab2","double_stone_slab3","stone_slab4","stone_slab3","double_stone_slab4","dirt","stone","cobblestone","planks","sapling","bedrock","coal_ore","iron_ore","lapis_ore","dispenser","gold_ore","lapis_block","bed","log","sand","gravel","sponge","glass","sandstone","golden_rail","detector_rail","red_flower","wool","tallgrass","brown_mushroom","web","deadbush","yellow_flower","red_mushroom","iron_block","brick_block","gold_block","tnt","chest","crafting_table","torch","redstone_wire","oak_stairs","furnace","diamond_ore","bookshelf","obsidian","mossy_cobblestone","diamond_block","standing_sign","wooden_door","lever","ladder","snow","rail","stone_stairs","wall_sign","iron_door","redstone_ore","unlit_redstone_torch","redstone_torch","stone_button","snow_layer","ice","cactus","soul_sand","clay","cake","jukebox","pumpkin","netherrack","glowstone","unpowered_repeater","fence","lit_pumpkin","monster_egg","trapdoor","powered_repeater","vine","brown_mushroom_block","red_mushroom_block","stonebrick","iron_bars","glass_pane","melon_block","fence_gate","brick_stairs","brewing_stand","mob_spawner","end_stone","activator_rail","dragon_egg","cauldron","end_portal_frame","dropper","sandstone_stairs","emerald_ore","ender_chest","flower_pot","birch_stairs","tripWire","cobblestone_wall","tripwire_hook","emerald_block","spruce_stairs","jungle_stairs","wooden_button","skull","anvil","trapped_chest","stained_hardened_clay","stained_glass_pane","acacia_stairs","dark_oak_stairs","unpowered_comparator","hopper","quartz_block","quartz_stairs","powered_comparator","daylight_detector","redstone_block","log2","slime","iron_trapdoor","coal_block","prismarine","hardened_clay","seaLantern","packed_ice","hay_block","wall_banner","carpet","standing_banner","spruce_fence_gate","red_sandstone_stairs","red_sandstone","birch_fence_gate","jungle_fence_gate","dark_oak_door","grass_path","spruce_door","jungle_door","acacia_door","birch_door","dark_oak_fence_gate","acacia_fence_gate","chorus_flower","purpur_block","purpur_stairs","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","shulker_box","purple_glazed_terracotta","orange_glazed_terracotta","white_glazed_terracotta","magenta_glazed_terracotta","green_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","gray_glazed_terracotta","lime_glazed_terracotta","cyan_glazed_terracotta","blue_glazed_terracotta","light_blue_glazed_terracotta","yellow_glazed_terracotta","brown_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","concretePowder","chorus_plant","concrete","stained_glass","observer","stonecutter_block","dark_prismarine_stairs","prismarine_stairs","prismarine_bricks_stairs","coral","coral_block","coral_fan","coral_fan_dead","acacia_button","kelp","dark_oak_trapdoor","jungle_trapdoor","dried_kelp_block","spruce_button","dark_oak_button","birch_trapdoor","seagrass","birch_button","jungle_button","acacia_trapdoor","spruce_trapdoor","bamboo","scaffolding","sea_pickle","turtle_egg","carved_pumpkin","barrier","granite_stairs","diorite_stairs","andesite_stairs","polished_granite_stairs","polished_diorite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","end_brick_stairs","normal_stone_stairs","jungle_standing_sign","smooth_quartz_stairs","polished_andesite_stairs","smooth_stone","mossy_cobblestone_stairs","smooth_sandstone_stairs","red_nether_brick_stairs","spruce_standing_sign","spruce_wall_sign","birch_standing_sign","birch_wall_sign","jungle_wall_sign","acacia_pressure_plate","stone_pressure_plate","wooden_pressure_plate","light_weighted_pressure_plate","heavy_weighted_pressure_plate","birch_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","spruce_pressure_plate"],Count:1b,Damage:0s,Name:"minecraft:chest",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cGold Â§aFarm"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~-6 ~ ~-19 ~5 ~13 ~-10 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~13 ~-10 ~22 ~42 ~-18 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~-2 ~-18 ~-3 ~-1 ~-10 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~-1 ~-14 ~-2 ~1 ~-16 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~-1 ~-14 ~2 ~1 ~-16 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~ ~-18 ~-2 ~1 ~-17 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~ ~-17 ~-1 ~1 ~-17 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-14 ~1 ~ ~-16 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~2  ~-16 ~2 ~2  ~-14 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~3 ~-13 ~-3 ~ ~-11 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~ ~-11 ~2 ~2 ~-11 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~21 ~14 ~-14 ~-3 ~19 ~-12 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~7 ~-12 ~-3 ~19 ~-15 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~7 ~-14 ~-1 ~19 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-11 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-11 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~19 ~-15 ~ ~9 ~-15 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~23 ~-15 ~ ~21 ~-17 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~21 ~-16 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~21 ~-16 ~5 ~22 ~-16 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~20 ~-16 ~20 ~20 ~-16 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~21 ~41 ~-14 ~-1 ~19 ~-14 obsidian",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~20 ~40 ~-14 ~ ~20 ~-14 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~ ~-13 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~20 ~17 ~-13 ~15 ~19 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~14 ~16 ~-13 ~8 ~19 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~15 ~-13 ~ ~19 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~3 ~-15 ~-2 ~3 ~-14 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~5 ~-17 ~5 ~6 ~-10 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~4 ~-11 ~-4 ~4 ~-16 gold_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~4 ~-12 ~-3 ~4 ~-15 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~6 ~-14 ~-2 ~5 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~6 ~-13 ~3 ~6 ~-14 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~1 ~-18 ~2 ~1 ~-18 polished_blackstone_brick_stairs 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-12 ~1 ~1 ~-12 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~2 ~-17 ~2 ~2 ~-17 polished_blackstone_brick_stairs 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~3 ~-16 ~-4 ~3 ~-11 polished_blackstone_brick_stairs 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~3 ~-16 ~3 ~3 ~-16 polished_blackstone_brick_stairs 6",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~3 ~-16 ~4 ~3 ~-11 polished_blackstone_brick_stairs 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~5 ~-17 ~5 ~5 ~-17 polished_blackstone_brick_stairs 6",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~5 ~-16 ~-5 ~5 ~-11 polished_blackstone_brick_stairs 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~5 ~-10 ~2 ~5 ~-10 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~5 ~-15 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~5 ~-10 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~5 ~5 ~-16 ~5 ~5 ~-10 polished_blackstone_brick_stairs 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~6 ~-13 polished_blackstone_brick_stairs 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~6 ~-15 ~3 ~6 ~-15 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~6 ~-12 ~3 ~6 ~-12 polished_blackstone_brick_stairs 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~6 ~-14 ~4 ~6 ~-13 polished_blackstone_brick_stairs ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~4 ~-15 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~-1 ~-16 ~1 ~-1 ~-16 unpowered_repeater 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~-1 ~-14 ~1 ~-1 ~-14 redstone_torch 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-17 ~1 ~ ~-17 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-13 ~1 ~ ~-13 hopper 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-12 ~1 ~ ~-11 chest 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~ ~-10 ~3 ~6 ~-10 ladder 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-16 ~1 ~1 ~-16 redstone_wire 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-15 ~1 ~1 ~-15 redstone_wire 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-14 ~1 ~1 ~-14 unpowered_comparator 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-13 ~1 ~1 ~-13 hopper 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~2 ~-13 ~1 ~2 ~-13 hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-13 dropper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~3 ~-15 ~2 ~3 ~-13 redstone_wire ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~4 ~-15 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~5 ~-13 piston 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~5 ~-15 piston 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~5 ~-12 piston 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~5 ~-15 observer 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~5 ~-14 piston 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~6 ~-15 redstone_torch 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~6 ~-14 observer 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~6 ~-12 redstone_torch 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~6 ~-12 observer 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~6 ~-15 observer 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~6 ~-15 unlit_redstone_torch 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~6 ~-13 observer 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~6 ~-12 redstone_torch 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~6 ~-14 lever 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~7 ~-12 dark_oak_door 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~9 ~-15 lever 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~10 ~-15 unlit_redstone_torch 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~12 ~-15 redstone_torch 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~14 ~-15 unlit_redstone_torch 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~16 ~-15 redstone_torch 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~18 ~-15 unlit_redstone_torch 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~19 ~-16 sticky_piston 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~20 ~-16 observer 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~20 ~20 ~-15 dispenser 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~21 ~-16 ~5 ~21 ~-16 observer 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~21 ~-16 ~20 ~21 ~-16 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~20 ~21 ~-15 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~22 ~-15 ~5 ~22 ~-15 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~5 ~23 ~-16 ~1 ~23 ~-16 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~7 ~-14 polished_blackstone_brick_slab 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~7 ~-17 ~5 ~7 ~-17 polished_blackstone_brick_wall ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~7 ~-16 ~-5 ~7 ~-10 polished_blackstone_brick_wall ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~7 ~-10 ~2 ~7 ~-10 polished_blackstone_brick_wall ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~7 ~-10 ~5 ~7 ~-10 polished_blackstone_brick_wall ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~5 ~7 ~-16 ~5 ~7 ~-10 polished_blackstone_brick_wall ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~8 ~-10 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~8 ~-10 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~8 ~-17 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~8 ~-17 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~1 ~-13 lava",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~3 ~22 ~-16 flowing_lava",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~20 ~17 ~-13 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~4 ~-14 dispenser 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~4 ~-15 dispenser 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~4 ~-14 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-1 ~4 ~-15 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~20 ~20 ~-15 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~3 ~-14 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~3 ~-15 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~3 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon hopper_minecart Hoppy ~-2 ~3 ~-13",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-1 ~1 ~-13 slot.container 1 stone 41",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~1 ~-13 slot.container 1 stone 41",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~1 ~-13 slot.container 1 stone 41",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-1 ~1 ~-13 slot.container 2 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~1 ~-13 slot.container 2 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~1 ~-13 slot.container 2 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-1 ~1 ~-13 slot.container 3 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~1 ~-13 slot.container 3 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~1 ~-13 slot.container 3 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-1 ~1 ~-13 slot.container 4 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~1 ~-13 slot.container 4 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~1 ~-13 slot.container 4 stone 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-1 ~1 ~-13 slot.container 0 rotten_flesh 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~1 ~-13 slot.container 0 gold_nugget 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~1 ~-13 slot.container 0 gold_ingot 1",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Gold FarmÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dGoldÂ§aFarm",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:trident",Slot:1b,WasPickedUp:0b,tag:{Damage:0,RepairCost:1,display:{Name:"Â§eGold Farm"},ench:[{id:29s,lvl:5s}]}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:2b,WasPickedUp:0b,tag:{display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cHello!"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:3b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cPiglin Â§aBarter"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~-8 ~ ~-16 ~7 ~6 ~-7 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~-1 ~-14 ~5 ~4 ~-9 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~3 ~-9 ~-2 ~ ~-10 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~4 ~-9 ~-2 ~4 ~-9 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~3 ~-10 ~-2 ~3 ~-10 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~ ~-10 ~3 ~ ~-10 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~1 ~-10 ~3 ~2 ~-10 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~ ~-11 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~ ~-11 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~ ~-11 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~1 ~-11 carpet 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-11 carpet 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~1 ~-11 carpet 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-11 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-11 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-11 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~ ~-8 ~-6 ~4 ~-8 ladder 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~1 ~-10 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~ ~-13 redstone_wire 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~ ~-11 unlit_redstone_torch 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~ ~-12 unlit_redstone_torch 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~1 ~-12 powered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~1 ~-10 powered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~1 ~-8 lever 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~1 ~-11 sticky_piston 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~1 ~-10 piston_head 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~1 ~-9 gold_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~2 ~-9 unlit_redstone_torch 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-13 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-12 dispenser 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-13 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-12 dispenser 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-13 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-12 dispenser 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~2 ~-13 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-12 ~-3 ~2 ~-12 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-12 ~-5 ~3 ~-10 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~3 ~-13 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~3 ~-13 ~3 ~3 ~-13 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~3 ~-12 ~2 ~3 ~-12 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~3 ~-13 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~4 ~-13 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~4 ~-13 ~4 ~4 ~-13 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~4 ~-12 ~2 ~4 ~-12 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~5 ~-13 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~3 ~-12 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~1 ~-9 chiseled_polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~2 ~-9 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~3 ~-9 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~4 ~1 ~-9 ~4 ~3 ~-9 ~-3 ~1 ~-9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-4 ~3 ~-13 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~-2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~ ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~-2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~ ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~-2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~ ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~-2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~ ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon piglin Piggy ~2 ~1 ~-11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-4 ~5 ~-13 slot.container 0 gold_ingot 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-4 ~5 ~-13 slot.container 1 gold_ingot 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-4 ~5 ~-13 slot.container 2 gold_ingot 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-4 ~5 ~-13 slot.container 3 gold_ingot 64",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Piglin BarterÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dPiglinÂ§aBarter",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:4b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cHow was your day?"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:5b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cFishing Â§aFarm"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~-6 ~-1 ~-3 ~6 ~6 ~-17 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~-1 ~-3 ~6 ~-1 ~-17 grass",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~-1 ~-9 ~3 ~-1 ~-15 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~4 ~-9 ~3 ~4 ~-15 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-9 ~3 ~3 ~-15 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~ ~-9 ~3 ~4 ~-9 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-9 ~-4 ~4 ~-9 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~ ~-15 ~3 ~4 ~-15 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-15 ~-4 ~4 ~-15 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~ ~-10 ~-3 ~4 ~-14 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~ ~-9 ~ ~3 ~-9 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~4 ~-9 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~4 ~-8 spruce_wall_sign 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~3 ~-9 dispenser 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~3 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-9 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-8 ~-1 ~3 ~-8 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~2 ~-8 ~1 ~3 ~-8 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~1 ~-8 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~ ~-8 ~2 ~ ~-8 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~ ~-8 hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~ ~-7 ~ ~2 ~-5 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-5 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~ ~-4 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-5 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-6 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~3 ~-7 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~5 ~-7 ~ ~5 ~-8 polished_blackstone_brick_slab 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-8 spruce_wall_sign 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon hopper_minecart ~ ~1 ~-8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-8 flowing_lava",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon cod puchi ~ ~1 ~-12",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon cod puchi ~ ~1 ~-12",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon cod puchi ~ ~1 ~-12",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Fishing FarmÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dFishingÂ§aFarm",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:fishing_rod",Slot:6b,WasPickedUp:0b,tag:{Damage:0,RepairCost:3,display:{Name:"Â§bFishin' rod"},ench:[{id:23s,lvl:3s},{id:24s,lvl:3s}]}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:7b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cSubscribe to Amayori30!"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:8b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cMob Â§aFarm"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~2 ~ ~-12 ~-3 ~ ~-19 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~1 ~-13 ~2 ~4 ~-13 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~1 ~-19 ~2 ~4 ~-18 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~5 ~-11 ~-3 ~5 ~-21 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~1 ~-18 ~1 ~3 ~-18 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~6 ~-16 ~-3 ~9 ~-21 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~7 ~-16 ~-1 ~8 ~-16 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~7 ~-19 ~ ~8 ~-18 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~6 ~-17 ~-2 ~6 ~-20 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~5 ~-19 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~13 ~9 ~-20 ~-15 ~12 ~-17 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~9 ~-18 ~8 ~9 ~-19 magma",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~10 ~-18 ~8 ~10 ~-19 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-14 ~11 ~-19 ~12 ~12 ~-18 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~9 ~-18 ~ ~9 ~-19 coral_fan_hang2 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~9 ~-18 ~-1 ~9 ~-19 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-14 ~11 ~-18 ~-14 ~11 ~-19 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~12 ~11 ~-18 ~12 ~11 ~-19 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-15 ~13 ~-28 ~13 ~38 ~-9 tinted_glass 0 hollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~12 ~13 ~-27 ~-14 ~13 ~-10 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~12 ~14 ~-27 ~-14 ~14 ~-10 scaffolding",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-14 ~15 ~-10 ~12 ~15 ~-10 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-14 ~15 ~-27 ~12 ~15 ~-27 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~12 ~14 ~-18 ~-14 ~13 ~-19 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~12 ~13 ~-27 ~-14 ~15 ~-10 ~-14 ~16 ~-27",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~12 ~13 ~-27 ~-14 ~18 ~-10 ~-14 ~19 ~-27",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~12 ~13 ~-27 ~-14 ~24 ~-10 ~-14 ~25 ~-27",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-11 ~ ~ ~-11 polished_blackstone_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~1 ~-17 ~-3 ~1 ~-12 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~1 ~-12 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-18 ~ ~3 ~-18 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~1 ~-19 ~ ~3 ~-19 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~1 ~-13 ~1 ~5 ~-13 ladder 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~1 ~-12 ~2 ~1 ~-12 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~1 ~-17 ~2 ~1 ~-14 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~4 ~-18 ~1 ~4 ~-18 polished_blackstone_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~4 ~-19 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~6 ~-15 ~-3 ~6 ~-11 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~6 ~-20 redstone_torch 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~6 ~-19 observer 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~6 ~-17 redstone_torch 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~6 ~-11 ~2 ~6 ~-11 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~6 ~-17 observer 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~6 ~-16 polished_blackstone_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~6 ~-20 observer 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~6 ~-16 lever 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~6 ~-20 redstone_torch 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~6 ~-18 observer 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~6 ~-17 unlit_redstone_torch 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~6 ~-15 ~2 ~6 ~-11 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~7 ~-18 piston 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~7 ~-20 piston 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~7 ~-17 trapdoor 10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~7 ~-17 piston 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~7 ~-16 polished_blackstone_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~7 ~-19 piston 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~7 ~-18 polished_blackstone_stairs",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~8 ~-17 dispenser",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~8 ~-18 dispenser",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~8 ~-17 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~8 ~-18 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon hopper_minecart Hoppy ~ ~5 ~-19",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~12 ~13 ~-18 ~-14 ~13 ~-18 coral_fan_hang2 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-17 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~2 ~-17 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~2 ~-12 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-12 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~7 ~-15 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~7 ~-15 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~7 ~-11 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~7 ~-11 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~8 ~-17 redstone_block",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Hostile Mob FarmÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dHostileÂ§6MobÂ§aFarm",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:trident",Slot:9b,WasPickedUp:0b,tag:{Damage:0,RepairCost:1,display:{Name:"Â§cMob Farm"},ench:[{id:29s,lvl:5s}]}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:10b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cJoin Discord!"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:11b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cCreeper Â§aFarm"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~-3 ~ ~-8 ~2 ~ ~-19 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~ ~-14 ~ ~ ~-15 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~1 ~-14 ~2 ~4 ~-19 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~1 ~-18 ~-2 ~1 ~-15 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~ ~-17 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~2 ~-17 ~-1 ~4 ~-17 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~10 ~-18 ~-2 ~5 ~-15 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~17 ~14 ~-34 ~-18 ~10 ~1 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~8 ~11 ~-25 ~-9 ~11 ~-8 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-16 ~12 ~-1 ~15 ~12 ~-32 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~2 ~-17 ~ ~10 ~-16 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~16 ~13 ~-33 ~-17 ~14 ~ air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-17 ~13 ~ stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-17 ~13 ~-33 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~16 ~13 ~ stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~16 ~13 ~-33 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-17 ~14 ~ flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-17 ~14 ~-33 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~16 ~14 ~ flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~16 ~14 ~-33 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-17 ~13 ~-2 ~-17 ~13 ~-31 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-15 ~13 ~-33 ~14 ~13 ~-33 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~16 ~13 ~-31 ~16 ~13 ~-2 flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~14 ~13 ~ ~-15 ~13 ~ flowing_water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~-1 ~-17 ~ ~-1 ~-16 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~-1 ~-15 ~ ~-1 ~-14 chest 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-7 ~ ~ ~-7 polished_blackstone_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~1 ~-13 ~-3 ~1 ~-8 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~1 ~-18 redstone_torch 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~1 ~-17 observer 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~1 ~-15 redstone_torch 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~1 ~-8 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~1 ~-15 observer 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~1 ~-14 polished_blackstone_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-18 observer 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-14 lever 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~1 ~-18 redstone_torch 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~1 ~-16 observer 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~1 ~-15 unlit_redstone_torch 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~1 ~-8 ~2 ~1 ~-8 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~1 ~-13 ~2 ~1 ~-8 polished_blackstone_wall",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-16 piston 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~2 ~-18 piston 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-1 ~2 ~-15 trapdoor 10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-15 piston 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~2 ~-14 polished_blackstone_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~2 ~-17 piston 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~2 ~-16 polished_blackstone_stairs",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~3 ~-15 dispenser",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~3 ~-16 dispenser",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~ ~3 ~-15 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~1 ~3 ~-16 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~3 ~-15 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon hopper_minecart Hoppy ~ ~ ~-17",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-17 ~15 ~ ~16 ~36 ~-33 tinted_glass 0 hollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~2 ~-14 ~-1 ~3 ~-14 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-16 ~33 ~-1 ~-13 ~33 ~-32 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-16 ~35 ~-1 ~-13 ~35 ~-32 trapdoor 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-31 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-29 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-27 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-25 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-23 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-21 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-19 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-17 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-15 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-13 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-11 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-9 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-7 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-5 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-3 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~35 ~-1 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-31 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-29 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-27 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-25 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-23 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-21 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-19 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-17 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-15 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-13 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-11 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-9 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-7 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-5 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-3 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-15 ~33 ~-1 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-15 ~33 ~-31 ~-15 ~35 ~-1 ~-13 ~33 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~33 ~-1 ~-13 ~35 ~-32 ~-16 ~30 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-32 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-30 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-28 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-26 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-24 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-22 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-20 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-18 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-16 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-14 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-12 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-10 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-8 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-6 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-4 wooden_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-16 ~34 ~-2 wooden_button 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~34 ~-2 ~-16 ~34 ~-32 ~-14 ~34 ~-31",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~34 ~-2 ~-16 ~34 ~-32 ~-16 ~31 ~-31",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~34 ~-2 ~-16 ~34 ~-32 ~-14 ~31 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~30 ~-32 ~-13 ~35 ~-1 ~-12 ~30 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~30 ~-32 ~-9 ~35 ~-1 ~-8 ~30 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~30 ~-32 ~-1 ~35 ~-1 ~ ~30 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~30 ~-32 ~15 ~35 ~-1 ~-16 ~24 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~30 ~-32 ~15 ~35 ~-1 ~-16 ~18 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-16 ~33 ~-32 ~15 ~35 ~-1 ~-16 ~15 ~-32",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~2 ~-8 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~2 ~-13 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-13 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-8 lantern",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Creeper FarmÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dCreeperÂ§aFarm",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:trident",Slot:12b,WasPickedUp:0b,tag:{Damage:0,RepairCost:1,display:{Name:"Â§2Creeper Farm"},ench:[{id:29s,lvl:5s}]}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§chttps://dsc.gg/amayorigang"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:14b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cEnderman Â§aFarm"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~2 ~-1 ~-111 ~-2 ~-1 ~-105 leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~ ~-111 ~-2 ~35 ~-107 polished_blackstone 0 hollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~35 ~-118 ~9 ~35 ~-100 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-10 ~37 ~-119 ~10 ~37 ~-99 polished_blackstone_slab",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~37 ~-118 ~9 ~37 ~-100 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~35 ~-110 ~1 ~35 ~-108 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~38 ~-109 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~40 ~-109 polished_blackstone_slab",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~39 ~-116 ~7 ~39 ~-102 polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~41 ~-116 ~7 ~41 ~-102 leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~7 ~39 ~-116 ~7 ~41 ~-102 ~4 ~39 ~-116",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~7 ~39 ~-116 ~4 ~41 ~-102 ~-7 ~39 ~-116",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~ ~-110 ~-1 ~ ~-108 polished_blackstone_slab",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-107 ~1 ~1 ~-107 polished_blackstone_slab 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-107 ~1 ~ ~-107 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~34 ~-111 ~1 ~3 ~-107 stained_glass 15 replace polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~34 ~-108 ~-2 ~3 ~-110 stained_glass 15 replace polished_blackstone",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~35 ~-110 ~-1 ~35 ~-108 trapdoor 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~35 ~-110 ~1 ~35 ~-108 trapdoor 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~35 ~-110 trapdoor 10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~35 ~-108 trapdoor 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~1 ~-1 ~-106 ~1 ~-1 ~-107 chest 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~1 ~-1 ~-108 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~-1 ~-109 ~1 ~-1 ~-110 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~-1 ~-108 ~ ~-1 ~-108 hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon minecart Miney ~ ~39 ~-109",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon endermite Emity ~ ~39 ~-109",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~1 ~-106 ~2 ~1 ~ leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~1 ~-106 ~-2 ~1 ~ leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~ ~ leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~ ~ leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~-1 ~-104 ~1 ~-1 ~ leaves 8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Enderman FarmÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dEndermanÂ§aFarm",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:15b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cFollow video instructions!"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:16b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cVillager Â§5Trading Â§aHall"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/kill @e[type=villager,r=30]",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/kill @e[type=zombie,r=30]",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/kill @e[type=zombie_villager,r=30]",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~9 ~3 ~-21 ~-9 ~-1 ~-5 polished_blackstone_bricks 0 hollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~9 ~-3 ~-21 ~-9 ~-2 ~-5 dirt",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~1 ~-5 ~6 ~3 ~-21 stained_glass 15 replace polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~ ~-5 ~2 ~3 ~-5 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-5 ~1 ~2 ~-5 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-6 ~-7 ~2 ~-20 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-6 ~-7 ~1 ~-6 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-8 ~-7 ~1 ~-8 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-10 ~-7 ~1 ~-10 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-12 ~-7 ~1 ~-12 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-14 ~-7 ~1 ~-14 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-16 ~-7 ~1 ~-16 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-18 ~-7 ~1 ~-18 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-20 ~-7 ~1 ~-20 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~1 ~-6 ~-7 ~1 ~-20 dark_oak_trapdoor 4 keep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-7 ~-2 ~-6 sticky_piston 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-7 ~-1 ~-6 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~-3 ~-6 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~-2 ~-6 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~-1 ~-6 sticky_piston",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~ ~-6 polished_blackstone_button 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-12",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-14",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-16",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-18",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~-3 ~-6 ~-6 ~ ~-6 ~-7 ~-3 ~-20",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~-6 ~-8 ~ ~-20 flowing_water 0 keep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-6 ~ ~-20 ~-6 ~-3 ~-6 ~6 ~-3 ~-20",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~2 ~-20 ~-7 ~-3 ~-6 ~7 ~-3 ~-20",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-8 ~2 ~-20 ~-8 ~ ~-6 ~8 ~ ~-20",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-6 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-8 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-10 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-12 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-14 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-16 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-18 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~-8 ~ ~-20 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-6 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-8 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-10 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-12 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-14 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-16 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-18 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~8 ~ ~-20 minecraft:become_unskilled Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~2 ~-16 ~2 ~-1 ~-14 polished_blackstone_bricks 0 hollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~1 ~-14 ~-2 ~1 ~-16 dark_oak_trapdoor 4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~-15 ~1 ~1 ~-15 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-14 piston 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~1 ~-13 lever 11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon villager ~1 ~ ~-15 minecraft:become_unskilled Expendable_Orphan",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon zombie ~-1 ~ ~-15 minecraft:as_adult Zombie",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~ ~-17 bed 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~ ~-14 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 0 golden_apple 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 1 golden_apple 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 2 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 3 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 4 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 5 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 6 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 7 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 8 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 9 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 10 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 11 splash_potion 1 35",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 26 cartography_table 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 25 lectern 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 24 brewing_stand 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 23 composter 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 22 smithing_table 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 21 grindstone 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~2 ~ ~-14 slot.container 20 blast_furnace 64",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-13 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-13 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-6 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-6 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~2 ~-9 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~2 ~-13 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~2 ~-17 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-9 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-13 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-17 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~2 ~2 ~-17 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~2 ~-17 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~1 ~-6 ~-7 ~1 ~-20 air 0 replace polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~1 ~-6 ~7 ~1 ~-20 air 0 replace polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~ ~-6 ~-7 ~ ~-20 polished_blackstone_brick_stairs 1 replace polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~ ~-6 ~7 ~ ~-20 polished_blackstone_brick_stairs 0 replace polished_blackstone_bricks",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Villager Trading HallÂ§0.
+Make sure there are no villages or work stations nearby.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dVillagerÂ§1TradingÂ§aHall",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cLike the new Farms?"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:18b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cSuper Â§aSmelters"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cFurnace",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~8 ~ ~-5 ~-8 ~7 ~-12 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~4 ~-11 ~6 ~-1 ~-7 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~ ~-7 ~5 ~3 ~-7 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-8 ~5 ~1 ~-8 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~3 ~-7 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~3 ~-7 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~ ~-6 ~-7 ~4 ~-6 ladder 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-9 ~3 ~ ~-9 hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-8 ~3 ~ ~-8 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~ ~-9 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~ ~-8 ~5 ~ ~-8 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~1 ~-7 redstone_lamp",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-10 ~3 ~1 ~-10 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-9 ~3 ~1 ~-9 furnace 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-10 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-8 unpowered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-6 lever 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~2 ~-11 ~4 ~2 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~2 ~-10 ~4 ~2 ~-10 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-9 ~3 ~2 ~-9 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-8 ~5 ~2 ~-8 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~2 ~-10 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~2 ~-9 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~3 ~-10 ~-6 ~4 ~-10 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~3 ~-9 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-11 ~4 ~3 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-10 ~5 ~3 ~-10 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-9 ~4 ~3 ~-9 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~3 ~-8 ~4 ~3 ~-8 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~3 ~-9 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~4 ~-9 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~4 ~-10 ~5 ~4 ~-9 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~5 ~-10 ~-6 ~5 ~-9 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-6 ~3 ~-9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-6 ~2 ~-10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cSmoker",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~8 ~ ~-5 ~-8 ~7 ~-12 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~4 ~-11 ~6 ~-1 ~-7 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~ ~-7 ~5 ~3 ~-7 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-8 ~5 ~1 ~-8 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~3 ~-7 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~3 ~-7 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~ ~-6 ~-7 ~4 ~-6 ladder 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-9 ~3 ~ ~-9 hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-8 ~3 ~ ~-8 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~ ~-9 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~ ~-8 ~5 ~ ~-8 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~1 ~-7 redstone_lamp",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-10 ~3 ~1 ~-10 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-9 ~3 ~1 ~-9 smoker 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-10 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-8 unpowered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-6 lever 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~2 ~-11 ~4 ~2 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~2 ~-10 ~4 ~2 ~-10 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-9 ~3 ~2 ~-9 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-8 ~5 ~2 ~-8 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~2 ~-10 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~2 ~-9 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~3 ~-10 ~-6 ~4 ~-10 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~3 ~-9 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-11 ~4 ~3 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-10 ~5 ~3 ~-10 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-9 ~4 ~3 ~-9 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~3 ~-8 ~4 ~3 ~-8 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~3 ~-9 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~4 ~-9 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~4 ~-10 ~5 ~4 ~-9 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~5 ~-10 ~-6 ~5 ~-9 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-6 ~3 ~-9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-6 ~2 ~-10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cBlast Furnace",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~8 ~ ~-5 ~-8 ~7 ~-12 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~4 ~-11 ~6 ~-1 ~-7 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~ ~-7 ~5 ~3 ~-7 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-8 ~5 ~1 ~-8 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~3 ~-7 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~3 ~-7 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~ ~-6 ~-7 ~4 ~-6 ladder 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-9 ~3 ~ ~-9 hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~ ~-8 ~3 ~ ~-8 polished_blackstone_brick_stairs 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~ ~-9 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~ ~-8 ~5 ~ ~-8 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~1 ~-7 redstone_lamp",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-10 ~3 ~1 ~-10 hopper 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-9 ~3 ~1 ~-9 blast_furnace 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-10 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-8 unpowered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~2 ~-6 lever 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~2 ~-11 ~4 ~2 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~2 ~-10 ~4 ~2 ~-10 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-9 ~3 ~2 ~-9 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-8 ~5 ~2 ~-8 polished_blackstone_brick_stairs 7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~2 ~-10 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~2 ~-9 redstone_block",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~3 ~-10 ~-6 ~4 ~-10 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~3 ~-9 golden_rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-11 ~4 ~3 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-10 ~5 ~3 ~-10 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~3 ~-9 ~4 ~3 ~-9 rail 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~3 ~-8 ~4 ~3 ~-8 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~3 ~-9 golden_rail 9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~4 ~-9 hopper",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~4 ~-10 ~5 ~4 ~-9 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~5 ~-10 ~-6 ~5 ~-9 chest 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-6 ~3 ~-9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/summon chest_minecart Chesty ~-6 ~2 ~-10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Choose your smelter:
+Â§0Press the Â§cFurnace Â§0button to make basic furnace smelter.
+Â§0Press the Â§cSmoker Â§0button to make smelter for food items.
+Â§0Press the Â§cBlast Furnace Â§0button to make smelter for ore items.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dSuperÂ§aSmelters",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:19b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cComment your favourite farm!"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:20b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§cNether Â§5Warts Â§aFarm"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~-20 ~-3 ~12 ~ ~-1 ~-12 grass",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-20 ~1 ~12 ~ ~5 ~-12 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~ ~-12 ~-20 ~5 ~12 polished_blackstone_bricks 0 outline",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~5 ~9 ~-19 ~5 ~-9 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~ ~9 ~-5 ~ ~8 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~9 ~-5 ~1 ~9 dispenser 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~ ~ ~-5 ~ ~ water",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~ ~-9 ~-5 ~ ~-8 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~-9 ~-5 ~1 ~-9 dispenser 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~ ~-7 ~-5 ~ ~-1 soul_sand",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~ ~7 ~-5 ~ ~1 soul_sand",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~-1 ~12 ~-2 ~-1 ~-12 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~10 ~-5 ~1 ~10 unpowered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~-10 ~-5 ~1 ~-10 unpowered_repeater 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~2 ~10 ~-5 ~3 ~10 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~4 ~10 ~-5 ~4 ~10 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19.~2 ~-10 ~-5 ~3 ~-10 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~4 ~-10 ~-5 ~4 ~-10 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~11 ~-5 ~1 ~11 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~-11 ~-5 ~1 ~-11 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-20 ~2 ~-9 ~-20 ~3 ~9 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~-1 ~ ~-5 ~-1 ~ hopper 5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~2 ~-9 ~-5 ~2 ~-9 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~2 ~9 ~-5 ~2 ~9 lantern",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~1 ~-11 unpowered_repeater 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~1 ~11 unpowered_repeater 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~7 ~-5 ~1 ~1 nether_wart 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~1 ~-7 ~-5 ~1 ~-1 nether_wart 3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-19 ~4 ~ lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-4 ~ ~ polished_blackstone_brick_stairs 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-10 ~-4 ~4 ~10 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~-10 ~-4 ~3 ~-5 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~2 ~10 ~-4 ~3 ~5 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~-3 ~-4 ~3 ~-2 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~3 ~-4 ~3 ~2 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~1 ~ ~-4 ~2 ~ air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~ ~-3 ~ ~4 ~3 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~ ~4 ~ ~5 ~4 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~ ~-4 ~ ~5 ~-4 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~-1 ~4 ~ ~-1 ~-4 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~2 ~3 jungle_button 2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~5 ~3 ~ ~5 ~-3 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~-1 ~ ~-3 ~-1 ~ chest",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~1 ~5 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~2 ~5 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~1 ~11 ~-3 ~1 ~6 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~ ~5 ~-2 ~4 ~6 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~1 ~-5 ~-2 ~4 ~-6 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~-5 ~-1 ~5 ~-6 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~5 ~-1 ~5 ~6 polished_blackstone_bricks",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~ ~6 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~ ~5 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~-1 ~5 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~-1 ~4 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~-2 ~4 ~-2 ~-2 ~-1 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~-2 ~-2 unpowered_repeater",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-2 ~-2 ~-3 ~-2 ~-2 ~-4 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~-1 ~-4 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~-1 ~-5 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~ ~-5 air",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~ ~-6 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~1 ~-6 ~-3 ~1 ~-11 redstone_wire",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~5 ~-11 ~-3 ~5 ~-11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-19 ~5 ~11 ~-3 ~5 ~11 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~5 ~-11 ~-3 ~5 ~-5 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~5 ~11 ~-3 ~5 ~5 stained_glass 15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-19 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-18 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-17 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-16 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-15 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-14 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-13 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-12 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-11 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-10 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-9 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-8 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-7 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-6 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-5 ~1 ~-9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-19 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-18 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-17 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-16 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-15 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-14 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-13 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-12 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-11 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-10 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-9 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-8 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-7 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-6 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/replaceitem block ~-5 ~1 ~9 slot.container 0 water_bucket 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~4 ~-1 chain",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~3 ~-1 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~4 ~1 chain",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~3 ~1 lantern 1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~-1 ~-5 redstone_wire",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make Â§9Nether Warts FarmÂ§0.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dNetherÂ§6WartsÂ§aFarm",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cGood Luck Farmin'!"}}},{Count:1b,Damage:0s,Name:"minecraft:netherite_sword",Slot:22b,WasPickedUp:0b,tag:{Damage:0,RepairCost:1,display:{Name:"Â§5Â§oLootin'"},ench:[{id:14s,lvl:3s}],unbreakable:1b}},{Block:{name:"minecraft:stained_glass",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori30"],Name:"Â§cLight up the surrounding!"}}},{Block:{name:"minecraft:lantern",states:{hanging:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:lantern",Slot:24b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§eLight!"}}},{Block:{name:"minecraft:lantern",states:{hanging:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:lantern",Slot:25b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§eMore Light!"}}},{Block:{name:"minecraft:lantern",states:{hanging:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:lantern",Slot:26b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§eAnd More Light!"}}}],RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§bAmayori30Â§r"],Name:"Â§bInstant Â§aFarms Â§92.0"}}}

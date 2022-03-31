@@ -1,0 +1,406 @@
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt"],Count:64b,Damage:0s,Name:"minecraft:movingblock",WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§cAmayori30Â§r"],Name:"Â§5Villager Â§aTrade"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e[type=villager,r=30]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=zombie,r=30]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=zombie_villager,r=30]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~9\t~3\t~-21\t~-9\t~-1\t~-5\tstonebrick\t0\thollow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~9\t~-3\t~-21\t~-9\t~-2\t~-5\tdirt",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-6\t~1\t~-5\t~6\t~3\t~-21\tstained_glass\t0\treplace\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~\t~-5\t~2\t~3\t~-5\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~\t~-5\t~1\t~2\t~-5\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-6\t~-7\t~2\t~-20\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-6\t~-7\t~1\t~-6\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-8\t~-7\t~1\t~-8\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-10\t~-7\t~1\t~-10\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-12\t~-7\t~1\t~-12\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-14\t~-7\t~1\t~-14\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-16\t~-7\t~1\t~-16\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-18\t~-7\t~1\t~-18\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-20\t~-7\t~1\t~-20\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-7\t~1\t~-6\t~-7\t~1\t~-20\ttrapdoor\t4\tkeep",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-7\t~-2\t~-6\tsticky_piston\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-7\t~-1\t~-6\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~-3\t~-6\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~-2\t~-6\tredstone_block",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~-1\t~-6\tsticky_piston",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~\t~-6\tspruce_button\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-12",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-16",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-18",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~-3\t~-6\t~-6\t~\t~-6\t~-7\t~-3\t~-20",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~\t~-6\t~-8\t~\t~-20\tflowing_water\t0\tkeep",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-6\t~\t~-20\t~-6\t~-3\t~-6\t~6\t~-3\t~-20",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-7\t~2\t~-20\t~-7\t~-3\t~-6\t~7\t~-3\t~-20",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-8\t~2\t~-20\t~-8\t~\t~-6\t~8\t~\t~-20",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-6\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-8\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-10\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-12\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-14\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-16\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-18\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~-8\t~\t~-20\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-6\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-8\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-10\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-12\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-14\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-16\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-18\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~8\t~\t~-20\tminecraft:become_unskilled\tOrphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~2\t~-16\t~2\t~-1\t~-14\tstonebrick\t0\thollow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~1\t~-14\t~-2\t~1\t~-16\ttrapdoor\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~1\t~-15\t~1\t~1\t~-15\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~1\t~-14\tpiston\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~1\t~-13\tlever\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tvillager\t~1\t~\t~-15\tminecraft:become_unskilled\tExpendable_Orphan",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tzombie\t~-1\t~\t~-15\tminecraft:as_adult\tZombie",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-17\tbed\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-14\tchest\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t0\tgolden_apple\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t1\tgolden_apple\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t2\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t3\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t4\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t5\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t6\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t7\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t8\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t9\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t10\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t11\tsplash_potion\t1\t35",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t26\tcartography_table\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t25\tlectern\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t24\tbrewing_stand\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t23\tcomposter\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t22\tsmithing_table\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t21\tgrindstone\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tblock\t~2\t~\t~-14\tslot.container\t20\tblast_furnace\t64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/w\t@p\tÂ§eSubscribe.to.Â§aAmayori30.Â§c(YouTube).Â§efor.more.nbt!",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~2\t~-13\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~2\t~-13\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~2\t~-6\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~2\t~-6\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~2\t~-9\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~2\t~-13\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~2\t~-17\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~2\t~-9\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~2\t~-13\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~2\t~-17\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~2\t~-17\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~2\t~-17\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-7\t~1\t~-6\t~-7\t~1\t~-20\tair\t0\treplace\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~7\t~1\t~-6\t~7\t~1\t~-20\tair\t0\treplace\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-7\t~\t~-6\t~-7\t~\t~-20\tstone_brick_stairs\t1\treplace\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~7\t~\t~-6\t~7\t~\t~-20\tstone_brick_stairs\t0\treplace\tstonebrick",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill\t@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§5Villager Â§aTradeÂ§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"This nbt was made by Â§cAmayori30. Â§0Press the Â§cBuild Â§0button to make Â§9Villager TradeÂ§0. Make sure there are no villages/workstations nearby within 100 blocks when building this. Connect villagers to workstations, secure their trades and zombify/cure central villager as shown in my video(Farms2.0). Game needs to be kept on 'hard' mode to make this work. Press the Â§cKill Â§0button to kill the npc.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§dVillagerÂ§aTrade",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:6,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}}

@@ -1,0 +1,886 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"pink"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:lava",states:{liquid_depth:0},version:17879555},Count:48b,Damage:0s,Name:"minecraft:lava",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17879555},Count:1b,Damage:0s,Name:"minecraft:bee_nest",Slot:7b,WasPickedUp:0b,tag:{,ench:[{id:28s,lvl:1s}],Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-7 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-8 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-9 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-10 ~ ~1 ~-13 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-14 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-15 ~ ~1 ~-16 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-26 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-27 ~ ~1 ~-44 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-54 ~ ~1 ~-60 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-74 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-75 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-76 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-77 ~ ~1 ~-81 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-82 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-83 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-84 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-93 ~ ~1 ~-98 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-99 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-107 ~ ~1 ~-113 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-118 ~ ~1 ~-123 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-124 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-132 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-133 ~ ~1 ~-138 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-141 ~ ~2 ~-141 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-142 ~ ~1 ~-147 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-148 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-158 ~ ~1 ~-164 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-173 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-174 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-175 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-176 ~ ~1 ~-177 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-178 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-179 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-180 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-181 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-182 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-183 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-193 ~ ~1 ~-210 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~1 ~-211 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-215 ~ ~1 ~-226 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~1 ~-227 ~ ~1 ~-228 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-5 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-6 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-7 ~ ~7 ~-7 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-8 ~ ~6 ~-8 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-9 ~ ~5 ~-16 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-17 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-18 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-26 ~ ~22 ~-26 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-27 ~ ~22 ~-32 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-33 ~ ~5 ~-44 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-45 ~ ~6 ~-45 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-54 ~ ~17 ~-54 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-55 ~ ~22 ~-59 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-60 ~ ~18 ~-60 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-73 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-74 ~ ~7 ~-75 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-76 ~ ~5 ~-77 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-78 ~ ~4 ~-84 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-85 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-92 ~ ~22 ~-92 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-93 ~ ~22 ~-98 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-99 ~ ~9 ~-99 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-106 ~ ~9 ~-106 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-107 ~ ~9 ~-107 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-108 ~ ~22 ~-112 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-113 ~ ~22 ~-113 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-118 ~ ~22 ~-118 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-119 ~ ~22 ~-123 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-124 ~ ~12 ~-124 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-132 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-133 ~ ~22 ~-137 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-138 ~ ~22 ~-138 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-142 ~ ~2 ~-147 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-148 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-157 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-158 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-159 ~ ~14 ~-159 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-160 ~ ~12 ~-160 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-161 ~ ~9 ~-161 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-162 ~ ~7 ~-162 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-163 ~ ~4 ~-163 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-164 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-165 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-171 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-172 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-173 ~ ~8 ~-173 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-174 ~ ~7 ~-174 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-175 ~ ~5 ~-183 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-184 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-185 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-193 ~ ~22 ~-193 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-194 ~ ~22 ~-198 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-199 ~ ~6 ~-199 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-200 ~ ~5 ~-210 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-211 ~ ~5 ~-211 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-215 ~ ~22 ~-215 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-216 ~ ~22 ~-220 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-221 ~ ~6 ~-221 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~2 ~-222 ~ ~5 ~-228 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-229 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~2 ~-230 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-3 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-4 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-5 ~ ~21 ~-5 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-6 ~ ~11 ~-6 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-17 ~ ~13 ~-18 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-19 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-20 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-71 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-72 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-73 ~ ~7 ~-73 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-85 ~ ~13 ~-85 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-86 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-87 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-131 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-132 ~ ~10 ~-132 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-142 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-143 ~ ~5 ~-147 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-148 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-157 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-158 ~ ~17 ~-158 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-164 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-170 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-171 ~ ~21 ~-172 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-184 ~ ~13 ~-185 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-186 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-187 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~3 ~-229 ~ ~21 ~-230 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~3 ~-231 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-3 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-4 ~ ~20 ~-4 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-19 ~ ~13 ~-20 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-21 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-22 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-71 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-72 ~ ~7 ~-72 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-86 ~ ~12 ~-86 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-87 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-130 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-131 ~ ~11 ~-131 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-142 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-148 ~ ~18 ~-148 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-149 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-157 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-164 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-169 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-170 ~ ~20 ~-170 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-186 ~ ~13 ~-186 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-187 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-188 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~4 ~-231 ~ ~20 ~-231 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~4 ~-232 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-2 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-3 ~ ~19 ~-3 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-21 ~ ~13 ~-21 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-22 ~ ~13 ~-22 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-70 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-71 ~ ~7 ~-71 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-78 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-79 ~ ~5 ~-80 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-81 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-82 ~ ~5 ~-84 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-87 ~ ~11 ~-87 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-88 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-130 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-142 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-149 ~ ~5 ~-156 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-157 ~ ~19 ~-157 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-163 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-168 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-169 ~ ~19 ~-169 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-187 ~ ~13 ~-188 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-189 ~ ~13 ~-189 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~5 ~-232 ~ ~19 ~-232 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~5 ~-233 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-1 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-2 ~ ~18 ~-2 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-9 ~ ~6 ~-10 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-11 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-12 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-13 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-14 ~ ~6 ~-15 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-16 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-33 ~ ~6 ~-44 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-70 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-76 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-77 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-82 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-83 ~ ~14 ~-83 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-84 ~ ~13 ~-84 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-88 ~ ~10 ~-88 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-129 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-130 ~ ~13 ~-130 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-143 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-144 ~ ~7 ~-147 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-149 ~ ~20 ~-149 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-150 ~ ~9 ~-156 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-163 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-168 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-175 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-176 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-177 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-178 ~ ~6 ~-179 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-180 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-181 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-182 ~ ~6 ~-183 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-200 ~ ~6 ~-210 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-211 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-222 ~ ~6 ~-226 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-227 ~ ~6 ~-228 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~6 ~-233 ~ ~18 ~-233 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~6 ~-234 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-1 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-8 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-9 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-16 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-33 ~ ~9 ~-33 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-69 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-70 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-76 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-82 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-89 ~ ~9 ~-89 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-128 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-129 ~ ~14 ~-129 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-143 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-163 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-167 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-168 ~ ~17 ~-168 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-175 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-182 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-183 ~ ~13 ~-183 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-199 ~ ~10 ~-199 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~7 ~-221 ~ ~17 ~-221 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-226 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-227 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-228 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~7 ~-234 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-1 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-7 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-8 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-16 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-69 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~8 ~-70 ~ ~8 ~-73 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-74 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-75 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-82 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-128 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-143 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-144 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~8 ~-145 ~ ~10 ~-147 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-162 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~8 ~-167 ~ ~9 ~-167 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-174 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-227 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-228 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~8 ~-234 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-1 ~ ~15 ~-1 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-7 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-12 ~ ~13 ~-12 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-13 ~ ~9 ~-16 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-81 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-82 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-127 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-128 ~ ~16 ~-128 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-144 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-162 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-166 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-173 ~ ~10 ~-173 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-178 ~ ~13 ~-178 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-179 ~ ~9 ~-182 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-228 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~9 ~-234 ~ ~15 ~-234 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~9 ~-235 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-7 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-13 ~ ~13 ~-16 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-33 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-34 ~ ~10 ~-42 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-43 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-77 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-78 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-79 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-80 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-81 ~ ~14 ~-82 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-89 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-99 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-100 ~ ~10 ~-105 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-106 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-107 ~ ~15 ~-107 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-126 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-127 ~ ~17 ~-127 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-144 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-150 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-151 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-155 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-156 ~ ~22 ~-156 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-161 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-166 ~ ~14 ~-166 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-167 ~ ~14 ~-167 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-179 ~ ~13 ~-182 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~10 ~-200 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-201 ~ ~10 ~-209 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-228 ~ ~14 ~-228 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~10 ~-235 ~ ~14 ~-235 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-7 ~ ~13 ~-7 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-33 ~ ~14 ~-42 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-43 ~ ~14 ~-43 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-75 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-76 ~ ~16 ~-76 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-77 ~ ~15 ~-79 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-80 ~ ~14 ~-80 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-88 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-99 ~ ~14 ~-106 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-126 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-132 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-145 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-146 ~ ~13 ~-147 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-150 ~ ~22 ~-150 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-151 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-155 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~11 ~-161 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-173 ~ ~13 ~-173 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-199 ~ ~14 ~-209 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~11 ~-210 ~ ~14 ~-210 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-6 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-72 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-73 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-74 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~12 ~-75 ~ ~22 ~-75 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-87 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-88 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-125 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~12 ~-126 ~ ~19 ~-126 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-131 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-132 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-145 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-151 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-154 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~12 ~-155 ~ ~22 ~-155 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~12 ~-161 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~13 ~-6 ~ ~21 ~-6 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-71 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-72 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~13 ~-73 ~ ~21 ~-74 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-86 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-87 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-124 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~13 ~-125 ~ ~20 ~-125 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-131 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-145 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-151 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-154 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~13 ~-160 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-7 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-12 ~ ~14 ~-22 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-71 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-72 ~ ~20 ~-72 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-84 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-85 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-124 ~ ~21 ~-124 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-130 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-146 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-147 ~ ~15 ~-147 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-151 ~ ~22 ~-151 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-152 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-154 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~14 ~-160 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-173 ~ ~15 ~-173 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~14 ~-179 ~ ~14 ~-188 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-7 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-33 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-34 ~ ~15 ~-43 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-70 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-71 ~ ~19 ~-71 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-80 ~ ~15 ~-81 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-82 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-83 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-99 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-100 ~ ~15 ~-106 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-129 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-146 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-152 ~ ~16 ~-152 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-154 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-159 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-166 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-167 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-199 ~ ~18 ~-199 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~15 ~-200 ~ ~15 ~-209 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-228 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~15 ~-235 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-1 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-7 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-15 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-16 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-33 ~ ~17 ~-33 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-70 ~ ~18 ~-70 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-77 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-78 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-79 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-99 ~ ~22 ~-99 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-106 ~ ~22 ~-106 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-107 ~ ~22 ~-107 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-129 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-147 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-153 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-154 ~ ~22 ~-154 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-159 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-167 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~16 ~-173 ~ ~21 ~-173 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-174 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-182 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-183 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-228 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~16 ~-234 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-1 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-7 ~ ~22 ~-7 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-8 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-15 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-16 ~ ~22 ~-17 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-18 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-19 ~ ~17 ~-20 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-21 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-22 ~ ~18 ~-22 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-76 ~ ~18 ~-76 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-82 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-83 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-84 ~ ~17 ~-87 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-88 ~ ~18 ~-88 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-128 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-147 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-152 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-153 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-159 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-167 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-174 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-175 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-181 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-182 ~ ~22 ~-183 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-184 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-185 ~ ~17 ~-186 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-187 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-188 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-226 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-227 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~17 ~-228 ~ ~22 ~-228 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~17 ~-234 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-1 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-8 ~ ~22 ~-8 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-9 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-10 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-11 ~ ~18 ~-12 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-13 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-14 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-15 ~ ~22 ~-15 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-18 ~ ~21 ~-19 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-20 ~ ~19 ~-20 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-21 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-33 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-34 ~ ~18 ~-43 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-44 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-47 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-48 ~ ~18 ~-53 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-54 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-61 ~ ~18 ~-66 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-67 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-81 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-82 ~ ~22 ~-83 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-84 ~ ~21 ~-85 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-86 ~ ~20 ~-86 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-87 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-127 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-147 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-152 ~ ~22 ~-153 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-158 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-168 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-174 ~ ~22 ~-175 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-176 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-177 ~ ~18 ~-178 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-179 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-180 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-181 ~ ~22 ~-181 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-184 ~ ~21 ~-185 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-186 ~ ~20 ~-186 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-187 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-188 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-200 ~ ~18 ~-209 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-210 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-221 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-222 ~ ~18 ~-224 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-225 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~18 ~-226 ~ ~22 ~-227 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~18 ~-234 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-2 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-9 ~ ~22 ~-14 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-21 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-33 ~ ~22 ~-43 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-44 ~ ~22 ~-44 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-47 ~ ~22 ~-47 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-48 ~ ~22 ~-54 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-60 ~ ~22 ~-66 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-67 ~ ~22 ~-67 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-70 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-76 ~ ~22 ~-76 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-77 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-78 ~ ~19 ~-79 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-80 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-81 ~ ~22 ~-81 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-87 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-127 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-148 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-158 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-168 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-176 ~ ~22 ~-180 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-187 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-199 ~ ~22 ~-209 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-210 ~ ~22 ~-210 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~19 ~-221 ~ ~22 ~-225 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~19 ~-233 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-3 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-20 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-21 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-71 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~20 ~-77 ~ ~22 ~-80 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-87 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-126 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-148 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-157 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-158 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-169 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-187 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-232 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~20 ~-233 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-4 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-20 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-71 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-72 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-86 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-125 minecraft:wool 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-126 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-149 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-157 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-170 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-186 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-231 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~21 ~-232 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-5 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-6 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-18 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-19 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-73 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-74 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-84 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-85 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-124 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-125 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-149 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-157 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-171 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-172 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-173 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-184 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-185 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-229 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~22 ~-230 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-7 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-8 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-9 ~ ~23 ~-10 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-11 ~ ~23 ~-13 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-14 ~ ~23 ~-15 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-16 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-17 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-26 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-27 ~ ~23 ~-43 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-44 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-47 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-48 ~ ~23 ~-66 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-67 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-75 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-76 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-77 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-78 ~ ~23 ~-80 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-81 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-82 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-83 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-92 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-93 ~ ~23 ~-98 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-99 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-107 ~ ~23 ~-112 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-113 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-118 ~ ~23 ~-123 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-124 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-133 ~ ~23 ~-138 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-149 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-150 ~ ~23 ~-156 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-174 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-175 minecraft:magenta_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-176 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-177 ~ ~23 ~-179 minecraft:concrete 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-180 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-181 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-182 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-183 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-193 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-194 ~ ~23 ~-209 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-210 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~23 ~-215 ~ ~23 ~-226 minecraft:log 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~23 ~-227 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~44 ~-137 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~44 ~-138 ~ ~44 ~-141 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~44 ~-142 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-53 ~ ~61 ~-53 minecraft:wool 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-54 ~ ~65 ~-59 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-70 ~ ~65 ~-70 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-71 ~ ~65 ~-76 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-77 ~ ~65 ~-77 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-82 ~ ~65 ~-87 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-88 ~ ~49 ~-88 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-96 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-97 ~ ~56 ~-97 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-98 ~ ~54 ~-98 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-99 ~ ~52 ~-99 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-100 ~ ~51 ~-100 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-101 ~ ~49 ~-101 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-102 ~ ~47 ~-102 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-103 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-104 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-112 ~ ~60 ~-112 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-113 ~ ~65 ~-118 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-119 ~ ~60 ~-119 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-133 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-134 minecraft:clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-135 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-136 ~ ~49 ~-137 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-138 ~ ~48 ~-143 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-144 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-145 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-154 ~ ~66 ~-154 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-155 ~ ~65 ~-160 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-161 ~ ~50 ~-161 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-169 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-170 ~ ~55 ~-170 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-171 ~ ~54 ~-171 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-172 ~ ~52 ~-172 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-173 ~ ~50 ~-173 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-174 ~ ~49 ~-174 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-175 ~ ~47 ~-175 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~45 ~-176 ~ ~46 ~-176 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~45 ~-177 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-95 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~46 ~-96 ~ ~57 ~-96 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-103 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-132 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~46 ~-133 ~ ~64 ~-134 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~46 ~-135 ~ ~51 ~-135 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~46 ~-144 ~ ~51 ~-145 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-146 minecraft:concrete 3
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-147 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-168 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~46 ~-169 ~ ~65 ~-169 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~46 ~-177 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-95 minecraft:wool 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-103 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-131 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~47 ~-132 ~ ~63 ~-132 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~47 ~-146 ~ ~64 ~-146 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-147 minecraft:concrete 3
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-148 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-168 minecraft:clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~47 ~-176 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~48 ~-94 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~48 ~-95 ~ ~65 ~-95 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~48 ~-102 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~48 ~-130 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~48 ~-131 ~ ~62 ~-131 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~48 ~-147 ~ ~63 ~-147 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~48 ~-148 ~ ~62 ~-148 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~48 ~-149 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~48 ~-168 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~48 ~-175 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-94 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-102 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-129 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-130 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-138 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-139 minecraft:silver_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~49 ~-140 ~ ~49 ~-141 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~49 ~-142 ~ ~49 ~-143 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-149 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-167 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~49 ~-168 ~ ~65 ~-168 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~49 ~-175 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-88 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-89 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-93 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~50 ~-94 ~ ~64 ~-94 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-101 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-129 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~50 ~-130 ~ ~61 ~-130 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-136 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-137 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-142 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-143 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~50 ~-149 ~ ~61 ~-149 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-150 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-166 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~50 ~-167 ~ ~64 ~-167 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~50 ~-174 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~51 ~-88 ~ ~57 ~-88 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-89 minecraft:stained_hardened_clay 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-93 minecraft:wool 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-101 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-129 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-136 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-143 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~51 ~-150 ~ ~53 ~-150 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~51 ~-161 ~ ~58 ~-161 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-162 minecraft:concrete 3
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-166 minecraft:clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~51 ~-173 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-89 ~ ~58 ~-89 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-90 minecraft:stained_hardened_clay 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-91 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-92 minecraft:bone_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-93 ~ ~62 ~-93 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-100 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-128 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-129 ~ ~59 ~-129 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-135 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-143 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-144 ~ ~53 ~-144 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-145 ~ ~65 ~-145 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-162 ~ ~58 ~-162 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-163 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-165 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~52 ~-166 ~ ~62 ~-166 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~52 ~-173 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~53 ~-90 ~ ~59 ~-90 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~53 ~-91 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~53 ~-92 minecraft:wool 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~53 ~-99 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~53 ~-128 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~53 ~-135 ~ ~58 ~-135 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~53 ~-151 ~ ~54 ~-151 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~53 ~-163 ~ ~59 ~-163 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~53 ~-164 ~ ~53 ~-165 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~53 ~-172 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~54 ~-91 ~ ~60 ~-92 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~54 ~-99 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~54 ~-128 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~54 ~-144 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~54 ~-150 ~ ~57 ~-150 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~54 ~-164 ~ ~60 ~-165 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~54 ~-172 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~55 ~-98 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~55 ~-128 ~ ~56 ~-128 minecraft:clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~55 ~-144 ~ ~56 ~-144 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~55 ~-151 ~ ~56 ~-151 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~55 ~-171 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~56 ~-98 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~56 ~-170 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~57 ~-97 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~57 ~-128 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~57 ~-144 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~57 ~-151 ~ ~58 ~-151 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~57 ~-170 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~58 ~-88 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~58 ~-96 minecraft:stained_hardened_clay 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~58 ~-128 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~58 ~-144 ~ ~59 ~-144 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~58 ~-150 ~ ~60 ~-150 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~59 ~-88 ~ ~65 ~-88 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-89 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~59 ~-96 ~ ~65 ~-96 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-97 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-128 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-135 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-143 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~59 ~-161 ~ ~65 ~-161 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-162 minecraft:stone 4
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~59 ~-170 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-90 minecraft:wool 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~60 ~-97 ~ ~65 ~-97 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-98 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-129 minecraft:purpur_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~60 ~-135 ~ ~65 ~-135 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-136 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-143 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~60 ~-144 ~ ~65 ~-144 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-163 minecraft:clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~60 ~-170 ~ ~65 ~-170 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~60 ~-171 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-46 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-47 ~ ~61 ~-52 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-60 ~ ~61 ~-66 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-91 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-92 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-98 ~ ~65 ~-98 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-99 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-106 ~ ~61 ~-111 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-112 minecraft:clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-119 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-120 ~ ~61 ~-125 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-126 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-129 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-136 ~ ~65 ~-136 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-137 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-138 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-141 minecraft:concrete
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-142 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-143 ~ ~65 ~-143 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-150 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-164 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-165 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~61 ~-171 ~ ~65 ~-171 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~61 ~-172 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-46 ~ ~65 ~-46 minecraft:planks 2
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-47 ~ ~65 ~-53 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-60 ~ ~65 ~-65 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-66 ~ ~65 ~-66 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-91 minecraft:quartz_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-92 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-99 ~ ~65 ~-99 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-100 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-105 ~ ~66 ~-105 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-106 ~ ~65 ~-112 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-119 ~ ~65 ~-125 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-126 ~ ~66 ~-126 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-130 minecraft:stained_hardened_clay 3
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-137 ~ ~65 ~-142 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-149 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-165 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~62 ~-172 ~ ~65 ~-172 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~62 ~-173 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-92 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-93 minecraft:red_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~63 ~-100 ~ ~65 ~-100 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-101 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-130 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-131 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-148 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-165 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-166 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~63 ~-173 ~ ~65 ~-173 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~63 ~-174 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-93 minecraft:pink_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~64 ~-101 ~ ~65 ~-101 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-102 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-131 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-132 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-147 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-148 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-166 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~64 ~-174 ~ ~65 ~-174 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~64 ~-175 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-94 minecraft:stained_hardened_clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-102 minecraft:concrete 14
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-103 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-133 minecraft:purpur_pillar
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-134 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-146 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-167 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-175 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~65 ~-176 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-46 minecraft:stained_hardened_clay
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-47 ~ ~66 ~-66 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-70 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-71 ~ ~66 ~-76 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-77 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-82 ~ ~66 ~-87 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-88 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-95 minecraft:wool 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-96 ~ ~66 ~-103 minecraft:concrete 6
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-104 minecraft:quartz_block 1
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-106 ~ ~66 ~-125 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-134 minecraft:iron_block
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-135 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-136 ~ ~66 ~-137 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-138 ~ ~66 ~-141 minecraft:concrete 11
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-142 ~ ~66 ~-143 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-144 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-145 minecraft:wool
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-155 ~ ~66 ~-160 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-161 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-168 minecraft:packed_ice
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~ ~66 ~-169 ~ ~66 ~-176 minecraft:light_blue_glazed_terracotta
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~ ~66 ~-177 minecraft:concrete",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],display:{Lore:["by shnags"],Name:"super plug"}}}],RepairCost:0,display:{Name:"Â§lÂ§dSHNAGS BUILD NBT"}}}

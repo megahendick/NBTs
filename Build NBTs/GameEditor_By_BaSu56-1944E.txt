@@ -1,0 +1,74 @@
+{Count:64b,Damage:0s,Name:"bee_nest",tag:{ench:[{id:28s,lvl:1s}],Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Difficulty_H",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\th",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\th",
+      "type" : 1
+   },
+   {
+      "button_name" : "Difficulty_N",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tn",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\tn",
+      "type" : 1
+   },
+   {
+      "button_name" : "Difficulty_E",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\te",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\te",
+      "type" : 1
+   },
+   {
+      "button_name" : "Difficulty_P",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tp",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\tp",
+      "type" : 1
+   },
+    {
+      "button_name" : "GamemodeCAll",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "GamemodeSAll",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/gamemode\ts\t@a",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:0,CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"thanks for using my NBT!              Discord - backedsummer56#4657        Join The Server!  ~ Â§lÂ§5 3CZkWF7csQ",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:19,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],display:{Name:"Â§lÂ§5GameEditor by BaSu56"}}}

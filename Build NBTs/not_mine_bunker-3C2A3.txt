@@ -1,0 +1,570 @@
+{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},CanDestroy:["beehive"],CanPlaceOn:["grass"],Count:1b,Damage:0s,Name:"minecraft:beehive",WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~-10 ~ ~9 ~7 ~6 ~16 quartz_block 3 hollow ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~1 ~9 ~-9 ~5 ~9 glass_pane ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~1 ~16 ~-9 ~5 ~16 glass_pane ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~1 ~9 ~-9 ~1 ~16 smooth_quartz_stairs 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~1 ~9 ~6 ~1 ~16 smooth_quartz_stairs ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~1 ~9 ~6 ~1 ~16 ~-10 ~5 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-10 ~5 ~9 ~-10 ~5 ~16 ~-9 ~6 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-9 ~1 ~9 ~-9 ~1 ~16 ~7 ~5 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~7 ~5 ~9 ~7 ~5 ~16 ~6 ~6 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~6 ~9 ~7 ~6 ~16 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-10 ~6 ~9 ~-10 ~6 ~16 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~ ~9 ~7 ~ ~16 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-10 ~ ~9 ~-10 ~ ~16 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~5 ~9 ~6 ~5 ~16 smooth_quartz_stairs 4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~5 ~9 ~-9 ~5 ~16 smooth_quartz_stairs 5 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~5 ~9 ~6 ~5 ~16 ~-9 ~ ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~5 ~9 ~6 ~5 ~16 ~-10 ~1 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-9 ~5 ~9 ~-9 ~5 ~16 ~6 ~ ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-9 ~5 ~9 ~-9 ~5 ~16 ~7 ~1 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-10 ~ ~9 ~7 ~6 ~16 ~-10 ~14 ~9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~7 ~3 ~-10 ~13 ~21 quartz_block 3 hollow ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-10 ~8 ~4 ~-10 ~12 ~20 glass_pane ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~8 ~4 ~-4 ~12 ~20 glass_pane ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~8 ~20 ~-10 ~8 ~20 smooth_quartz_stairs 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~8 ~4 ~-10 ~8 ~4 smooth_quartz_stairs 3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~8 ~20 ~-10 ~8 ~20 ~-10 ~12 ~3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~8 ~20 ~-10 ~8 ~20 ~-10 ~13 ~4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~8 ~4 ~-10 ~8 ~4 ~-10 ~12 ~21 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~8 ~4 ~-10 ~8 ~4 ~-10 ~13 ~20 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~13 ~3 ~-10 ~13 ~3 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~13 ~21 ~-10 ~13 ~21 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~7 ~3 ~-10 ~7 ~3 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~7 ~21 ~-10 ~7 ~21 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~12 ~20 ~-10 ~12 ~20 smooth_quartz_stairs 6 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~12 ~4 ~-10 ~12 ~4 smooth_quartz_stairs 7 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~12 ~20 ~-10 ~12 ~20 ~-10 ~7 ~4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~12 ~20 ~-10 ~12 ~20 ~-10 ~8 ~3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~12 ~4 ~-10 ~12 ~4 ~-10 ~7 ~20 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-4 ~12 ~4 ~-10 ~12 ~4 ~-10 ~8 ~21 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~8 ~1 ~12 ~6 ~2 ~13 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~1 ~12 ~6 ~1 ~13 jungle_pressure_plate ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~ ~12 ~7 ~ ~13 quartz_block 3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~7 ~1 ~12 ~7 ~1 ~13 iron_door ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~8 ~ ~14 ~8 ~ ~11 smooth_quartz_stairs 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~7 ~ ~14 smooth_quartz_stairs 3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~7 ~ ~11 smooth_quartz_stairs 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~8 ~3 ~13 ~8 ~3 ~12 jungle_button 5 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~ ~11 ~3 ~ ~10 farmland 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~ ~15 ~3 ~ ~14 farmland 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~1 ~11 ~3 ~1 ~10 wheat 7 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~1 ~15 ~3 ~1 ~14 wheat 7 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~ ~13 ~-1 ~ ~12 water ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~1 ~13 ~-1 ~1 ~12 carpet ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~4 ~11 chain ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~3 ~11 lantern 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~4 ~11 ~6 ~3 ~11 ~6 ~3 ~14 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~4 ~11 ~6 ~3 ~11 ~-9 ~3 ~10 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~4 ~11 ~6 ~3 ~11 ~-9 ~3 ~15 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~7 ~16 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~7 ~15 ~-8 ~6 ~12 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~1 ~10 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~2 ~11 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~3 ~12 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~4 ~13 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~5 ~14 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~6 ~15 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~ ~14 ~-8 ~ ~11 grass ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~1 ~11 bamboo_sapling ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~1 ~12 ~-8 ~1 ~13 bamboo ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~2 ~12 bamboo 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~2 ~13 ~-8 ~3 ~13 bamboo 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~1 ~14 ~-8 ~2 ~14 bamboo 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~3 ~14 bamboo 3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~4 ~14 bamboo 5 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~14 ~12 ~-5 ~14 ~15 stone_slab4 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-8 ~ ~10 ~-8 ~7 ~15 ~-6 ~7 ~10 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~9 ~20 ~-9 ~9 ~20 smoker 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~8 ~20 ~-9 ~8 ~20 blast_furnace 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~8 ~20 ~-6 ~9 ~20 barrel 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-8 ~8 ~20 ~-8 ~9 ~20 barrel 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~10 ~20 ~-9 ~10 ~20 iron_trapdoor 4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-7 ~10 ~20 lantern ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~11 ~20 brewing_stand ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~11 ~20 stonecutter_block ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-8 ~11 ~20 anvil ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-9 ~11 ~20 grindstone 10 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~1 ~15 crafting_table ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~1 ~15 ~-8 ~2 ~15 chest 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~8 ~7 ~-5 ~9 ~4 bookshelf ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-9 ~10 ~7 ~-5 ~10 ~4 leaves 11 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-6 ~8 ~5 ~-8 ~10 ~7 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-7 ~11 ~6 ~-7 ~12 ~6 chain ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-7 ~10 ~6 lantern 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-7 ~10 ~6 ~-7 ~12 ~6 ~-7 ~10 ~15 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-7 ~8 ~6 enchanting_table ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-1 ~20 ~11 ~-5 ~20 ~14 glass ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-5 ~8 ~8 ~-6 ~8 ~9 carpet 8 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~8 ~9 carpet 7 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-6 ~8 ~8 carpet 7 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-5 ~8 ~8 ~-6 ~8 ~9 ~-8 ~8 ~8 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-5 ~8 ~8 ~-5 ~8 ~9 ~-9 ~8 ~8 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-5 ~8 ~9 ~-9 ~8 ~8 ~-9 ~8 ~17 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~3 ~14 ~6 ~4 ~11 ~-9 ~17 ~11 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~18 ~11 ~6 ~18 ~14 barrel 4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~6 ~19 ~10 ~6 ~19 ~15 barrel 4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~16 ~14 end_rod ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~6 ~17 ~14 chain ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~6 ~16 ~14 ~6 ~17 ~14 ~6 ~16 ~11 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~3 ~15 ~11 ~5 ~15 ~14 carpet 7 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~15 ~13 bed 3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~5 ~15 ~12 bed 3 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~15 ~10 ~ ~15 ~15 composter ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~16 ~15 ~ ~17 ~10 leaves 11 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~ ~15 ~13 ~ ~17 ~12 air ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§cMade By Â§bAmayori ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/w @p Â§eSubscribe to Amayori30 for more House nbt ! ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-5 ~8 ~8 ~-6 ~8 ~9 ~-2 ~15 ~11 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone ~-5 ~8 ~8 ~-6 ~8 ~9 ~-2 ~15 ~13 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~15 ~10 ~-4 ~15 ~10 stone_slab4 9 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~15 ~10 smooth_quartz_stairs 4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~15 ~10 smooth_quartz_stairs 5 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~15 ~11 smooth_quartz_stairs 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-5 ~16 ~10 bell ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-2 ~16 ~10 end_rod 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~-3 ~16 ~10 polished_blackstone_pressure_plate ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~7 ~12 ~4 ~7 ~12 iron_trapdoor 4 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~4 ~8 ~12 ~4 ~13 ~12 chain ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~2 ~8 ~12 ~2 ~13 ~12 chain ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~ ~7 ~10 lantern ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock ~4 ~7 ~15 lantern ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~8 ~12 ~-4 ~10 ~15 glass ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-4 ~8 ~13 ~-4 ~8 ~14 jungle_door 2 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~7 ~15 ~-3 ~7 ~12 anvil ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~7 ~14 ~-3 ~7 ~13 smooth_quartz_stairs 1 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~8 ~15 ~-3 ~10 ~15 leaves 11 ",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill ~-3 ~8 ~12 ~-3 ~10 ~12 leaves 11",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"NPC",CustomNameVisible:1b,ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"This nbt was made by Â§1Amayori30
+Â§0Press the Â§cBuild Â§0button to make the 3 storey bunker house.
+Press the Â§cKill Â§0button to kill the npc.
+",InventoryVersion:"1.17.10",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[-0f,0f,-0f],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[39.4558f,4.35f,-91.5421f],RawtextName:"Â§dBunkerÂ§aHouse",Rotation:[-180f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-171798691839l,Variant:6,Version:15,definitions:["+minecraft:npc","+"],identifier:"minecraft:npc"},TicksLeftToStay:1}],display:{Lore:["Â§hMade By Â§bAmayori"],Name:"Â§cBunker Â§aHouse"}}}

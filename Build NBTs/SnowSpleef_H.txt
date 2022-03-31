@@ -1,0 +1,138 @@
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",CanPlaceOn:["sand","grass","dirt","stone"]WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["https://dsc.gg/nbt"],Name:"Snow Spleef"},movingBlock:{name:"minecraft:barrier",states:{},version:17760256},movingEntity:{CustomName:"Cow",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Build",
+      "data" : [
+         {
+            "cmd_line" : "gamerule sendcommandfeedback false",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "gamerule commandblockoutput false",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "tag @a[r=25] add SnowSpleef",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "gamemode s @a[tag=SnowSpleef]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "clear @a[tag=SnowSpleef]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "give @a[tag=SnowSpleef] golden_shovel 8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "give @a[tag=SnowSpleef] snowball 64",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~11 ~100 ~-7 ~-11 ~100 ~7 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~7 ~100 ~-11 ~-7 ~100 ~11 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~-9 ~100 ~-9 ~9 ~100 ~9 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~11 ~90 ~-7 ~-11 ~90 ~7 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~7 ~90 ~-11 ~-7 ~90 ~11 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~-9 ~90 ~-9 ~9 ~90 ~9 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~11 ~80 ~-7 ~-11 ~80 ~7 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~7 ~80 ~-11 ~-7 ~80 ~11 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~-9 ~80 ~-9 ~9 ~80 ~9 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~11 ~70 ~-7 ~-11 ~70 ~7 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~7 ~70 ~-11 ~-7 ~70 ~11 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~-9 ~70 ~-9 ~9 ~70 ~9 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~11 ~60 ~-7 ~-11 ~60 ~7 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~7 ~60 ~-11 ~-7 ~60 ~11 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~-9 ~60 ~-9 ~9 ~60 ~9 snow",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill ~25 ~85 ~3 ~27 ~85 ~-3 obsidian",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "spawnpoint @a[tag=SnowSpleef] ~26 ~85 ~",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "effect @a[tag=SnowSpleef] instant_health 5 255 true",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "effect @a[tag=SnowSpleef] mining_fatigue 5 255 true",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "effect @a[tag=SnowSpleef] weakness 600 255 true",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "tp @a[tag=SnowSpleef] ~ ~101 ~",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "title @a[tag=SnowSpleef] title Â§aWelcome to Â§fSnow Spleef",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "playsound random.levelup @a[tag=SnowSpleef]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "title @a[tag=SnowSpleef] actionbar Â§amade by @squidard#9062 Â§f| Â§ehave fun",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "kill @e[r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "cant fit",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:225f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:16.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:"Cow",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"by @squidard#9062",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"Â§fÂ§lSnow Spleef",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:19,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}

@@ -1,0 +1,3671 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"red"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt"],Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§cAmayori30Â§r"],Name:"Â§5Normal Â§aChristmasTree"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~-7\t~31\t~-14\t~6\t~\t~-2\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-8\t~-1\t~8\t~-16\t~-1\t~3\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~\t~-8\t~\t~18\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~\t~-12\tchest\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-11\tshulker_box\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-10\tshulker_box\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~\t~-9\tshulker_box\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-8\tshulker_box\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~\t~-7\tshulker_box\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~\t~-7\tchest\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~\t~-6\tchest\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~\t~-5\tshulker_box\t6",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~2\t~-11\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~2\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~2\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~2\t~-11\t~2\t~2\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~2\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~2\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~2\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~2\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~2\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~2\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~2\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~2\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~2\t~-6\t~-3\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~2\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~2\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~3\t~-13\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~3\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~3\t~-11\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~3\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~3\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~3\t~-10\t~-4\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~3\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~3\t~-10\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~3\t~-9\t~-4\t~3\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~3\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~3\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~3\t~-9\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~3\t~-8\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~3\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~3\t~-7\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~3\t~-6\t~-3\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~3\t~-6\t~4\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~3\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~3\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~3\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/w\t@p\tÂ§eSubscribe.to.Â§aAmayori30.Â§c(YouTube).Â§efor.more.nbt!",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-12\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~4\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~4\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~4\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-11\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~4\t~-11\t~2\t~4\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~4\t~-10\t~-4\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~4\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~4\t~-9\t~\t~5\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~4\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~4\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~4\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~4\t~-7\t~-3\t~5\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~4\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~4\t~-6\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~4\t~-5\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~4\t~-5\t~1\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~4\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-4\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-12\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-12\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-11\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~5\t~-10\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~5\t~-10\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~5\t~-9\t~-3\t~5\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~5\t~-9\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-8\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~5\t~-7\t~3\t~5\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~5\t~-7\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~5\t~-5\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-5\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~5\t~-5\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-4\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-4\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-13\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~6\t~-13\t~1\t~7\t~-13\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~6\t~-12\t~\t~6\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~6\t~-11\t~-3\t~6\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-11\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~6\t~-10\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~6\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~6\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~6\t~-8\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~6\t~-8\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-7\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~6\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-5\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-5\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~6\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-12\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~7\t~-11\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-11\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~7\t~-11\t~1\t~7\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~7\t~-10\t~-3\t~7\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~7\t~-10\t~-1\t~7\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~7\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4\t~7\t~-10\t~4\t~7\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~7\t~-8\t~-3\t~7\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~7\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~7\t~-7\t~\t~8\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~7\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~7\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-5\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~7\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~7\t~-4\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~8\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~8\t~-11\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~8\t~-11\t~\t~9\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~8\t~-10\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~8\t~-10\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~8\t~-9\t~-2\t~8\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~8\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~8\t~-9\t~2\t~8\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~8\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~8\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~8\t~-8\t~-1\t~9\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~8\t~-7\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~8\t~-7\t~-2\t~8\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~8\t~-5\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~8\t~-5\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~8\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~9\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~9\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~9\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~9\t~-9\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~9\t~-9\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~9\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-7\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~9\t~-7\t~3\t~10\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~9\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~9\t~-6\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~9\t~-5\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~10\t~-12\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~10\t~-11\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~10\t~-11\t~-1\t~10\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-11\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~10\t~-11\t~1\t~10\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~10\t~-10\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~10\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~10\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~10\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~10\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~10\t~-8\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~10\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~10\t~-7\t~\t~11\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~10\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~10\t~-6\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~10\t~-6\t~1\t~10\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~10\t~-6\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-5\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~11\t~-12\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~11\t~-11\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~11\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~11\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~11\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~11\t~-9\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~11\t~-8\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~11\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~11\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~11\t~-8\t~1\t~12\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~11\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~11\t~-7\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~11\t~-7\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~11\t~-7\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~11\t~-6\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~12\t~-11\t~\t~12\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~12\t~-11\t~2\t~12\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~12\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~12\t~-9\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~12\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~12\t~-9\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~12\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~12\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~12\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~12\t~-6\t~1\t~12\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~12\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-11\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~13\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~13\t~-11\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~13\t~-10\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~13\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~13\t~-7\t~-2\t~13\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~13\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~13\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~13\t~-6\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~13\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~13\t~-6\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~14\t~-11\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~14\t~-10\t~-1\t~15\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~14\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~14\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~14\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~14\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~14\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~14\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~14\t~-7\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~14\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~14\t~-7\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~14\t~-7\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~14\t~-6\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~14\t~-5\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~15\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~15\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~15\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~15\t~-8\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~15\t~-8\t~-2\t~15\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~15\t~-7\t~\t~16\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~15\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~15\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~16\t~-10\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~16\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~16\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~16\t~-9\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~16\t~-8\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~16\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~16\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~16\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~16\t~-6\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~16\t~-6\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~17\t~-9\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~17\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~17\t~-8\t~-1\t~18\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~17\t~-7\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~17\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~17\t~-7\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~18\t~-9\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~18\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~18\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~18\t~-7\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~19\t~-9\t~\t~20\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~19\t~-8\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~19\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~20\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~20\t~-7\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~21\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~21\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~21\t~-8\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~21\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~22\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~22\t~-8\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~22\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~23\t~-9\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~23\t~-8\t~\t~22\t~-8\tfence\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~23\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~24\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~25\t~-8\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~26\t~-8\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~26\t~-8\tgold_block",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~26\t~-8\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~27\t~-8\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-14\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~\t~-13\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~\t~-13\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-13\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-12\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~\t~-12\t~\t~\t~-12\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~\t~-12\t~3\t~\t~-11\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~\t~-11\t~-4\t~\t~-10\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-11\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-10\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~\t~-10\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~\t~-9\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~\t~-9\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~\t~-9\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-9\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-9\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~\t~-9\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-9\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-6\t~\t~-8\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-8\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~\t~-7\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~\t~-7\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-7\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-7\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~\t~-7\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~\t~-7\t~5\t~\t~-6\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-7\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-6\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~\t~-6\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~\t~-5\tcarpet",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~\t~-5\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-5\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-4\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~\t~-4\t~1\t~\t~-3\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~\t~-4\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~\t~-4\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~\t~-3\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~\t~-3\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~\t~-2\tcarpet\t13",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill\t@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§5Normal Â§aChristmasTreeÂ§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"This nbt was made by Â§cAmayori30. Â§0Press the Â§cBuild Â§0button to make Â§9Normal Christmas TreeÂ§0. Press the Â§cKill Â§0button to kill the npc.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§dNormalÂ§aChristmasTree",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:6,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt"],Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§cAmayori30Â§r"],Name:"Â§5Winter Â§aCabin"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "fill\t~-7\t~17\t~-16\t~9\t~\t~-3\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-6\t~-1\t~-15\t~8\t~-1\t~-4\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~-1\t~-13\t~-4\t~4\t~-6\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~-1\t~-13\t~1\t~4\t~-12\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~6\t~-1\t~-12\t~6\t~4\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~-1\t~-10\t~\t~-1\t~-8\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~-1\t~-8\t~1\t~4\t~-6\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~\t~-12\t~4\t~\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~\t~-10\t~-3\t~1\t~-8\tbookshelf",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~\t~-7\t~\t~1\t~-7\tbookshelf",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~1\t~-13\t~\t~6\t~-13\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~1\t~-12\t~-4\t~3\t~-9\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~1\t~-12\t~4\t~9\t~-12\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~6\t~1\t~-11\t~6\t~6\t~-9\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~1\t~-8\t~5\t~5\t~-8\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~1\t~-6\t~\t~6\t~-6\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~4\t~-13\t~\t~4\t~-6\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~4\t~-12\t~5\t~4\t~-8\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~4\t~-11\t~6\t~4\t~-9\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~5\t~-12\t~1\t~10\t~-12\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4\t~5\t~-12\t~4\t~8\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~10\t~-11\t~2\t~10\t~-9\tbarrel",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~-1\t~-13\t~\t~-1\t~-13\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~-1\t~-12\t~-4\t~-1\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~-1\t~-12\t~5\t~-1\t~-12\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~6\t~-1\t~-11\t~6\t~-1\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~-1\t~-8\t~5\t~-1\t~-8\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~-1\t~-7\t~-4\t~\t~-7\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~-1\t~-7\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~-1\t~-6\t~\t~-1\t~-6\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~\t~-14\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~\t~-14\t~-3\t~\t~-14\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~\t~-14\t~-1\t~\t~-14\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~\t~-14\t~1\t~\t~-14\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-14\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~\t~-13\t~-5\t~\t~-12\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-13\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~\t~-13\t~\t~\t~-12\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-13\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-13\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~\t~-13\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~\t~-12\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~\t~-12\t~\t~\t~-12\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~\t~-12\t~4\t~\t~-12\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~\t~-12\t~5\t~\t~-11\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~7\t~\t~-12\t~7\t~\t~-11\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~\t~-11\t~-5\t~\t~-10\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~\t~-11\t~-4\t~\t~-10\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-11\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~\t~-11\t~\t~\t~-11\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~\t~-11\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-11\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~\t~-10\t~1\t~\t~-9\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-10\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~\t~-10\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~\t~-9\t~-5\t~\t~-6\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~\t~-9\tenchanting_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~7\t~\t~-9\t~7\t~\t~-8\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~\t~-8\t~4\t~\t~-8\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~\t~-7\t~1\t~1\t~-7\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~\t~-7\t~2\t~3\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~\t~-7\t~4\t~\t~-7\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~\t~-7\t~5\t~3\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~\t~-7\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~\t~-7\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~\t~-6\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-6\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-6\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~\t~-5\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~\t~-5\t~-3\t~\t~-5\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~\t~-5\t~-1\t~\t~-5\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~\t~-5\t~1\t~\t~-5\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~\t~-5\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~1\t~-15\t~-1\t~1\t~-15\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~1\t~-14\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~1\t~-14\t~-1\t~1\t~-14\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~1\t~-14\tspruce_trapdoor\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~1\t~-13\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~1\t~-12\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~1\t~-12\t~-3\t~2\t~-12\tbarrel\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~1\t~-12\tcrafting_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~1\t~-12\tsmithing_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~1\t~-12\tanvil",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~1\t~-12\t~5\t~3\t~-12\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-6\t~1\t~-11\t~-6\t~1\t~-10\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~1\t~-11\t~-5\t~1\t~-10\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~1\t~-11\tstonecutter_block\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~1\t~-11\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~1\t~-11\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~1\t~-11\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~1\t~-11\t~5\t~2\t~-11\tfurnace\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~1\t~-11\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~1\t~-10\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~1\t~-10\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~1\t~-10\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~1\t~-10\tblast_furnace\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~1\t~-10\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~8\t~1\t~-10\tspruce_trapdoor\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~1\t~-9\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~1\t~-9\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~1\t~-9\tcarpet\t13",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~1\t~-9\tcarpet\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~1\t~-9\t~5\t~2\t~-9\tsmoker\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~1\t~-9\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~1\t~-8\t~4\t~1\t~-8\tspruce_door\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~1\t~-7\t~-4\t~3\t~-7\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~1\t~-7\t~\t~1\t~-7\tbookshelf",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~1\t~-5\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~1\t~-5\t~-1\t~1\t~-5\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~1\t~-5\tspruce_trapdoor\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~1\t~-4\t~-1\t~1\t~-4\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~2\t~-14\t~-3\t~3\t~-14\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~2\t~-14\t~\t~3\t~-14\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~2\t~-13\t~-1\t~3\t~-13\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~2\t~-13\t~2\t~3\t~-13\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~2\t~-12\t~-5\t~3\t~-12\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~2\t~-12\t~4\t~3\t~-12\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~2\t~-11\t~-4\t~3\t~-10\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~2\t~-10\t~-3\t~2\t~-7\tspruce_trapdoor",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~6\t~2\t~-10\t~6\t~3\t~-10\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~2\t~-9\t~-5\t~3\t~-9\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~2\t~-7\t~\t~2\t~-7\tspruce_trapdoor",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~2\t~-7\t~1\t~3\t~-7\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~2\t~-6\t~-1\t~3\t~-6\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~2\t~-5\t~-3\t~3\t~-5\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~2\t~-5\t~\t~3\t~-5\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~3\t~-13\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~3\t~-7\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~3\t~-7\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~6\t~3\t~-7\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~3\t~-6\tdark_oak_stairs\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~3\t~-6\tdark_oak_stairs\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~4\t~-14\t~-5\t~4\t~-5\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~4\t~-14\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-14\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-14\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-13\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-13\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~4\t~-13\t~7\t~4\t~-13\tdark_oak_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~4\t~-12\t~-4\t~4\t~-9\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~4\t~-12\t~-3\t~4\t~-7\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~4\t~-12\t~\t~4\t~-12\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~4\t~-12\tdark_oak_stairs\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~4\t~-11\t~\t~4\t~-8\twooden_slab\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~4\t~-11\t~4\t~4\t~-9\twooden_slab\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~4\t~-11\t~5\t~4\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~4\t~-10\t~4\t~4\t~-9\twooden_slab\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~4\t~-8\tdark_oak_stairs\t6",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~4\t~-7\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~4\t~-7\t~\t~4\t~-7\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-7\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-7\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~4\t~-7\t~7\t~4\t~-7\tdark_oak_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~4\t~-6\t~2\t~4\t~-5\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~4\t~-6\t~6\t~4\t~-6\twooden_slab\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~4\t~-5\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-5\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~4\t~-5\twooden_slab\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~5\t~-14\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-14\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-14\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-14\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4\t~5\t~-13\t~-4\t~5\t~-6\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-13\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~5\t~-12\t~-3\t~5\t~-7\tchest\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~5\t~-12\t~-1\t~8\t~-12\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~5\t~-12\t~6\t~5\t~-12\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~5\t~-12\tdark_oak_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-11\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-11\tsoul_sand",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-11\tbarrel\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-11\tloom",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-11\tcartography_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~5\t~-11\tbarrel\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~5\t~-11\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~5\t~-11\tdark_oak_stairs\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-10\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~5\t~-10\tbed\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-9\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-9\tfence\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-9\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~5\t~-9\tjukebox",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~5\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~5\t~-9\tdark_oak_stairs\t6",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~5\t~-8\t~-1\t~8\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~5\t~-8\t~3\t~5\t~-8\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~5\t~-8\t~6\t~5\t~-8\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~5\t~-8\tdark_oak_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-7\tender_chest\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~5\t~-7\t~1\t~5\t~-6\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~5\t~-5\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-5\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-5\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-5\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~6\t~-14\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-14\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-14\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-14\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~6\t~-13\t~-3\t~6\t~-6\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-13\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~6\t~-12\t~2\t~7\t~-12\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-11\tnether_wart\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-11\tbrewing_stand",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~6\t~-11\tspruce_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~6\t~-11\t~6\t~6\t~-11\tspruce_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~6\t~-11\tdark_oak_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~6\t~-10\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~6\t~-10\tplanks\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-9\tspruce_pressure_plate",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~6\t~-9\tspruce_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~6\t~-9\t~6\t~6\t~-9\tspruce_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~6\t~-9\tdark_oak_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~6\t~-8\t~\t~7\t~-8\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~6\t~-8\t~2\t~7\t~-8\tglass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~6\t~-8\t~3\t~7\t~-8\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-7\tspruce_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~6\t~-7\t~\t~6\t~-6\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~6\t~-7\t~3\t~7\t~-7\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/w\t@p\tÂ§eSubscribe.to.Â§aAmayori30.Â§c(YouTube).Â§efor.more.nbt!",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~6\t~-5\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-5\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-5\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-5\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-14\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-14\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~7\t~-13\t~-2\t~7\t~-6\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-13\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~7\t~-11\t~-1\t~7\t~-9\tspruce_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~7\t~-11\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~7\t~-10\tspruce_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~7\t~-10\t~6\t~7\t~-10\twooden_slab\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~7\t~-10\twooden_slab\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~7\t~-9\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~7\t~-7\t~-1\t~7\t~-6\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-5\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-5\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~8\t~-13\t~-2\t~8\t~-7\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~8\t~-13\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~8\t~-13\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5\t~8\t~-13\t~5\t~8\t~-7\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~8\t~-12\t~3\t~8\t~-12\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~8\t~-11\t~-1\t~8\t~-9\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4\t~8\t~-11\t~4\t~8\t~-9\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~8\t~-8\t~3\t~8\t~-8\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~8\t~-7\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~8\t~-7\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-13\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-13\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~9\t~-13\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~9\t~-13\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~9\t~-12\t~-1\t~10\t~-12\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4\t~9\t~-12\t~4\t~9\t~-8\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~9\t~-11\t~-1\t~9\t~-8\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~9\t~-8\t~3\t~9\t~-8\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-7\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-7\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~9\t~-7\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-13\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~10\t~-13\tdark_oak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~10\t~-13\tdark_oak_stairs\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~10\t~-13\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~10\t~-12\t~\t~13\t~-12\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~10\t~-12\tstripped_spruce_log",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~10\t~-12\t~3\t~10\t~-8\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~10\t~-11\t~\t~10\t~-8\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-7\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~11\t~-13\tdark_oak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~11\t~-13\tdark_oak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~11\t~-12\tstone_brick_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~11\t~-12\t~1\t~11\t~-8\tspruce_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~11\t~-12\t~2\t~11\t~-8\tspruce_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~14\t~-13\tspruce_trapdoor\t11",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~14\t~-12\tspruce_trapdoor\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~14\t~-12\tspruce_trapdoor\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~14\t~-11\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~1\t~-11\t~1\t~5\t~-11\tladder\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~2\t~-14\t~-1\t~2\t~-14\tsweet_berry_bush\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~2\t~-12\tgrindstone\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5\t~2\t~-11\t~-5\t~2\t~-10\tsweet_berry_bush\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~2\t~-10\tsweet_berry_bush\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~2\t~-5\t~-1\t~2\t~-5\tsweet_berry_bush\t7",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~3\t~-14\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~3\t~-14\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~3\t~-13\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~3\t~-12\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~3\t~-12\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~3\t~-11\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~3\t~-9\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~3\t~-7\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~3\t~-7\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~7\t~3\t~-7\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-5\t~3\t~-5\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~3\t~-5\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-12\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-7\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~7\t~-13\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~5\t~7\t~-7\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-11\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~9\t~-11\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-9\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~9\t~-9\tlantern\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~14\t~-12\tcampfire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-2\t~\t~-16\t~\t~2\t~-14\t~3\t~\t~-15",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/clone\t~-2\t~3\t~-6\t~\t~9\t~-4\t~1\t~7\t~-8",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill\t@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§5Winter Â§aCabinÂ§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"This nbt was made by Â§cAmayori30. Â§0Press the Â§cBuild Â§0button to make Â§9Winter CabinÂ§0. Press the Â§cKill Â§0button to kill the npc.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§dWinterÂ§aCabin",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:6,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt"],Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§cAmayori30Â§r"],Name:"Â§5Redstone Â§aChristmasTree"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "fill\t~-4\t~20\t~-11\t~4\t~\t~-3\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~-1\t~-10\t~2\t~-1\t~-8\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~-1\t~-7\t~\t~12\t~-6\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~-1\t~-6\t~2\t~-1\t~-5\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~\t~-8\t~\t~10\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~\t~-7\t~1\t~10\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~1\t~-7\t~\t~11\t~-7\tobserver",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~-2\t~-8\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~-2\t~-6\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~-1\t~-8\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~-1\t~-7\t~-2\t~-1\t~-5\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~-1\t~-7\t~2\t~-1\t~-5\tgrass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-7\tpowered_repeater\t12",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~2\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~3\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~3\t~-11\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~3\t~-11\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~3\t~-10\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~3\t~-10\t~-2\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~3\t~-10\t~-1\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~3\t~-10\t~\t~3\t~-9\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~3\t~-10\t~1\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~3\t~-10\t~2\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~3\t~-10\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~3\t~-9\t~-2\t~3\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~3\t~-9\t~3\t~3\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~3\t~-8\t~-1\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~3\t~-8\t~3\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~3\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~3\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~3\t~-7\t~-2\t~3\t~-7\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~3\t~-7\t~3\t~3\t~-7\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~3\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~3\t~-6\t~-1\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~3\t~-6\t~3\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~3\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~3\t~-5\t~-2\t~3\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1\t~3\t~-5\t~-1\t~3\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~\t~3\t~-5\t~\t~3\t~-4\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1\t~3\t~-5\t~1\t~3\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~3\t~-5\t~3\t~3\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~3\t~-4\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2\t~3\t~-4\t~-2\t~4\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~3\t~-4\t~2\t~4\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~3\t~-4\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~3\t~-3\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~3\t~-3\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~3\t~-3\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-11\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-10\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~4\t~-9\t~-3\t~4\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~4\t~-9\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-9\tunpowered_repeater",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-9\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3\t~4\t~-9\t~3\t~4\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~4\t~-8\t~3\t~4\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4\t~4\t~-7\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~4\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-7\tunpowered_repeater\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-7\tunpowered_repeater\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~4\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4\t~4\t~-7\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3\t~4\t~-6\t~-2\t~4\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2\t~4\t~-6\t~3\t~4\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~4\t~-5\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-5\tunpowered_repeater\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-5\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~4\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~4\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-4\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~4\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~4\t~-3\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-10\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-9\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-9\tunpowered_repeater\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-9\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-9\tunpowered_repeater\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-9\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-8\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-6\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~5\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~5\t~-5\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-5\tunpowered_repeater\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-5\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-5\tunpowered_repeater\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~5\t~-5\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~5\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~5\t~-4\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~5\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-10\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-10\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~6\t~-10\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~6\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~6\t~-8\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-8\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-8\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~6\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~6\t~-6\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-6\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-6\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~6\t~-6\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~6\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~6\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~6\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~6\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~6\t~-4\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~6\t~-4\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-10\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-9\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-9\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~7\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~7\t~-9\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~7\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-8\tunpowered_repeater",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-8\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~7\t~-8\tunpowered_repeater",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~7\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~7\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~7\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~7\t~-7\tlog\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~7\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3\t~7\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-6\tunpowered_repeater\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-6\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~7\t~-6\tunpowered_repeater\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3\t~7\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~7\t~-5\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~7\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-5\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~7\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~7\t~-5\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~7\t~-4\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~8\t~-9\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~8\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~8\t~-9\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~8\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~8\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~8\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~8\t~-8\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~8\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~8\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~8\t~-7\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~8\t~-6\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~8\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~8\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~8\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~8\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~8\t~-5\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~8\t~-5\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-9\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-8\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~9\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~9\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~9\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~9\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~9\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-6\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~9\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~9\t~-5\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-9\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~10\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~10\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2\t~10\t~-7\twool\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~10\t~-7\tlog\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2\t~10\t~-7\twool\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~10\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-6\tlog\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~10\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~10\t~-5\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/w\t@p\tÂ§eSubscribe.to.Â§aAmayori30.Â§c(YouTube).Â§efor.more.nbt!",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~11\t~-8\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~11\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~11\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~11\t~-6\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~12\t~-8\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~12\t~-7\twool\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~12\t~-7\twool\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~12\t~-6\tleaves\t9",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~13\t~-7\tredstone_lamp",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~14\t~-7\tfence\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~15\t~-7\tgold_block",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1\t~16\t~-7\tgold_block",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~16\t~-7\tglowstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1\t~16\t~-7\tgold_block",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~17\t~-7\tgold_block",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~-1\t~-6\tunlit_redstone_torch\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~\t~\t~-5\tlever\t11",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill\t@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§5Redstone Â§aChristmasTreeÂ§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"This nbt was made by Â§cAmayori30. Â§0Press the Â§cBuild Â§0button to make Â§9Redstone Christmas TreeÂ§0. Flick the lever to turn the blinking lights on/off. Press the Â§cKill Â§0button to kill the npc.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§dRedstoneÂ§aChristmasTree",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:6,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt"],Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:3b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§cAmayori30Â§r"],Name:"Â§5Firework Â§aLauncher"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "fill\t~-2\t~-3\t~-7\t~1\t~-3\t~-3\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~-2\t~-2\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-1\t~-2\t~-7\t~\t~-2\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~1\t~-2\t~-7\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-2\t~-2\t~-6\t~-2\t~-2\t~-4\tpowered_repeater\t12",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-1\t~-2\t~-6\t~1\t~-2\t~-5\tpowered_repeater\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-1\t~-2\t~-4\t~1\t~-1\t~-4\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~-2\t~-2\t~-3\tredstone_wire",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-3\t~-1\t~-4\t~2\t~-1\t~-4\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-3\t~-1\t~-3\t~-2\t~-1\t~-2\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~-1\t~-1\t~-3\tdispenser\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~\t~-1\t~-3\tdispenser\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~1\t~-1\t~-3\tdispenser\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~2\t~-1\t~-3\t~2\t~-1\t~-2\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-1\t~-1\t~-2\t~2\t~-1\t~-2\tstonebrick",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "fill\t~-1\t~-2\t~-3\t~1\t~-2\t~-3\tunlit_redstone_torch\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "setblock\t~-2\t~\t~-3\tlever\t14",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "w\t@p\tÂ§eSubscribe.to.Â§aAmayori30.Â§c(YouTube).Â§efor.more.nbt!",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill\t@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§5Firework Â§aLauncherÂ§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"This nbt was made by Â§cAmayori30. Â§0Press the Â§cBuild Â§0button to make Â§9Firework LauncherÂ§0. Put fireworks into dispensers and flick lever to activate. Press the Â§cKill Â§0button to kill the npc.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§dFireworkÂ§aLauncher",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:6,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:16b,Damage:15s,Name:"minecraft:banner",Slot:4b,WasPickedUp:0b,tag:{Patterns:[{Color:1,Pattern:"mr"},{Color:14,Pattern:"cre"},{Color:15,Pattern:"ms"},{Color:1,Pattern:"hh"},{Color:2,Pattern:"cbo"},{Color:2,Pattern:"ts"}],RepairCost:0,display:{Name:"Â§6Santa Claus"}}},{Count:16b,Damage:3s,Name:"minecraft:banner",Slot:5b,WasPickedUp:0b,tag:{Patterns:[{Color:1,Pattern:"cre"},{Color:11,Pattern:"sku"},{Color:2,Pattern:"flo"},{Color:3,Pattern:"mc"}],RepairCost:0,display:{Name:"Â§6Christmas Wreath"}}},{Count:16b,Damage:1s,Name:"minecraft:banner",Slot:6b,WasPickedUp:0b,tag:{Patterns:[{Color:2,Pattern:"bri"},{Color:0,Pattern:"bo"},{Color:2,Pattern:"sc"},{Color:11,Pattern:"mc"},{Color:0,Pattern:"ld"},{Color:0,Pattern:"rud"}],RepairCost:0,display:{Name:"Â§6Christmas Tree"}}},{Count:16b,Damage:15s,Name:"minecraft:banner",Slot:7b,WasPickedUp:0b,tag:{Patterns:[{Color:0,Pattern:"sku"},{Color:15,Pattern:"flo"},{Color:15,Pattern:"cr"},{Color:12,Pattern:"cbo"},{Color:12,Pattern:"bo"},{Color:12,Pattern:"ts"}],RepairCost:0,display:{Name:"Â§6Snowman"}}},{Count:16b,Damage:1s,Name:"minecraft:banner",Slot:8b,WasPickedUp:0b,tag:{Patterns:[{Color:2,Pattern:"ls"},{Color:2,Pattern:"rs"},{Color:1,Pattern:"bl"},{Color:15,Pattern:"ts"},{Color:2,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§6Christmas Socks"}}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:26b,WasPickedUp:0b,tag:{author:"Amayori30",generation:0,pages:[{photoname:"",text:"Â§cMerry Christmas!!
+
+Â§0Hope you like the Â§6Christmas SpecialÂ§0 Nbts!
+
+Put the fireworks into dispensers of Â§1Firework LauncherÂ§0 and enjoy a festive night sky in minecraft!
+
+Have Fun!
+Made by Â§9Amayori30"},{photoname:"",text:"Find more build nbts by Amayori on Â§3Amayori30 Â§4YouTubeÂ§0 channel!
+
+Join Amayori's official discord server Â§5Amayori's TownÂ§0 for all direct nbt downloads, update on new nbts, giveaways and more!
+Â§1https://dsc.gg/amayoritown Â§0(no -)"}],title:"Christmas Nbts",xuid:"2535469569295615"}}],RepairCost:0,display:{Name:"Â§bChristmasÂ§cKitÂ§9ByÂ§6Amayori"}}}
