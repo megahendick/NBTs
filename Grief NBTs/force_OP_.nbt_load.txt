@@ -1,0 +1,1 @@
+{Count:1b,Damage:2s,Name:"minecraft:writable_book",WasPickedUp:0b,tag:{RepairCost:0,author:" ",display:{Name:"Â§lÂ§d/Force\Â§2â–„Â§e*OP*"},ench:[],generation:2,pages:[0]}}

@@ -1,0 +1,1 @@
+{Count:1b,Damage:0s,Name:"minecraft:crossbow",WasPickedUp:0b,tag:{Damage:0,RepairCost:1,chargedItem:{Count:1b,Damage:250s,Name:"minecraft:arrow",WasPickedUp:0b},display:{Name:"Â§lÂ§0â˜£WORLD DEATHâ˜£"},ench:[{id:9s,lvl:32767s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:28s,lvl:1s},{id:33s,lvl:69s}]}}

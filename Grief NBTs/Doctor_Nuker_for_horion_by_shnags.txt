@@ -1,0 +1,270 @@
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§dMade By Â§bGOTSHNAGEDÂ§r"],Name:"î„ƒÂ§6Â§lDR NUKERÂ§2 *NPC*î„ƒÂ§r"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:wither_rose",states:{},version:17760256},movingEntity:{CustomName:"Â§bshnags",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "îˆÂ§lÂ§cTNTîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule tntexplodes true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/difficulty h",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say Â§lÂ§cGET Â§4NUKED Â§cBY: Â§7GRIEF-GANGÂ§8!?!Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=25] ~~~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 tnt",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=25] ~ ~ ~ fill ~1 ~16 ~1 ~-1 ~-16 ~-1 fire",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=25] slowness 99999 255 true",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule tntexplodes true\n/difficulty h\n/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r\n/say Â§lÂ§cGET Â§4NUKED Â§cBY: Â§7GRIEF-GANGÂ§8!?!Â§r\n/execute @a[rm=25] ~~~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 tnt\n/execute @a[rm=25] ~ ~ ~ fill ~1 ~16 ~1 ~-1 ~-16 ~-1 fire\n/effect @a[rm=25] slowness 99999 255 true",
+      "type" : 1
+   },
+   {
+      "button_name" : "î‰Â§lÂ§9SETUPî‰",
+      "data" : [
+         {
+            "cmd_line" : "/title @p title BY î„…|Â§kÂ¶Â§rÂ§lÂ§fTIKÂ§0TOKÂ§rÂ§kÂ¶Â§r|î„… Â§kÂ¶Â§rÂ§cî„:::Â§lÂ§3@GOTSHNAGEDÂ§rÂ§cî„€:::Â§rÂ§kÂ¶Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/scoreboard objectives add Â§0Â§lGRIEF-GANG dummy",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/scoreboard objectives setdisplay list \"Â§0Â§lGRIEF-GANG\" ascending",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/scoreboard players add @a[rm=10] \"Â§0Â§lGRIEF-GANG\" 69",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblockoutput false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule pvp true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule doweathercycle false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule dodaylightcycle false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/time set day",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/weather clear",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule keepinventory false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblocksenabled false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @p actionbar î„‚Â§lÂ§9SETUP: Â§2CHECK= Â§bGOODî„‚",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/title @p title BY î„…|Â§kÂ¶Â§rÂ§lÂ§fTIKÂ§0TOKÂ§rÂ§kÂ¶Â§r|î„… Â§kÂ¶Â§rÂ§cî„:::Â§lÂ§3@GOTSHNAGEDÂ§rÂ§cî„€:::Â§rÂ§kÂ¶Â§r\n/scoreboard objectives add Â§0Â§lGRIEF-GANG dummy\n/scoreboard objectives setdisplay list \"Â§0Â§lGRIEF-GANG\" ascending\n/scoreboard players add @a[rm=10] \"Â§0Â§lGRIEF-GANG\" 69\n/gamerule commandblockoutput false\n/gamerule pvp true\n/gamerule doweathercycle false\n/gamerule dodaylightcycle false\n/time set day\n/weather clear \n/gamerule keepinventory false\n/gamerule commandblocksenabled false\n/gamerule sendcommandfeedback false\n/title @p actionbar î„‚Â§lÂ§9SETUP: Â§2CHECK= Â§bGOODî„‚",
+      "type" : 1
+   },
+   {
+      "button_name" : "îˆÂ§lÂ§0SUMMONîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule mobgriefing true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/difficulty h",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @e[rm=50] ~~~ summon wither ~ ~ ~ minecraft:entity_spawned î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=50] ~~~ summon ender_dragon ~ ~ ~ ",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=25] slowness 99999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a actionbar Â§lÂ§7î„GRIEFÂ§0GANGî„ Â§6ON Â§gTOP!?!",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule mobgriefing true\n/difficulty h\n/execute @e[rm=50] ~~~ summon wither ~ ~ ~ minecraft:entity_spawned î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/execute @a[rm=50] ~~~ summon ender_dragon ~ ~ ~\n/effect @a[rm=25] slowness 99999 255 true\n/title @a actionbar Â§lÂ§7î„GRIEFÂ§0GANGî„ Â§6ON Â§gTOP!?!",
+      "type" : 1
+   },
+   {
+      "button_name" : "îˆÂ§lÂ§8RESETîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/summon @a[rm=25] ~~~ lighting_bolt",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamemode s @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/clear @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/clearspawnpoint @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/kill @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§lÂ§7î„GRIEFÂ§0GANGî„",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/playsound mob.ghast.scream @a 1000",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/summon @a[rm=25] ~~~ lighting_bolt\n/gamemode s @a[rm=25]\n/clear @a[rm=25]\n/clearspawnpoint @a[rm=25]\n/kill @a[rm=25]\n/title @a title Â§lÂ§7î„GRIEFÂ§0GANGî„\n/playsound mob.ghast.scream @a 1000",
+      "type" : 1
+   },
+   {
+      "button_name" : "î‰Â§lÂ§gDisplayî‰",
+      "data" : [
+         {
+            "cmd_line" : "/title @a actionbar î„‚Â§lÂ§9WELCOME:Â§aTO Â§6DISPLAYî„‚Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 glass 0 outline",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=25] ~30 ~9 ~30 tp @s ~ ~1 ~",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~10 ~30 fill ~15 0 ~-15 ~-15 0 ~15 border_block",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~10 ~30 fill ~15 2 ~-15 ~-15 2 ~15 deny /effect @a[rm=25] slowness 99999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/title @a actionbar î„‚Â§lÂ§9WELCOME:Â§aTO Â§6DISPLAYî„‚Â§r\n/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air\n/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 glass 0 outline\n/execute @a[rm=25] ~30 ~9 ~30 tp @s ~ ~1 ~\n/execute @p ~30 ~10 ~30 fill ~15 0 ~-15 ~-15 0 ~15 border_block \n/execute @p ~30 ~10 ~30 fill ~15 2 ~-15 ~-15 2 ~15 deny /effect @a[rm=25] slowness 99999 255 true\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+      "type" : 1
+   },
+   {
+      "button_name" : "îˆÂ§2Â§lTROLLîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem entity @e[rm=10] slot.armor.head 0 carved_pumpkin 1 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/playanimation @e[rm=25] animation.ghast.scale z 999",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/playsound random.fuse @e",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=25] levitation 99999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/xp @e 100000000",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/titleraw @a actionbar {\\\"rawtext\\\":[{\\\"text\\\":\\\"Â§lÂ§d    î„ î„ƒ  HOW--TO--GET--SERVER--BACK î„ƒ î„Â§r     \\\\n       Â§1Â§l-------------------------------Â§r \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§6GOTSHNAGEDÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§9Â§l___SUB__Â§rÂ§5TO_Â§lÂ§f_SHNAGSÂ§rÂ§b__Â§lON__Â§lÂ§4YOUÂ§cTUBEÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§2@Â§lÂ§eDribforealzzzÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§c@Â§lÂ§4yourdiscountsusÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§4Â§l___Sub__Â§rÂ§3T0_Â§lÂ§0_NRG JobroÂ§rÂ§a__Â§lON__Â§lÂ§fYouÂ§0TubeÂ§4__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§4@Â§lÂ§5realmraidsÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§flxvlxvclientÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__\\\"}]}",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/replaceitem entity @e[rm=10] slot.armor.head 0 carved_pumpkin 1 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}\n/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r\n/playanimation @e[rm=25] animation.ghast.scale z 999\n/playsound random.fuse @e\n/effect @a[rm=25] levitation 99999 255 true\n/xp @e 100000000\n/titleraw @a actionbar {\\\"rawtext\\\":[{\\\"text\\\":\\\"Â§lÂ§d    î„ î„ƒ  HOW--TO--GET--SERVER--BACK î„ƒ î„Â§r     \\\\n       Â§1Â§l-------------------------------Â§r \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§6GOTSHNAGEDÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§9Â§l___SUB__Â§rÂ§5TO_Â§lÂ§f_SHNAGSÂ§rÂ§b__Â§lON__Â§lÂ§4YOUÂ§cTUBEÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§2@Â§lÂ§eDribforealzzzÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§c@Â§lÂ§4yourdiscountsusÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§4Â§l___Sub__Â§rÂ§3T0_Â§lÂ§0_NRG JobroÂ§rÂ§a__Â§lON__Â§lÂ§fYouÂ§0TubeÂ§4__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§4@Â§lÂ§5realmraidsÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§flxvlxvclientÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__\\\"}]}",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-125.913f,Chested:0b,Color:0b,Color2:0b,CustomName:"î„ƒ4rÂ§lDR NUKERî„ƒ",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"î„…|Â§kÂ¶Â§rÂ§lÂ§fTIKÂ§0TOKÂ§rÂ§kÂ¶Â§r|î„… Â§kÂ¶Â§rÂ§cî„:::Â§lÂ§3@GOTSHNAGEDÂ§rÂ§cî„€:::Â§rÂ§kÂ¶Â§r
+î„‚Â§lÂ§0GRIEF-GANG-Â§con-Â§2TOPÂ§rî„‚
+Â§lÂ§41. NUKE (EVERYONE BUT YOU)
+Â§lÂ§12. SETUP FOR GRIEF
+Â§lÂ§83. SUMMON WITHERS/DRAGONS
+Â§lÂ§74. RESET EVERYONE
+Â§lÂ§g5. Display Everyone in a Cage
+Â§lÂ§a6. TROLL SOME SKIDS!?!",Invulnerable:1b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[290.5f,66f,-13.5f],RawtextName:"î„ƒ Â§4Â§lDOCTOR_NUKERÂ§rî„ƒ",Rotation:[170.742f,0.772919f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-8589933953l,Variant:13,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}
