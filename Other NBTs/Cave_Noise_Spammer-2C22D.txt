@@ -1,0 +1,1 @@
+{Count:64b,Damage:1s,Name:"minecraft:bee_nest",Slot:1b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"playsound ambient.cave @a ~ ~ ~ 10 1",Ticking:1b,TicksLeftToStay:0}}]},RepairCost:0,display:{Name:"Â§rÂ§lÂ§cCommandblockexploit"}}

@@ -1,0 +1,1 @@
+{Count:64b,Damage:1s,Name:"minecraft:bee_nest",tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"say Wanna Bang????",Ticking:1b,TicksLeftToStay:0,TickDelay:1,ExecuteOnFirstTick:1b,CustomName:"Senpai ;)"}},]}}

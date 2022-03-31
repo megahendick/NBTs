@@ -1,0 +1,1550 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"black"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{CustomName:"î€Â§dFan Â§2& Â§9Game's Â§cNestedî€",Findable:0b,Items:[{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:0b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:1b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:2b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"purple"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:3b,WasPickedUp:0b,tag:{CustomName:"î‚ Â§4â¤Â§cFÂ§6AÂ§eNÂ§aS Â§bBÂ§5OÂ§4Xâ¤î‚¡",Findable:0b,Items:[{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:bee_nest",Slot:0b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4î„GodMode î„",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tresistance\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Gives You GodMode",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§1î† Day î†",
+      "data" : [
+         {
+            "cmd_line" : "/time set 2000", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Changes Time Day",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§2îƒ©Survivalîƒ©",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@p", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Sets Gammode to Survival",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§5î„ƒCreativeî„ƒ",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Sets Gammode to Creative",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§bî€£XP YEETî€£",
+      "data" : [
+         {
+            "cmd_line" : "xp\t99999L\t@p", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Gives Lots of XP",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§6î‹Peacefulî‹",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tp", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Puts It On Peaceful",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"î„ƒ Â§bÂ§lFans All In One NPCÂ§rî„ƒ",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"
+Â§41.Give Yourself Godmode
+Â§92.Set time dayÂ§2î†
+3.Set Gamemode SurvivalÂ§5îƒ©
+4.Set Gamemode CreativeÂ§bî„ƒtt
+5.Lots Of Xpî€£
+Â§66.Set Gamemode PeacefulÂ§6â˜º",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"None.",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:19,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],display:{Lore:["This Took Too Long "],Name:"î„ƒ Â§bÂ§lFans All In One NPCî„ƒ Â§bÂ§l"}}},{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:bee_nest",Slot:1b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/weather clear",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],display:{Lore:["/weather clear"],Name:"Â§gÂ§lBeeNest Command"},ench:[{id:28s,lvl:1s}]}},{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:beehive",Slot:2b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamemode s @a",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],RepairCost:0,display:{Lore:["/gamemode s @a"],Name:"Â§gÂ§lAnti Creative Admin"},ench:[{id:28s,lvl:1s}]}},{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:beehive",Slot:3b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a ~~~ summon ender_dragon",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],RepairCost:0,display:{Lore:["/execute @a ~~~ summon ender_dragon"],Name:"Â§gÂ§lE-dragon Spawner Players"},ench:[{id:28s,lvl:1s}]}},{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:beehive",Slot:4b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a ~~~ summon lightning_bolt",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],RepairCost:0,display:{Lore:["/execute @a ~~~ summon lightning_bolt"],Name:"Â§gÂ§lZeus Attack"},ench:[{id:28s,lvl:1s}]}},{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:beehive",Slot:5b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule commandblockoutput false",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],RepairCost:0,display:{Lore:["/gamerule commandblockoutput false"],Name:"Â§gÂ§lTurn Off Command Logs"},ench:[{id:28s,lvl:1s}]}},{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:bee_nest",Slot:6b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:villager_v2<>",SaveData:{Offers:{Recipes:[{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:0s,lvl:4s}]}},tier:0,traderExp:0,uses:0},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:1s,lvl:4s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:2s,lvl:4s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:6s,lvl:3s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:7s,lvl:3s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:8s,lvl:1s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:9s,lvl:5s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:10s,lvl:5s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:14s,lvl:3s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:15s,lvl:5s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:16s,lvl:1s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:17s,lvl:3s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:18s,lvl:3s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:19s,lvl:5s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:22s,lvl:1s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:25s,lvl:2s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:26s,lvl:1s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:29s,lvl:5s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:30s,lvl:3s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:32s,lvl:1s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:33s,lvl:1s}]}},tier:0,traderExp:0,uses:1},{buyA:{Count:1b,Damage:0s,Name:"minecraft:emerald",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:64,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:0b,sell:{Count:1b,Damage:0s,Name:"minecraft:enchanted_book",WasPickedUp:0b,tag:{ench:[{id:35s,lvl:3s}]}},tier:0,traderExp:0,uses:2},{buyA:{Count:1b,Damage:0s,Name:"minecraft:dirt",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:20000,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:1b,sell:{Count:64b,Damage:0s,Name:"minecraft:dirt",WasPickedUp:0b},tier:0,traderExp:0,uses:0}],TierExpRequirements:[{0:0}]},TradeExperience:1,definitions:["+minecraft:villager_v2","+villager_skin_1","+librarian","+adult","+behavior_non_peasant","+librarian_schedule","+work_schedule_librarian","+trade_resupply_component_group"]},TicksLeftToStay:0}],RepairCost:0,display:{Name:"Â§eâ“„Â§dâ“…Â§cVÂ§6IÂ§eLÂ§aLÂ§9AÂ§bGÂ§5EÂ§cR"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt","stone","cobblestone","sapling","planks","bedrock","sand","gravel","log","gold_ore","iron_ore","coal_ore","acacia_pressure_plate","light_weighted_pressure_plate","heavy_weighted_pressure_plate","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","stone_pressure_plate","wooden_pressure_plate","fence_gate","mycelium","brick_stairs","waterlily","stone_brick_stairs","melon_block","vine","nether_brick","nether_brick_fence","nether_wart","nether_brick_stairs","enchanting_table","beacon","blue_ice","dragon_egg","brewing_stand","mob_spawner","dropper","cauldron","end_portal_frame","end_stone","activator_rail","sandstone_stairs","emerald_ore","ender_chest","jungle_stairs","cobblestone_wall","tripwire_hook","tripWire","birch_stairs","emerald_block","spruce_stairs","anvil","wooden_button","redstone_block","unpowered_comparator","flower_pot","skull","trapped_chest","powered_comparator","daylight_detector","hopper","quartz_block","quartz_stairs","stained_glass_pane","acacia_stairs","dark_oak_stairs","iron_trapdoor","slime","prismarine","stained_hardened_clay","log2","seaLantern","hardened_clay","hay_block","carpet","coal_block","packed_ice","spruce_fence_gate","red_sandstone_stairs","birch_fence_gate","standing_banner","wall_banner","red_sandstone","jungle_fence_gate","jungle_door","dark_oak_fence_gate","acacia_fence_gate","acacia_door","spruce_door","birch_door","dark_oak_door","chorus_flower","purpur_stairs","purpur_block","grass_path","red_nether_brick","end_bricks","end_rod","magenta_glazed_terracotta","magma","nether_wart_block","bone_block","shulker_box","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","cyan_glazed_terracotta","light_blue_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","lime_glazed_terracotta","pink_glazed_terracotta","lapis_block","lapis_ore","detector_rail","bed","sandstone","glass","sponge","dispenser","golden_rail","web","tallgrass","deadbush","yellow_flower","wool","red_flower","chorus_plant","concrete","green_glazed_terracotta","brown_glazed_terracotta","black_glazed_terracotta","red_glazed_terracotta","concretePowder","stained_glass","dark_prismarine_stairs","prismarine_stairs","prismarine_bricks_stairs","observer","coral","coral_block","coral_fan_dead","birch_button","kelp","dried_kelp_block","dark_oak_button","seagrass","coral_fan","acacia_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","carved_pumpkin","spruce_trapdoor","jungle_trapdoor","sea_pickle","turtle_egg","scaffolding","barrier","bamboo","smooth_red_sandstone_stairs","diorite_stairs","polished_granite_stairs","andesite_stairs","granite_stairs","polished_diorite_stairs","mossy_stone_brick_stairs","polished_andesite_stairs","smooth_sandstone_stairs","end_brick_stairs","mossy_cobblestone_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","spruce_standing_sign","jungle_wall_sign","jungle_standing_sign","acacia_wall_sign","spruce_wall_sign","acacia_standing_sign","birch_standing_sign","birch_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","grindstone","blast_furnace","cartography_table","fletching_table","smoker","campfire","wood","composter","loom","smithing_table","barrel","bell","lantern","wither_rose","bee_nest","honeycomb_block","honey_block","beehive","brick_block","tnt","iron_block","obsidian","gold_block","red_mushroom","brown_mushroom","mossy_cobblestone","bookshelf","torch","oak_stairs","redstone_wire","chest","diamond_ore","diamond_block","crafting_table","furnace","redstone_ore","rail","stone_stairs","ladder","standing_sign","wooden_door","wall_sign","lever","iron_door","unlit_redstone_torch","redstone_torch","snow_layer","stone_button","jukebox","lit_pumpkin","cake","snow","pumpkin","cactus","ice","fence","clay","netherrack","soul_sand","glowstone","unpowered_repeater","powered_repeater","brown_mushroom_block","glass_pane","red_mushroom_block","iron_bars","trapdoor","monster_egg","stonebrick","leaves2","double_stone_slab2","leaves","stone_slab","double_stone_slab","grass","wooden_slab","double_wooden_slab","double_plant","stone_slab2","double_stone_slab3","double_stone_slab4","stone_slab3","stone_slab4"],Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:7b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cBuild Mansion"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+ {
+ "button_name" : "BuildButton",
+ "data" : [
+ {
+ "cmd_line" : "/fill\t~-1\t~-1\t~8\t~-23\t~11\t~-9\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-1\t~-1\t~8\t~-23\t~-1\t~-9\tconcrete\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-2\t~-1\t~7\t~-9\t~-1\t~-1\tgrass\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-2\t~-1\t~-3\t~-9\t~-1\t~-8\twater\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-2\t~-2\t~-3\t~-9\t~-2\t~-8\tquartz_block\t1\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-3\t~\t~6\t~-8\t~\t~6\tquartz_stairs\t6\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-3\t~\t~7\tquartz_stairs\t5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-8\t~\t~7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-4\t~\t~7\t~-7\t~\t~7\tquartz_stairs\t\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~-1\t~6\t~-21\t~-1\t~-8\tquartz_block\t2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~\t~8\t~-22\t~4\t~8\tconcrete\t15\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~1\t~8\t~-20\t~3\t~8\tstone_slab\t14\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-9\t~\t~3\t~-23\t~11\t~1\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~\t~3\t~-22\t~10\t~1\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-9\t~\t~2\t~-23\t~11\t~2\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~\t~6\t~-21\t~4\t~-8\tconcrete\t0\toutline",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~\t~5\t~-20\t~\t~-7\tair\t0\treplace\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~4\t~8\t~-22\t~4\t~-9\tconcrete\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~4\t~7\t~-21\t~4\t~-8\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~5\t~8\t~-22\t~5\t~-2\tstained_glass_pane\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~7\t~-21\t~5\t~-1\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~4\t~6\t~-21\t~9\t~-8\tconcrete\t0\thollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~\t~5\t~-11\t~3\t~-1\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~\t~-2\t~-14\t~3\t~-2\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~\t~-1\t~-15\t~3\t~5\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~1\t~\t~-15\t~2\t~4\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~\t~-2\t~-20\t~3\t~-2\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~1\t~-3\t~-11\t~3\t~-7\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~1\t~-8\t~-20\t~3\t~-8\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~1\t~-7\t~-21\t~3\t~-3\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~1\t~\t~-21\t~3\t~4\tconcrete\t8\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~1\t~6\t~-16\t~3\t~6\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~5\t~-21\t~8\t~-1\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~5\t~6\t~-20\t~8\t~6\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~-2\t~-21\t~8\t~-2\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~6\t~-3\t~-11\t~8\t~-7\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~6\t~-8\t~-20\t~8\t~-8\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~6\t~-7\t~-21\t~8\t~-3\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~4\t~-9\t~-22\t~10\t~-9\tconcrete\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~-9\t~-21\t~9\t~-9\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~10\t~8\t~-22\t~10\t~-9\tconcrete\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~8\t~-4\t~-11\t~1\t~-6\tstained_glass_pane\t15\treplace\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-13\t~8\t~-8\t~-19\t~1\t~-8\tstained_glass_pane\t15\treplace\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~8\t~-6\t~-21\t~1\t~-4\tstained_glass_pane\t15\treplace\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~3\t~1\t~-21\t~1\t~3\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~2\t~6\t~-17\t~1\t~6\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~2\t~4\t~-15\t~1\t~\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-15\t~\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-15\t~1\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~1\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~2\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-17\t~2\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-17\t~3\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~3\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~4\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~5\t~-6\t~-18\t~5\t~-6\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~4\t~-7\t~-17\t~4\t~-7\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~\t~-2\tdark_oak_door\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~\t~-2\tdark_oak_door\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-17\t~\t~5\t~-19\t~\t~5\tbed",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~\twooden_slab\t13",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~1\tdark_oak_stairs\t6",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~-1\tdark_oak_stairs\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~5\t~-3\tdark_oak_stairs\t6",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~5\t~-4\twooden_slab\t13",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~5\t~-5\tdark_oak_stairs\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~5\t~-3\t~-14\t~7\t~-3\tbookshelf\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~5\t~-2\t~-17\t~5\t~-2\tdark_oak_door\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~5\t~5\t~-16\t~5\t~6\tbarrier\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~5\t~5\t~-17\t~5\t~6\tend_rod\t0\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-13\t~5\t~-1\t~-14\t~5\t~-1\tspruce_stairs\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~5\t~-1\t~-20\t~5\t~-1\tspruce_stairs\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-13\t~5\t~\t~-14\t~5\t~1\twooden_slab\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~5\t~\t~-20\t~5\t~1\twooden_slab\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~\t~-1\t~-16\t~1\t~-1\tchest\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-17\t~\t~-1\t~-17\t~1\t~-1\tbirch_trapdoor\t9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~6\t~5\t~-17\t~6\t~6\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~5\t~6\tspruce_stairs\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~5\t~6\tspruce_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~5\t~4\tspruce_stairs\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-12\t~5\t~-1\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-12\t~6\t~-1\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-21\t~5\t~-1\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-21\t~6\t~-1\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~6\t~-3\toak_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~7\t~-3\toak_stairs\t5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~7\t~-3\twooden_slab\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~6\t~-3\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~5\t~-3\twooden_slab\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~\t~5\t~-20\t~\t~5\tloom\t0\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~\t~\t~-16\t~1\t~\tbirch_trapdoor\t10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~\t~2\t~-20\t~3\t~2\tdark_oak_trapdoor\t10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~2\t~1\t~-20\t~2\t~-1\tiron_trapdoor\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~3\t~1\t~-20\t~3\t~-1\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~\t~-3\t~-20\t~\t~-6\tstone\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~\t~-7\t~-17\t~\t~-7\tstone\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~1\t~-3\t~-20\t~1\t~-7\tcarpet\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~1\t~-7\t~-17\t~1\t~-7\tcarpet\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~\t~-4\t~-20\t~\t~-5\tcampfire\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~1\t~-4\t~-20\t~1\t~-5\tiron_trapdoor\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~\t~-4\t~-19\t~\t~-5\tiron_trapdoor\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~2\t~-3\t~-20\t~2\t~-6\tstone_slab3\t11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~2\t~-7\t~-18\t~2\t~-7\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~3\t~-7\t~-19\t~3\t~-7\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-12\t~\t~-3\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~2\t~-1\tbirch_trapdoor\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~1\t~5\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~5\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~1\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~-1\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~\t~4\tbirch_button\t2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~4\tbirch_button\t2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~-3\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~-7\tconcrete\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~-7\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~6\t~-3\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-15\t~\t~-3\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~1\t~-3\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~3\t~-5\tcobblestone_wall\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~1\t~-3\t~-12\t~2\t~-3\tleaves\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~\t~-3\t~-16\t~1\t~-3\tleaves\t0\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~-7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-12\t~5\t~5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-15\t~\t~-3\t~-16\t~1\t~-3\t~-16\t~2\t~-3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~8\t~-7\t~-21\t~8\t~7\tlight_block\t15\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~3\t~5\t~-12\t~3\t~-7\tlight_block\t15\tkeep",
+ "cmd_ver" : 12
+ }
+ ],
+ "mode" : 0,
+ "text" : "/fill\t~-1\t~-1\t~8\t~-23\t~11\t~-9\tair\t\n/fill\t~-1\t~-1\t~8\t~-23\t~-1\t~-9\tconcrete\t0\t\n/fill\t~-2\t~-1\t~7\t~-9\t~-1\t~-1\tgrass\t0\t\n/fill\t~-2\t~-1\t~-3\t~-9\t~-1\t~-8\twater\t0\t\n/fill\t~-2\t~-2\t~-3\t~-9\t~-2\t~-8\tquartz_block\t1\t\n/fill\t~-3\t~\t~6\t~-8\t~\t~6\tquartz_stairs\t6\t\n/setblock\t~-3\t~\t~7\tquartz_stairs\t5\n/setblock\t~-8\t~\t~7\tquartz_stairs\t4\n/fill\t~-4\t~\t~7\t~-7\t~\t~7\tquartz_stairs\t\t7\n/fill\t~-11\t~-1\t~6\t~-21\t~-1\t~-8\tquartz_block\t2\n/fill\t~-10\t~\t~8\t~-22\t~4\t~8\tconcrete\t15\t\n/fill\t~-12\t~1\t~8\t~-20\t~3\t~8\tstone_slab\t14\t\n/fill\t~-9\t~\t~3\t~-23\t~11\t~1\tconcrete\t0\n/fill\t~-10\t~\t~3\t~-22\t~10\t~1\tair\t\n/fill\t~-9\t~\t~2\t~-23\t~11\t~2\tair\t\n/fill\t~-11\t~\t~6\t~-21\t~4\t~-8\tconcrete\t0\toutline\n/fill\t~-12\t~\t~5\t~-20\t~\t~-7\tair\t0\treplace\tconcrete\t0\n/fill\t~-10\t~4\t~8\t~-22\t~4\t~-9\tconcrete\t15\n/fill\t~-11\t~4\t~7\t~-21\t~4\t~-8\tconcrete\t0\n/fill\t~-10\t~5\t~8\t~-22\t~5\t~-2\tstained_glass_pane\t0\t\n/fill\t~-11\t~5\t~7\t~-21\t~5\t~-1\tair\n/fill\t~-11\t~4\t~6\t~-21\t~9\t~-8\tconcrete\t0\thollow\n/fill\t~-11\t~\t~5\t~-11\t~3\t~-1\tair\n/fill\t~-12\t~\t~-2\t~-14\t~3\t~-2\tconcrete\t8\n/fill\t~-15\t~\t~-1\t~-15\t~3\t~5\tconcrete\t8\n/fill\t~-15\t~1\t~\t~-15\t~2\t~4\tair\t\n/fill\t~-15\t~\t~-2\t~-20\t~3\t~-2\tconcrete\t0\n/fill\t~-11\t~1\t~-3\t~-11\t~3\t~-7\tconcrete\t8\n/fill\t~-12\t~1\t~-8\t~-20\t~3\t~-8\tconcrete\t8\n/fill\t~-21\t~1\t~-7\t~-21\t~3\t~-3\tconcrete\t8\n/fill\t~-21\t~1\t~\t~-21\t~3\t~4\tconcrete\t8\t\n/fill\t~-20\t~1\t~6\t~-16\t~3\t~6\tconcrete\t8\n/fill\t~-11\t~5\t~5\t~-21\t~8\t~-1\tair\n/fill\t~-12\t~5\t~6\t~-20\t~8\t~6\tair\n/fill\t~-11\t~5\t~-2\t~-21\t~8\t~-2\tconcrete\t0\n/fill\t~-11\t~6\t~-3\t~-11\t~8\t~-7\tconcrete\t8\n/fill\t~-12\t~6\t~-8\t~-20\t~8\t~-8\tconcrete\t8\n/fill\t~-21\t~6\t~-7\t~-21\t~8\t~-3\tconcrete\t8\n/fill\t~-10\t~4\t~-9\t~-22\t~10\t~-9\tconcrete\t15\n/fill\t~-11\t~5\t~-9\t~-21\t~9\t~-9\tair\n/fill\t~-10\t~10\t~8\t~-22\t~10\t~-9\tconcrete\t15\n/fill\t~-11\t~8\t~-4\t~-11\t~1\t~-6\tstained_glass_pane\t15\treplace\tconcrete\t8\n/fill\t~-13\t~8\t~-8\t~-19\t~1\t~-8\tstained_glass_pane\t15\treplace\tconcrete\t8\n/fill\t~-21\t~8\t~-6\t~-21\t~1\t~-4\tstained_glass_pane\t15\treplace\tconcrete\t8\n/fill\t~-21\t~3\t~1\t~-21\t~1\t~3\tstained_glass_pane\t15\n/fill\t~-19\t~2\t~6\t~-17\t~1\t~6\tstained_glass_pane\t15\n/fill\t~-15\t~2\t~4\t~-15\t~1\t~\tstained_glass_pane\t15\n/setblock\t~-14\t~\t~-7\tquartz_stairs\t1\n/setblock\t~-15\t~\t~-7\tquartz_stairs\t4\n/setblock\t~-15\t~1\t~-7\tquartz_stairs\t1\n/setblock\t~-16\t~1\t~-7\tquartz_stairs\t4\n/setblock\t~-16\t~2\t~-7\tquartz_stairs\t1\n/setblock\t~-17\t~2\t~-7\tquartz_stairs\t4\n/setblock\t~-17\t~3\t~-7\tquartz_stairs\t1\n/setblock\t~-18\t~3\t~-7\tquartz_stairs\t4\n/setblock\t~-18\t~4\t~-7\tquartz_stairs\t1\n/fill\t~-12\t~5\t~-6\t~-18\t~5\t~-6\tstained_glass_pane\t15\n/fill\t~-12\t~4\t~-7\t~-17\t~4\t~-7\tair\n/setblock\t~-13\t~\t~-2\tdark_oak_door\t3\n/setblock\t~-18\t~\t~-2\tdark_oak_door\t1\n/fill\t~-17\t~\t~5\t~-19\t~\t~5\tbed\n/setblock\t~-20\t~\t~\twooden_slab\t13\n/setblock\t~-20\t~\t~1\tdark_oak_stairs\t6\n/setblock\t~-20\t~\t~-1\tdark_oak_stairs\t7\n/setblock\t~-20\t~5\t~-3\tdark_oak_stairs\t6\n/setblock\t~-20\t~5\t~-4\twooden_slab\t13\n/setblock\t~-20\t~5\t~-5\tdark_oak_stairs\t7\n/fill\t~-12\t~5\t~-3\t~-14\t~7\t~-3\tbookshelf\t0\n/fill\t~-16\t~5\t~-2\t~-17\t~5\t~-2\tdark_oak_door\t3\n/fill\t~-16\t~5\t~5\t~-16\t~5\t~6\tbarrier\t0\n/fill\t~-15\t~5\t~5\t~-17\t~5\t~6\tend_rod\t0\tkeep\n/fill\t~-13\t~5\t~-1\t~-14\t~5\t~-1\tspruce_stairs\t3\n/fill\t~-19\t~5\t~-1\t~-20\t~5\t~-1\tspruce_stairs\t3\n/fill\t~-13\t~5\t~\t~-14\t~5\t~1\twooden_slab\t1\n/fill\t~-19\t~5\t~\t~-20\t~5\t~1\twooden_slab\t1\n/fill\t~-16\t~\t~-1\t~-16\t~1\t~-1\tchest\t0\n/fill\t~-17\t~\t~-1\t~-17\t~1\t~-1\tbirch_trapdoor\t9\n/fill\t~-15\t~6\t~5\t~-17\t~6\t~6\tcarpet\t0\n/setblock\t~-14\t~5\t~6\tspruce_stairs\t0\n/setblock\t~-18\t~5\t~6\tspruce_stairs\t1\n/setblock\t~-16\t~5\t~4\tspruce_stairs\t3\n/setblock\t~-12\t~5\t~-1\tend_rod\t0\n/setblock\t~-12\t~6\t~-1\tcarpet\t0\n/setblock\t~-21\t~5\t~-1\tend_rod\t0\n/setblock\t~-21\t~6\t~-1\tcarpet\t0\n/setblock\t~-14\t~6\t~-3\toak_stairs\t1\n/setblock\t~-14\t~7\t~-3\toak_stairs\t5\n/setblock\t~-13\t~7\t~-3\twooden_slab\t8\n/setblock\t~-13\t~6\t~-3\tflower_pot\t0\n/setblock\t~-13\t~5\t~-3\twooden_slab\t8\n/fill\t~-16\t~\t~5\t~-20\t~\t~5\tloom\t0\tkeep\n/fill\t~-16\t~\t~\t~-16\t~1\t~\tbirch_trapdoor\t10\n/fill\t~-20\t~\t~2\t~-20\t~3\t~2\tdark_oak_trapdoor\t10\n/fill\t~-20\t~2\t~1\t~-20\t~2\t~-1\tiron_trapdoor\t7\n/fill\t~-20\t~3\t~1\t~-20\t~3\t~-1\tcarpet\t0\n/fill\t~-20\t~\t~-3\t~-20\t~\t~-6\tstone\t4\n/fill\t~-19\t~\t~-7\t~-17\t~\t~-7\tstone\t4\n/fill\t~-20\t~1\t~-3\t~-20\t~1\t~-7\tcarpet\t7\n/fill\t~-19\t~1\t~-7\t~-17\t~1\t~-7\tcarpet\t7\n/fill\t~-20\t~\t~-4\t~-20\t~\t~-5\tcampfire\t0\n/fill\t~-20\t~1\t~-4\t~-20\t~1\t~-5\tiron_trapdoor\t0\n/fill\t~-19\t~\t~-4\t~-19\t~\t~-5\tiron_trapdoor\t8\n/fill\t~-20\t~2\t~-3\t~-20\t~2\t~-6\tstone_slab3\t11\n/fill\t~-20\t~2\t~-7\t~-18\t~2\t~-7\tcarpet\t0\n/fill\t~-20\t~3\t~-7\t~-19\t~3\t~-7\tcarpet\t0\n/setblock\t~-12\t~\t~-3\tend_rod\t0\n/setblock\t~-16\t~2\t~-1\tbirch_trapdoor\t0\n/setblock\t~-16\t~1\t~5\tflower_pot\t0\n/setblock\t~-20\t~1\t~5\tflower_pot\t0\n/setblock\t~-20\t~1\t~1\tflower_pot\t0\n/setblock\t~-20\t~1\t~-1\tflower_pot\t0\n/setblock\t~-16\t~\t~4\tbirch_button\t2\n/setblock\t~-20\t~\t~4\tbirch_button\t2\n/setblock\t~-20\t~1\t~-3\tflower_pot\t0\n/setblock\t~-20\t~\t~-7\tconcrete\t7\n/setblock\t~-20\t~1\t~-7\tflower_pot\t0\n/setblock\t~-20\t~6\t~-3\tflower_pot\t0\n/setblock\t~-15\t~\t~-3\tend_rod\t0\n/setblock\t~-16\t~1\t~-3\tend_rod\t0\n/setblock\t~-20\t~3\t~-5\tcobblestone_wall\t4\n/fill\t~-12\t~1\t~-3\t~-12\t~2\t~-3\tleaves\t0\n/fill\t~-15\t~\t~-3\t~-16\t~1\t~-3\tleaves\t0\tkeep\n/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~-7\n/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-12\t~5\t~5\n/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~5\n/clone\t~-15\t~\t~-3\t~-16\t~1\t~-3\t~-16\t~2\t~-3\n/fill\t~-12\t~8\t~-7\t~-21\t~8\t~7\tlight_block\t15\tkeep\n/fill\t~-20\t~3\t~5\t~-12\t~3\t~-7\tlight_block\t15\tkeep",
+ "type" : 1
+ },
+ {
+ "button_name" : "KillButton",
+ "data" : [
+ {
+ "cmd_line" : "kill@e[type=npc,r=1]",
+ "cmd_ver" : 12
+ }
+ ],
+ "mode" : 0,
+ "text" : "kill@e[type=npc,r=1]",
+ "type" : 1
+ }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cMade By I Own a FanÂ§dâœŒ
+==============
+Â§dâœŒFans House BuilderÂ§dâœŒ
+==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:bow",Slot:8b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,display:{Name:"î„ƒî„î‚†î€†î€‡î€¡î€£î€¢"},ench:[{id:21s,lvl:1s},{id:17s,lvl:3s},{id:26s,lvl:1s},{id:19s,lvl:5s},{id:20s,lvl:2s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_chestplate",Slot:9b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,display:{Name:"â˜­Â§cTÂ§6IÂ§eTÂ§aTÂ§9IÂ§bEÂ§5Sâ˜­"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_helmet",Slot:10b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,display:{Name:"Â§eâ˜¢â˜£Â§cSÂ§6PÂ§eEÂ§aD Â§bCÂ§5AÂ§cPâ˜¢â˜£"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:shield",Slot:11b,WasPickedUp:0b,tag:{Damage:0,RepairCost:3,display:{Name:"î€†î€‡"},ench:[{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_hoe",Slot:12b,WasPickedUp:0b,tag:{Damage:0,RepairCost:3,display:{Name:"Â§5â¦Â§3HOEÂ§5â¦"},ench:[{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_axe",Slot:13b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,display:{Name:"îƒ… Â§4â– â–‚ â–ƒ â–„ â–… â–† â–‡ â–ˆîƒ…"},ench:[{id:18s,lvl:3s},{id:9s,lvl:5s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:cooked_beef",Slot:14b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:apple",Slot:15b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:16b,WasPickedUp:0b},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:17b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:diamond_leggings",Slot:18b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,display:{Name:"âœŒÂ§cLÂ§6EÂ§eGÂ§aGÂ§9IÂ§bNÂ§5GÂ§cSÂ§dâœŒ"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_boots",Slot:19b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,display:{Name:"î€î€¡î€¡Â§4â“‰S"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_pickaxe",Slot:20b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,display:{Name:"Â§4â™¥â™¡Â§cPÂ§aIÂ§eCÂ§5KÂ§1AÂ§2XÂ§bEÂ§4â™¡â™¥"},ench:[{id:18s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s},{id:15s,lvl:5s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_sword",Slot:21b,WasPickedUp:0b,tag:{Damage:0,RepairCost:7,display:{Name:"Â§dâ“ƒÂ§bâ’¾Â§câ“–Â§eâ“–Â§9â’ºî€‹"},ench:[{id:17s,lvl:3s},{id:13s,lvl:2s},{id:9s,lvl:5s},{id:14s,lvl:3s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_shovel",Slot:22b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,display:{Name:"Â§9âœ¯Â§4â” â”¨î€€î€ î€ Â§9âœ¯"},ench:[{id:17s,lvl:3s},{id:16s,lvl:1s},{id:15s,lvl:5s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:apple",Slot:23b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:cooked_beef",Slot:24b,WasPickedUp:0b},{Count:1b,Damage:2s,Name:"minecraft:writable_book",Slot:25b,WasPickedUp:0b,tag:{author:" ",display:{Name:"Â§rÂ§cHow To Train a Monkey"},ench:[],generation:2,pages:[0]}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["Â§4(Fan & Pink's All In One NPC And Legit Diamond Kit)"],Name:"î‚ Â§4â¤Â§cFÂ§6AÂ§eNÂ§aS Â§bBÂ§5OÂ§4Xâ¤î‚¡"},facing:1b}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:4b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"light_blue"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:5b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cDifficulty Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4Difficulty_H",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\th",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\th",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Difficulty_N",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tn",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\tn",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Difficulty_E",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\te",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\te",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Difficulty_P",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tp",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\tp",
+      "type" : 1
+   },
+    {
+      "button_name" : "Â§4GamemodeCAll",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GamemodeSAll",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/gamemode\ts\t@a",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cMade By Bash#0067
+Â§7==============
+Â§c
+Â§7==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cTrollers Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4ClearALLEChests",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t0\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t1\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t2\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t3\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t4\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t5\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t6\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t7\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t8\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t9\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t10\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t11\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t12\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t13\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t14\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t15\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t16\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t17\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t18\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t19\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t20\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t21\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t22\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t23\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t24\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t25\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t26\tair",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/replaceitem\tentity\t@a\tslot.enderchest\t0\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t1\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t2\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t3\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t4\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t5\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t6\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t7\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t8\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t9\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t10\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t11\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t12\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t13\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t14\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t15\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t16\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t17\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t18\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t19\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t20\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t21\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t22\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t23\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t24\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t25\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t26\tair",
+      "type" : 1
+   },
+   { 
+      "button_name" : "Â§4SummonLava",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@a\t~~~\tfill\t~5~8~5~-5~~-5\tlava", 
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/gamerule\tfiredamage\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tpvp\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/execute\t@a\t~~~\tfill\t~5~8~5~-5~~-5\tlava\n/gamerule\tfiredamage\ttrue\n/gamerule\tkeepinventory\tfalse\n/gamerule\tpvp\ttrue",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMC", 
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4ClearAll",
+      "data" : [
+         {
+            "cmd_line" : "/clear\t@a[rm=5]",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/playsound\tambient.weather.lightning.impact\t@a[rm=5]\t~~~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/clear\t@a[rm=5]\n/playsound\tambient.weather.lightning.impact\t@a[rm=5]\t~~~\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Effects",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@a\tinstant_health\t999999\t255\ttrue",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/effect\t@a\tabsorption\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\thealth_boost\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tregeneration\t999999v255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tresistance\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tnight_vision\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tstrength\t999999\t50\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\thaste\t999999\t10\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tconduit_power\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect\t@a\tinstant_health\t999999\t255\ttrue\n/effect\t@a\tabsorption\t999999\t255\ttrue\n/effect\t@a\thealth_boost\t999999\t255\ttrue\n/effect\t@a\tregeneration\t999999v255\ttrue\n/effect\t@a\tresistance\t999999\t255\ttrue\n/effect\t@a\tnight_vision\t999999\t255\ttrue\n/effect\t@a\tstrength\t999999\t50\ttrue\n/effect\t@a\thaste\t999999\t10\ttrue\n/effect\t@a\tconduit_power\t999999\t255\ttrue\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GameruleFucker",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\tspawnradius\t0",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/gamerule\tdoimmediaterespawn\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfalldamage\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tnaturalregeneration\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfunctioncommandlimit\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tcommandblockoutput\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tcommandblocksenabled\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\ttntexplodes\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tpvp\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tshowcoordinates\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule\tspawnradius\t0\n/gamerule\tdoimmediaterespawn\ttrue\n/gamerule\tkeepinventory\tfalse\n/gamerule\tfalldamage\ttrue\n/gamerule\tnaturalregeneration\tfalse\n/gamerule\tfunctioncommandlimit\t0\n/gamerule\tcommandblockoutput\tfalse\n/gamerule\tcommandblocksenabled\tfalse\n/gamerule\ttntexplodes\ttrue\n/gamerule\tpvp\ttrue\n/gamerule\tshowcoordinates\tfalse\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNpc By bash#0067
+Â§7==============
+Â§
+Â§7==============Â§5",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cBase Builder"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§bBuildFirst",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~-14\t~\t~-14\t~14\t~6\t~26\tobsidian\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-12\t~1\t~-12\t~12\t~5\t~24\tglass\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-13\t~-3\t~-13\t~13\t~6\t~25\tlava\t0\toutline",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~\t~\t~\t~\t~6\t~26\tsealantern\t1\treplace\tobsidian",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~\t~\t~\t~\t~6\t~-26\tsealantern\t1\treplace\tobsidian",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/summon\tskeleton_horse\t~10\t~2\t~\tminecraft:on_saddled\tÂ§lÂ§4.HÂ§5aÂ§4tÂ§5eÂ§4dÂ§5sÂ§4SÂ§5tÂ§4eÂ§5eÂ§4d",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~1\t~23\tchest",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~1\t~23\tchest",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/fill\t~-14\t~\t~-14\t~14\t~6\t~26\tobsidian\t0\thollow\n/fill\t~-12\t~1\t~-12\t~12\t~5\t~24\tglass\t0\thollow\n/fill\t~-13\t~-3\t~-13\t~13\t~6\t~25\tlava\t0\toutline\n/fill\t~\t~\t~\t~\t~6\t~26\tsealantern\t1\treplace\tobsidian\n/fill\t~\t~\t~\t~\t~6\t~-26\tsealantern\t1\treplace\tobsidian\n/summon\tskeleton_horse\t~10\t~2\t~\tminecraft:on_saddled\tï¿½lï¿½4.Hï¿½5aï¿½4tï¿½5eï¿½4dï¿½5sï¿½4Sï¿½5tï¿½4eï¿½5eï¿½4d\n/setblock\t~11\t~1\t~23\tchest\n/setblock\t~10\t~1\t~23\tchest",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§bBuildSecond",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~\t~\t~\t~1\t~6\t~4\tair\t1\treplace\tobsidian",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t0\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t1\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t2\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t3\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t4\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t5\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t6\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t7\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t8\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t9\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t10\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t11\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t12\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t13\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t14\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t15\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t16\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t17\tglass\t64",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/fill\t~\t~\t~\t~1\t~6\t~4\tair\t1\treplace\tobsidian\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t0\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t1\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t2\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t3\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t4\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t5\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t6\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t7\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t8\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t9\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t10\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t11\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t12\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t13\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t14\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t15\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t16\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t17\tglass\t64",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§bBuildThird",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t18\tdiamond_helmet\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t19\tdiamond_chestplate\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t20\tdiamond_leggings\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t21\tdiamond_boots\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t22\tdiamond_sword\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t23\tdiamond_pickaxe\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t24\tdiamond_axe\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t25\tdiamond_shovel\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t26\tdiamond_block\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t45\tappleenchanted\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t53\tappleenchanted\t64",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t18\tdiamond_helmet\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t19\tdiamond_chestplate\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t20\tdiamond_leggings\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t21\tdiamond_boots\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t22\tdiamond_sword\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t23\tdiamond_pickaxe\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t24\tdiamond_axe\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t25\tdiamond_shovel\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t26\tdiamond_block\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t45\tappleenchanted\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t53\tappleenchanted\t64",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4CmdOutputOff",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\tcommandblockoutput\tfalse",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule\tcommandblockoutput\tfalse",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4HolymodePot",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tregeneration\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tfire_resistance\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tresistance\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tinstant_health\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tconduit_power\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\thealth_boost\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect\t@p\tregeneration\t99999999\t3\ttrue\n/effect\t@p\tfire_resistance\t99999999\t3\ttrue\n/effect\t@p\tresistance\t99999999\t3\ttrue\n/effect\t@p\tinstant_health\t99999999\t3\ttrue\n/effect\t@p\tconduit_power\t99999999\t3\ttrue\n/effect\t@p\thealth_boost\t99999999\t3\ttrue",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4BotKill",
+      "data" : [
+         {
+            "cmd_line" : "kill@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNpc By LePro
+Â§7==============
+Â§
+Â§7==============Â§5",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:3b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cAdmins Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4SummonTNT@a",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\ttntexplodes\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfiredamage\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~~~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~1~~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~~~-1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~~~1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~-1~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/gamerule\ttntexplodes\ttrue\n/gamerule\tfiredamage\ttrue\n/gamerule\tkeepinventory\tfalse\n/execute\t@a\t~~~summon\ttnt\t~~~\n/execute\t@a\t~~~summon\ttnt\t~1~~\n/execute\t@a\t~~~summon\ttnt\t~~~-1\n/execute\t@a\t~~~summon\ttnt\t~~~1\n/execute\t@a\t~~~summon\ttnt\t~-
+	~~",
+      "type" : 1
+   },
+   { 
+      "button_name" : "Â§4Tp@a",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@a\t~\t~\t~", 
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@a\t~\t~\t~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4WeatherClear", 
+      "data" : [
+         {
+            "cmd_line" : "/weather\tclear",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/time\tset\tday",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/weather\tclear\n/time\tset\tday",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4BigHole@a",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@a\t~~~\tfill\t~~~\t~-100\t~-2\t~-100\tair",
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/execute\t@a\t~~~\tfill\t~~~\t~-100\t~-2\t~-100\tair",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillAll",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@a[tag=!save]",
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@a[tag=!save]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Stealth",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tinvisibility\t100000\t255\ttrue",
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect\t@p\tinvisibility\t100000\t255\ttrue",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNpc By bash#0067
+Â§7==============
+Â§c
+Â§7==============Â§5",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:4b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cTeleport Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{CustomName:"Â§1",Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4TpAll",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@a\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@a\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@r\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@r\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpRandomToRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@r\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@r\t@r",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpToRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@p\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@p\t@r",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpEntities",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@e\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@e\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpAllToRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@a\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@a\t@r",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cnpc by bash#0067
+Â§7==============
+Â§cu
+Â§7==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:5b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cGamemode Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4GMC(Self)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMS(Self)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ts\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMA(Self)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ta\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ta\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMC(All)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMS(All)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ts\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMA(All)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ta\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ta\t@a",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cpanel by bash#0067
+Â§7==============
+Â§c
+Â§7==============Â§4",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["stone_pressure_plate","diamond_ore","wooden_door","chest","diamond_block","oak_stairs","redstone_wire","crafting_table","furnace","standing_sign","ladder","stone_stairs","wall_sign","rail","iron_door","lever","redstone_ore","bedrock","stone","cobblestone","planks","sapling","dirt","wooden_pressure_plate","gravel","sponge","iron_ore","sand","gold_ore","coal_ore","log","glass","lapis_ore","lapis_block","dispenser","sandstone","golden_rail","bed","detector_rail","red_mushroom","deadbush","web","yellow_flower","red_flower","wool","tallgrass","brown_mushroom","gold_block","iron_block","brick_block","tnt","mossy_cobblestone","torch","bookshelf","obsidian","stone_slab3","leaves","stone_slab2","grass","stone_slab","wooden_slab","double_stone_slab2","double_stone_slab","double_wooden_slab","leaves2","double_plant","double_stone_slab3","stone_slab4","double_stone_slab4","spruce_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","birch_pressure_plate","heavy_weighted_pressure_plate","acacia_pressure_plate","light_weighted_pressure_plate","ice","jukebox","snow_layer","unlit_redstone_torch","redstone_torch","snow","clay","pumpkin","stone_button","cactus","fence","netherrack","soul_sand","glowstone","monster_egg","lit_pumpkin","trapdoor","stonebrick","iron_bars","unpowered_repeater","cake","powered_repeater","red_mushroom_block","brown_mushroom_block","glass_pane","melon_block","vine","fence_gate","brick_stairs","stone_brick_stairs","mycelium","nether_brick_fence","waterlily","nether_brick","enchanting_table","cauldron","blue_ice","end_stone","beacon","nether_brick_stairs","nether_wart","mob_spawner","brewing_stand","end_portal_frame","dragon_egg","tripWire","emerald_block","dropper","sandstone_stairs","activator_rail","ender_chest","tripwire_hook","emerald_ore","spruce_stairs","birch_stairs","jungle_stairs","cobblestone_wall","flower_pot","skull","trapped_chest","anvil","powered_comparator","unpowered_comparator","wooden_button","hopper","quartz_stairs","quartz_block","iron_trapdoor","prismarine","seaLantern","acacia_stairs","daylight_detector","dark_oak_stairs","slime","redstone_block","stained_glass_pane","stained_hardened_clay","log2","red_sandstone_stairs","carpet","standing_banner","packed_ice","hay_block","coal_block","wall_banner","hardened_clay","red_sandstone","spruce_fence_gate","birch_fence_gate","dark_oak_fence_gate","jungle_fence_gate","jungle_door","spruce_door","birch_door","acacia_door","dark_oak_door","acacia_fence_gate","end_bricks","end_rod","magma","grass_path","purpur_stairs","purpur_block","chorus_flower","nether_wart_block","red_nether_brick","bone_block","white_glazed_terracotta","purple_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","brown_glazed_terracotta","gray_glazed_terracotta","light_blue_glazed_terracotta","shulker_box","orange_glazed_terracotta","yellow_glazed_terracotta","pink_glazed_terracotta","silver_glazed_terracotta","blue_glazed_terracotta","cyan_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","black_glazed_terracotta","stained_glass","concrete","concretePowder","chorus_plant","prismarine_bricks_stairs","observer","prismarine_stairs","dark_prismarine_stairs","coral_block","coral_fan","coral_fan_dead","coral","kelp","seagrass","dried_kelp_block","acacia_button","birch_button","spruce_trapdoor","jungle_trapdoor","jungle_button","acacia_trapdoor","spruce_button","dark_oak_trapdoor","dark_oak_button","birch_trapdoor","carved_pumpkin","sea_pickle","turtle_egg","bamboo","barrier","granite_stairs","diorite_stairs","andesite_stairs","scaffolding","polished_granite_stairs","polished_diorite_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","normal_stone_stairs","smooth_quartz_stairs","birch_wall_sign","smooth_stone","jungle_wall_sign","jungle_standing_sign","birch_standing_sign","red_nether_brick_stairs","mossy_cobblestone_stairs","spruce_standing_sign","spruce_wall_sign","acacia_standing_sign","acacia_wall_sign","darkoak_standing_sign","darkoak_wall_sign","lectern","fletching_table","lantern","smoker","cartography_table","smithing_table","barrel","bell","grindstone","blast_furnace","loom","wood","campfire","beehive","honeycomb_block","wither_rose","honey_block","bee_nest","composter"],Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:6b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cKill Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4KillEntities",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@e",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillRandom",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@r\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillAll",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillAllNpcs",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e[type=npc]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@e[type=npc]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillNpcs12BR",
+      "data" : [
+         {
+            "cmd_line" : "kill@e[type=npc,r=12]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=12]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Creative",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p[r=5]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p[r=5]",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNPC By I Own a Fan
+Â§7==============
+
+Â§7==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}],RepairCost:0,display:{Lore:["Â§(Admind Panel Does Cool Things Brrrrrr"],Name:"î„‚Â§cPanel Shulkerî„‚"},facing:1b}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:6b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:7b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:8b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:9b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:10b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:11b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:12b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"pink"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:13b,WasPickedUp:0b,tag:{CustomName:"î€ƒÂ§cBÂ§6uÂ§eiÂ§alÂ§9d Â§5KÂ§ciÂ§6tî€ƒ",Findable:0b,Items:[{Block:{name:"minecraft:undyed_shulker_box",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:undyed_shulker_box",Slot:3b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:purpur_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:purpur_stairs",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:purpur_block",states:{chisel_type:"lines",pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:purpur_block",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:purpur_block",states:{chisel_type:"default",pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:purpur_block",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:purpur_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:purpur_stairs",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"purpur",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"purpur",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:purpur_block",states:{chisel_type:"lines",pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:purpur_block",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:purpur_block",states:{chisel_type:"default",pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:purpur_block",Slot:7b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:shulker_shell",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:end_stone",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:end_stone",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab3",states:{stone_slab_type_3:"end_stone_brick",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab3",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab3",states:{stone_slab_type_3:"end_stone_brick",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab3",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:end_bricks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:end_bricks",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:cobblestone_wall",states:{wall_block_type:"end_brick",wall_connection_type_east:"none",wall_connection_type_north:"none",wall_connection_type_south:"none",wall_connection_type_west:"none",wall_post_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:cobblestone_wall",Slot:13b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:shulker_shell",Slot:14b,WasPickedUp:0b},{Count:64b,Damage:5s,Name:"minecraft:skull",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:end_rod",states:{facing_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:end_rod",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:chorus_flower",states:{age:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:chorus_flower",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:cobblestone_wall",states:{wall_block_type:"end_brick",wall_connection_type_east:"none",wall_connection_type_north:"none",wall_connection_type_south:"none",wall_connection_type_west:"none",wall_post_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:cobblestone_wall",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:end_brick_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:end_brick_stairs",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:end_brick_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:end_brick_stairs",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:end_bricks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:end_bricks",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:obsidian",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:22b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:ender_chest",states:{facing_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:ender_chest",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:chorus_plant",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:chorus_plant",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:chest",states:{facing_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:chest",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"Â§5ãŠ£Â§cEÂ§6nÂ§edÂ§aeÂ§9rãŠ£"}}},{Block:{name:"minecraft:shulker_box",states:{color:"brown"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:4b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Block:{name:"minecraft:warped_stem",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_stem",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:1b,wood_type:"spruce"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:stripped_jungle_log",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stripped_jungle_log",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:0b,wood_type:"birch"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:1b,wood_type:"birch"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:log",states:{old_log_type:"oak",pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:log",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:stripped_warped_hyphae",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stripped_warped_hyphae",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:0b,wood_type:"jungle"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:1b,wood_type:"jungle"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:stripped_dark_oak_log",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stripped_dark_oak_log",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:planks",states:{wood_type:"birch"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:planks",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:planks",states:{wood_type:"spruce"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:planks",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_planks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_planks",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:warped_planks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_planks",Slot:13b,WasPickedUp:0b},{Block:{name:"minecraft:planks",states:{wood_type:"oak"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:planks",Slot:14b,WasPickedUp:0b},{Block:{name:"minecraft:planks",states:{wood_type:"jungle"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:planks",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:planks",states:{wood_type:"acacia"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:planks",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:planks",states:{wood_type:"dark_oak"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:planks",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:0b,wood_type:"oak"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:log",states:{old_log_type:"birch",pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:log",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:1b,wood_type:"dark_oak"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:stripped_crimson_hyphae",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stripped_crimson_hyphae",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_stem",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_stem",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:stripped_birch_log",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stripped_birch_log",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:0b,wood_type:"acacia"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:1b,wood_type:"acacia"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:wood",states:{pillar_axis:"y",stripped_bit:0b,wood_type:"spruce"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:wood",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["Â§e(Used To Build)"],Name:"Â§dâœŸÂ§cWÂ§6oÂ§eoÂ§adâœŸ"},facing:1b}},{Block:{name:"minecraft:shulker_box",states:{color:"light_blue"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:5b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:prismarine_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine_stairs",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine_stairs",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine",states:{prismarine_block_type:"default"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine",states:{prismarine_block_type:"default"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine_bricks_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine_bricks_stairs",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine_bricks_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine_bricks_stairs",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine",states:{prismarine_block_type:"bricks"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:dark_prismarine_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:dark_prismarine_stairs",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:dark_prismarine_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:dark_prismarine_stairs",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:13b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:14b,WasPickedUp:0b},{Block:{name:"minecraft:seaLantern",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sealantern",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine",states:{prismarine_block_type:"dark"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine",states:{prismarine_block_type:"dark"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:cobblestone_wall",states:{wall_block_type:"prismarine",wall_connection_type_east:"none",wall_connection_type_north:"none",wall_connection_type_south:"none",wall_connection_type_west:"none",wall_post_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:cobblestone_wall",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:cobblestone_wall",states:{wall_block_type:"prismarine",wall_connection_type_east:"none",wall_connection_type_north:"none",wall_connection_type_south:"none",wall_connection_type_west:"none",wall_post_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:cobblestone_wall",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"prismarine_rough",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"prismarine_rough",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"prismarine_brick",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"prismarine_brick",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:prismarine",states:{prismarine_block_type:"bricks"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:prismarine",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"prismarine_dark",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"prismarine_dark",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"î€ Â§bUnderwater Kitî€ "}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:10b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:11b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:12b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Block:{name:"minecraft:shulker_box",states:{color:"red"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:13b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:redstone_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:redstone_block",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:redstone_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:redstone_block",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:redstone_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:redstone_block",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:redstone_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:redstone_block",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:honey_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:honey_block",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:honey_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:honey_block",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:honey_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:honey_block",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:honey_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:honey_block",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:slime",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:slime",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:slime",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:slime",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:slime",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:slime",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:slime",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:slime",Slot:11b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:hopper",Slot:12b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:hopper",Slot:13b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:repeater",Slot:14b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:repeater",Slot:15b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:comparator",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:lever",states:{lever_direction:"down_east_west",open_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:lever",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:redstone_torch",states:{torch_facing_direction:"unknown"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:redstone_torch",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:redstone_torch",states:{torch_facing_direction:"unknown"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:redstone_torch",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:tripwire_hook",states:{attached_bit:0b,direction:0,powered_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:tripwire_hook",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:observer",states:{facing_direction:0,powered_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:observer",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:observer",states:{facing_direction:0,powered_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:observer",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:sticky_piston",states:{facing_direction:1},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sticky_piston",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:sticky_piston",states:{facing_direction:1},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sticky_piston",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:piston",states:{facing_direction:1},version:17879555},Count:64b,Damage:0s,Name:"minecraft:piston",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:piston",states:{facing_direction:1},version:17879555},Count:64b,Damage:0s,Name:"minecraft:piston",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"î‚ Â§4RedStoneî‚¡"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:14b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:15b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:16b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§4Â§l â–†â–‡â–ˆâ–ˆâ–ˆâ–‡â–†"}}},{Block:{name:"minecraft:shulker_box",states:{color:"orange"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:21b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:concrete",states:{color:"cyan"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"blue"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"purple"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"cyan"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"green"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"light_blue"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"pink"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"magenta"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"white"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"red"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"green"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"orange"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"yellow"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"lime"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:13b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"lime"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:14b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"yellow"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"orange"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"brown"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"black"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"silver"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"gray"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"gray"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"silver"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"white"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"brown"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"black"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:concrete",states:{color:"red"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:concrete",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"î€£  Â§3Concrete î€£"}}},{Block:{name:"minecraft:shulker_box",states:{color:"silver"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:22b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:warped_slab",states:{top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_slab",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:warped_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_stairs",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:warped_planks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_planks",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:warped_nylium",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_nylium",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:warped_stem",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_stem",Slot:4b,WasPickedUp:0b},{Count:16b,Damage:0s,Name:"minecraft:warped_sign",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_slab",states:{top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_slab",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:warped_fungus",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:warped_fungus",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_fungus",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_fungus",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab",states:{stone_slab_type:"nether_brick",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:nether_brick_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:nether_brick_stairs",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:chiseled_nether_bricks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:chiseled_nether_bricks",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:nether_brick",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:nether_brick",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:cobblestone_wall",states:{wall_block_type:"nether_brick",wall_connection_type_east:"none",wall_connection_type_north:"none",wall_connection_type_south:"none",wall_connection_type_west:"none",wall_post_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:cobblestone_wall",Slot:13b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_stem",states:{pillar_axis:"y"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_stem",Slot:14b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_stairs",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:nether_wart_block",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:nether_wart_block",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:nether_brick_fence",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:nether_brick_fence",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:stone_slab2",states:{stone_slab_type_2:"red_nether_brick",top_slot_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:double_stone_slab2",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:red_nether_brick_stairs",states:{upside_down_bit:0b,weirdo_direction:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:red_nether_brick_stairs",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:red_nether_brick",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:red_nether_brick",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:cobblestone_wall",states:{wall_block_type:"red_nether_brick",wall_connection_type_east:"none",wall_connection_type_north:"none",wall_connection_type_south:"none",wall_connection_type_west:"none",wall_post_bit:0b},version:17879555},Count:64b,Damage:0s,Name:"minecraft:cobblestone_wall",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_nylium",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_nylium",Slot:22b,WasPickedUp:0b},{Count:16b,Damage:0s,Name:"minecraft:crimson_sign",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:crimson_planks",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crimson_planks",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:crying_obsidian",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:crying_obsidian",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:respawn_anchor",states:{respawn_anchor_charge:0},version:17879555},Count:64b,Damage:0s,Name:"minecraft:respawn_anchor",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"îƒ€   Â§eNether  îƒ"}}},{Block:{name:"minecraft:shulker_box",states:{color:"white"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:23b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:stained_hardened_clay",states:{color:"yellow"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:hardened_clay",states:{},version:17879555},Count:64b,Damage:0s,Name:"minecraft:hardened_clay",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"lime"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"red"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"brown"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"silver"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"white"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"black"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"gray"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:red_sandstone",states:{sand_stone_type:"heiroglyphs"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:red_sandstone",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:red_sandstone",states:{sand_stone_type:"default"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:red_sandstone",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"purple"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"magenta"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"pink"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:13b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"cyan"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:14b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"green"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"light_blue"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"blue"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:sandstone",states:{sand_stone_type:"default"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sandstone",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:sandstone",states:{sand_stone_type:"cut"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sandstone",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:sandstone",states:{sand_stone_type:"heiroglyphs"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sandstone",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:sandstone",states:{sand_stone_type:"smooth"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sandstone",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:sand",states:{sand_type:"normal"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sand",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:sand",states:{sand_type:"red"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:sand",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:red_sandstone",states:{sand_stone_type:"cut"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:red_sandstone",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:red_sandstone",states:{sand_stone_type:"smooth"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:red_sandstone",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:stained_hardened_clay",states:{color:"orange"},version:17879555},Count:64b,Damage:0s,Name:"minecraft:stained_hardened_clay",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"î†Â§4Terracottaî‡"}}}],RepairCost:0,display:{Lore:["Â§e(Used To Build Shâ’¾t)"],Name:"î€ƒÂ§cBÂ§6uÂ§eiÂ§alÂ§9d Â§5KÂ§ciÂ§6tî€ƒ"},facing:1b}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:14b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:15b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:16b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:17b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:18b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:19b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:20b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"green"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:21b,WasPickedUp:0b,tag:{CustomName:"î€©Â§4â˜£Harmerâ˜£î€©",Findable:0b,Items:[{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:0b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:1b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:2b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:3b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:4b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:5b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:6b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:7b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:8b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:9b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:10b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:11b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:12b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:13b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:14b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:15b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:16b,WasPickedUp:0b},{Count:1b,Damage:24s,Name:"minecraft:splash_potion",Slot:17b,WasPickedUp:0b},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:18b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:19b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:20b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:21b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:22b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:23b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:24b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:25b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:26b,WasPickedUp:0b,tag:{ench:[{id:0s,lvl:1s}]}}],RepairCost:0,display:{Lore:["Â§4(Harms You And Others)"],Name:"î€©Â§4â˜£Harmerâ˜£î€©"},facing:1b}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:22b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"orange"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:23b,WasPickedUp:0b,tag:{CustomName:"îƒ¤Â§eâ˜€Healerâ˜€îƒ£",Findable:0b,Items:[{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:0b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:1b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:2b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:3b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:4b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:5b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:6b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:7b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:8b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:9b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:10b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:11b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:12b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:13b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:14b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:15b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:16b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:17b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:18b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:19b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:20b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:21b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:22b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:23b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:24b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:25b,WasPickedUp:0b},{Count:1b,Damage:22s,Name:"minecraft:splash_potion",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["Â§e(Heals You And Others)"],Name:"îƒ¤Â§eâ˜€Healerâ˜€îƒ£"},facing:1b}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:24b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:25b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}},{Count:1b,Damage:0s,Name:"minecraft:oak_sign",Slot:26b,WasPickedUp:0b,tag:{IgnoreLighting:0b,PersistFormatting:1b,RepairCost:0,SignTextColor:-16777216,Text:"",TextIgnoreLegacyBugResolved:0b,TextOwner:"2535434805398358",display:{Lore:["Â§9(I Own A Fan & GODOFGAMES1223)"],Name:"Â§4â˜žCreditsâ˜œ"},ench:[{id:17s,lvl:69s},{id:26s,lvl:420s}]}}],RepairCost:0,display:{Lore:["Â§b(Â§câ™¨Hot & Spicy BundleÂ§câ™¨)"],Name:"î€Â§dFan Â§2& Â§9Game's Â§cNestedî€"},facing:1b}}

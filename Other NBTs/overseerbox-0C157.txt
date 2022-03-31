@@ -1,0 +1,1472 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"lime"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cGamemode Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4GMC(Self)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMS(Self)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ts\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMA(Self)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ta\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ta\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMC(All)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMS(All)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ts\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMA(All)",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ta\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ta\t@a",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cpanel by bash#0067
+Â§7==============
+Â§cjoin gg/horion and gg/jxEEdxbc cunt
+Â§7==============Â§4",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:1b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_helmet",Slot:2b,WasPickedUp:0b,tag:{Damage:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's 32k helmetÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:32767s},{id:28s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_chestplate",Slot:3b,WasPickedUp:0b,tag:{Damage:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's 32k chestplateÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:32767s},{id:28s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_sword",Slot:4b,WasPickedUp:0b,tag:{Damage:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's 32k swordÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:11s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:10s},{id:17s,lvl:32767s},{id:12s,lvl:10s},{id:26s,lvl:32767s},{id:28s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_leggings",Slot:5b,WasPickedUp:0b,tag:{Damage:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's 32k leggingsÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:32767s},{id:28s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_boots",Slot:6b,WasPickedUp:0b,tag:{Damage:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's 32k bootsÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:7s,lvl:32767s},{id:36s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:32767s},{id:28s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:7b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:8b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cBuild Mansion"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+ {
+ "button_name" : "BuildButton",
+ "data" : [
+ {
+ "cmd_line" : "/fill\t~-1\t~-1\t~8\t~-23\t~11\t~-9\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-1\t~-1\t~8\t~-23\t~-1\t~-9\tconcrete\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-2\t~-1\t~7\t~-9\t~-1\t~-1\tgrass\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-2\t~-1\t~-3\t~-9\t~-1\t~-8\twater\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-2\t~-2\t~-3\t~-9\t~-2\t~-8\tquartz_block\t1\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-3\t~\t~6\t~-8\t~\t~6\tquartz_stairs\t6\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-3\t~\t~7\tquartz_stairs\t5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-8\t~\t~7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-4\t~\t~7\t~-7\t~\t~7\tquartz_stairs\t\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~-1\t~6\t~-21\t~-1\t~-8\tquartz_block\t2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~\t~8\t~-22\t~4\t~8\tconcrete\t15\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~1\t~8\t~-20\t~3\t~8\tstone_slab\t14\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-9\t~\t~3\t~-23\t~11\t~1\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~\t~3\t~-22\t~10\t~1\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-9\t~\t~2\t~-23\t~11\t~2\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~\t~6\t~-21\t~4\t~-8\tconcrete\t0\toutline",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~\t~5\t~-20\t~\t~-7\tair\t0\treplace\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~4\t~8\t~-22\t~4\t~-9\tconcrete\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~4\t~7\t~-21\t~4\t~-8\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~5\t~8\t~-22\t~5\t~-2\tstained_glass_pane\t0\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~7\t~-21\t~5\t~-1\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~4\t~6\t~-21\t~9\t~-8\tconcrete\t0\thollow",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~\t~5\t~-11\t~3\t~-1\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~\t~-2\t~-14\t~3\t~-2\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~\t~-1\t~-15\t~3\t~5\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~1\t~\t~-15\t~2\t~4\tair\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~\t~-2\t~-20\t~3\t~-2\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~1\t~-3\t~-11\t~3\t~-7\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~1\t~-8\t~-20\t~3\t~-8\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~1\t~-7\t~-21\t~3\t~-3\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~1\t~\t~-21\t~3\t~4\tconcrete\t8\t",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~1\t~6\t~-16\t~3\t~6\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~5\t~-21\t~8\t~-1\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~5\t~6\t~-20\t~8\t~6\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~-2\t~-21\t~8\t~-2\tconcrete\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~6\t~-3\t~-11\t~8\t~-7\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~6\t~-8\t~-20\t~8\t~-8\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~6\t~-7\t~-21\t~8\t~-3\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~4\t~-9\t~-22\t~10\t~-9\tconcrete\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~5\t~-9\t~-21\t~9\t~-9\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-10\t~10\t~8\t~-22\t~10\t~-9\tconcrete\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-11\t~8\t~-4\t~-11\t~1\t~-6\tstained_glass_pane\t15\treplace\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-13\t~8\t~-8\t~-19\t~1\t~-8\tstained_glass_pane\t15\treplace\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~8\t~-6\t~-21\t~1\t~-4\tstained_glass_pane\t15\treplace\tconcrete\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-21\t~3\t~1\t~-21\t~1\t~3\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~2\t~6\t~-17\t~1\t~6\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~2\t~4\t~-15\t~1\t~\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-15\t~\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-15\t~1\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~1\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~2\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-17\t~2\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-17\t~3\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~3\t~-7\tquartz_stairs\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~4\t~-7\tquartz_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~5\t~-6\t~-18\t~5\t~-6\tstained_glass_pane\t15",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~4\t~-7\t~-17\t~4\t~-7\tair",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~\t~-2\tdark_oak_door\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~\t~-2\tdark_oak_door\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-17\t~\t~5\t~-19\t~\t~5\tbed",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~\twooden_slab\t13",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~1\tdark_oak_stairs\t6",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~-1\tdark_oak_stairs\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~5\t~-3\tdark_oak_stairs\t6",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~5\t~-4\twooden_slab\t13",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~5\t~-5\tdark_oak_stairs\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~5\t~-3\t~-14\t~7\t~-3\tbookshelf\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~5\t~-2\t~-17\t~5\t~-2\tdark_oak_door\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~5\t~5\t~-16\t~5\t~6\tbarrier\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~5\t~5\t~-17\t~5\t~6\tend_rod\t0\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-13\t~5\t~-1\t~-14\t~5\t~-1\tspruce_stairs\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~5\t~-1\t~-20\t~5\t~-1\tspruce_stairs\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-13\t~5\t~\t~-14\t~5\t~1\twooden_slab\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~5\t~\t~-20\t~5\t~1\twooden_slab\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~\t~-1\t~-16\t~1\t~-1\tchest\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-17\t~\t~-1\t~-17\t~1\t~-1\tbirch_trapdoor\t9",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~6\t~5\t~-17\t~6\t~6\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~5\t~6\tspruce_stairs\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-18\t~5\t~6\tspruce_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~5\t~4\tspruce_stairs\t3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-12\t~5\t~-1\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-12\t~6\t~-1\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-21\t~5\t~-1\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-21\t~6\t~-1\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~6\t~-3\toak_stairs\t1",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-14\t~7\t~-3\toak_stairs\t5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~7\t~-3\twooden_slab\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~6\t~-3\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-13\t~5\t~-3\twooden_slab\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~\t~5\t~-20\t~\t~5\tloom\t0\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-16\t~\t~\t~-16\t~1\t~\tbirch_trapdoor\t10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~\t~2\t~-20\t~3\t~2\tdark_oak_trapdoor\t10",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~2\t~1\t~-20\t~2\t~-1\tiron_trapdoor\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~3\t~1\t~-20\t~3\t~-1\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~\t~-3\t~-20\t~\t~-6\tstone\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~\t~-7\t~-17\t~\t~-7\tstone\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~1\t~-3\t~-20\t~1\t~-7\tcarpet\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~1\t~-7\t~-17\t~1\t~-7\tcarpet\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~\t~-4\t~-20\t~\t~-5\tcampfire\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~1\t~-4\t~-20\t~1\t~-5\tiron_trapdoor\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-19\t~\t~-4\t~-19\t~\t~-5\tiron_trapdoor\t8",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~2\t~-3\t~-20\t~2\t~-6\tstone_slab3\t11",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~2\t~-7\t~-18\t~2\t~-7\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~3\t~-7\t~-19\t~3\t~-7\tcarpet\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-12\t~\t~-3\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~2\t~-1\tbirch_trapdoor\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~1\t~5\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~5\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~1\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~-1\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~\t~4\tbirch_button\t2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~4\tbirch_button\t2",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~-3\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~\t~-7\tconcrete\t7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~1\t~-7\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~6\t~-3\tflower_pot\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-15\t~\t~-3\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-16\t~1\t~-3\tend_rod\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/setblock\t~-20\t~3\t~-5\tcobblestone_wall\t4",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~1\t~-3\t~-12\t~2\t~-3\tleaves\t0",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-15\t~\t~-3\t~-16\t~1\t~-3\tleaves\t0\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~-7",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-12\t~5\t~5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~5",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/clone\t~-15\t~\t~-3\t~-16\t~1\t~-3\t~-16\t~2\t~-3",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-12\t~8\t~-7\t~-21\t~8\t~7\tlight_block\t15\tkeep",
+ "cmd_ver" : 12
+ },
+ {
+ "cmd_line" : "/fill\t~-20\t~3\t~5\t~-12\t~3\t~-7\tlight_block\t15\tkeep",
+ "cmd_ver" : 12
+ }
+ ],
+ "mode" : 0,
+ "text" : "/fill\t~-1\t~-1\t~8\t~-23\t~11\t~-9\tair\t\n/fill\t~-1\t~-1\t~8\t~-23\t~-1\t~-9\tconcrete\t0\t\n/fill\t~-2\t~-1\t~7\t~-9\t~-1\t~-1\tgrass\t0\t\n/fill\t~-2\t~-1\t~-3\t~-9\t~-1\t~-8\twater\t0\t\n/fill\t~-2\t~-2\t~-3\t~-9\t~-2\t~-8\tquartz_block\t1\t\n/fill\t~-3\t~\t~6\t~-8\t~\t~6\tquartz_stairs\t6\t\n/setblock\t~-3\t~\t~7\tquartz_stairs\t5\n/setblock\t~-8\t~\t~7\tquartz_stairs\t4\n/fill\t~-4\t~\t~7\t~-7\t~\t~7\tquartz_stairs\t\t7\n/fill\t~-11\t~-1\t~6\t~-21\t~-1\t~-8\tquartz_block\t2\n/fill\t~-10\t~\t~8\t~-22\t~4\t~8\tconcrete\t15\t\n/fill\t~-12\t~1\t~8\t~-20\t~3\t~8\tstone_slab\t14\t\n/fill\t~-9\t~\t~3\t~-23\t~11\t~1\tconcrete\t0\n/fill\t~-10\t~\t~3\t~-22\t~10\t~1\tair\t\n/fill\t~-9\t~\t~2\t~-23\t~11\t~2\tair\t\n/fill\t~-11\t~\t~6\t~-21\t~4\t~-8\tconcrete\t0\toutline\n/fill\t~-12\t~\t~5\t~-20\t~\t~-7\tair\t0\treplace\tconcrete\t0\n/fill\t~-10\t~4\t~8\t~-22\t~4\t~-9\tconcrete\t15\n/fill\t~-11\t~4\t~7\t~-21\t~4\t~-8\tconcrete\t0\n/fill\t~-10\t~5\t~8\t~-22\t~5\t~-2\tstained_glass_pane\t0\t\n/fill\t~-11\t~5\t~7\t~-21\t~5\t~-1\tair\n/fill\t~-11\t~4\t~6\t~-21\t~9\t~-8\tconcrete\t0\thollow\n/fill\t~-11\t~\t~5\t~-11\t~3\t~-1\tair\n/fill\t~-12\t~\t~-2\t~-14\t~3\t~-2\tconcrete\t8\n/fill\t~-15\t~\t~-1\t~-15\t~3\t~5\tconcrete\t8\n/fill\t~-15\t~1\t~\t~-15\t~2\t~4\tair\t\n/fill\t~-15\t~\t~-2\t~-20\t~3\t~-2\tconcrete\t0\n/fill\t~-11\t~1\t~-3\t~-11\t~3\t~-7\tconcrete\t8\n/fill\t~-12\t~1\t~-8\t~-20\t~3\t~-8\tconcrete\t8\n/fill\t~-21\t~1\t~-7\t~-21\t~3\t~-3\tconcrete\t8\n/fill\t~-21\t~1\t~\t~-21\t~3\t~4\tconcrete\t8\t\n/fill\t~-20\t~1\t~6\t~-16\t~3\t~6\tconcrete\t8\n/fill\t~-11\t~5\t~5\t~-21\t~8\t~-1\tair\n/fill\t~-12\t~5\t~6\t~-20\t~8\t~6\tair\n/fill\t~-11\t~5\t~-2\t~-21\t~8\t~-2\tconcrete\t0\n/fill\t~-11\t~6\t~-3\t~-11\t~8\t~-7\tconcrete\t8\n/fill\t~-12\t~6\t~-8\t~-20\t~8\t~-8\tconcrete\t8\n/fill\t~-21\t~6\t~-7\t~-21\t~8\t~-3\tconcrete\t8\n/fill\t~-10\t~4\t~-9\t~-22\t~10\t~-9\tconcrete\t15\n/fill\t~-11\t~5\t~-9\t~-21\t~9\t~-9\tair\n/fill\t~-10\t~10\t~8\t~-22\t~10\t~-9\tconcrete\t15\n/fill\t~-11\t~8\t~-4\t~-11\t~1\t~-6\tstained_glass_pane\t15\treplace\tconcrete\t8\n/fill\t~-13\t~8\t~-8\t~-19\t~1\t~-8\tstained_glass_pane\t15\treplace\tconcrete\t8\n/fill\t~-21\t~8\t~-6\t~-21\t~1\t~-4\tstained_glass_pane\t15\treplace\tconcrete\t8\n/fill\t~-21\t~3\t~1\t~-21\t~1\t~3\tstained_glass_pane\t15\n/fill\t~-19\t~2\t~6\t~-17\t~1\t~6\tstained_glass_pane\t15\n/fill\t~-15\t~2\t~4\t~-15\t~1\t~\tstained_glass_pane\t15\n/setblock\t~-14\t~\t~-7\tquartz_stairs\t1\n/setblock\t~-15\t~\t~-7\tquartz_stairs\t4\n/setblock\t~-15\t~1\t~-7\tquartz_stairs\t1\n/setblock\t~-16\t~1\t~-7\tquartz_stairs\t4\n/setblock\t~-16\t~2\t~-7\tquartz_stairs\t1\n/setblock\t~-17\t~2\t~-7\tquartz_stairs\t4\n/setblock\t~-17\t~3\t~-7\tquartz_stairs\t1\n/setblock\t~-18\t~3\t~-7\tquartz_stairs\t4\n/setblock\t~-18\t~4\t~-7\tquartz_stairs\t1\n/fill\t~-12\t~5\t~-6\t~-18\t~5\t~-6\tstained_glass_pane\t15\n/fill\t~-12\t~4\t~-7\t~-17\t~4\t~-7\tair\n/setblock\t~-13\t~\t~-2\tdark_oak_door\t3\n/setblock\t~-18\t~\t~-2\tdark_oak_door\t1\n/fill\t~-17\t~\t~5\t~-19\t~\t~5\tbed\n/setblock\t~-20\t~\t~\twooden_slab\t13\n/setblock\t~-20\t~\t~1\tdark_oak_stairs\t6\n/setblock\t~-20\t~\t~-1\tdark_oak_stairs\t7\n/setblock\t~-20\t~5\t~-3\tdark_oak_stairs\t6\n/setblock\t~-20\t~5\t~-4\twooden_slab\t13\n/setblock\t~-20\t~5\t~-5\tdark_oak_stairs\t7\n/fill\t~-12\t~5\t~-3\t~-14\t~7\t~-3\tbookshelf\t0\n/fill\t~-16\t~5\t~-2\t~-17\t~5\t~-2\tdark_oak_door\t3\n/fill\t~-16\t~5\t~5\t~-16\t~5\t~6\tbarrier\t0\n/fill\t~-15\t~5\t~5\t~-17\t~5\t~6\tend_rod\t0\tkeep\n/fill\t~-13\t~5\t~-1\t~-14\t~5\t~-1\tspruce_stairs\t3\n/fill\t~-19\t~5\t~-1\t~-20\t~5\t~-1\tspruce_stairs\t3\n/fill\t~-13\t~5\t~\t~-14\t~5\t~1\twooden_slab\t1\n/fill\t~-19\t~5\t~\t~-20\t~5\t~1\twooden_slab\t1\n/fill\t~-16\t~\t~-1\t~-16\t~1\t~-1\tchest\t0\n/fill\t~-17\t~\t~-1\t~-17\t~1\t~-1\tbirch_trapdoor\t9\n/fill\t~-15\t~6\t~5\t~-17\t~6\t~6\tcarpet\t0\n/setblock\t~-14\t~5\t~6\tspruce_stairs\t0\n/setblock\t~-18\t~5\t~6\tspruce_stairs\t1\n/setblock\t~-16\t~5\t~4\tspruce_stairs\t3\n/setblock\t~-12\t~5\t~-1\tend_rod\t0\n/setblock\t~-12\t~6\t~-1\tcarpet\t0\n/setblock\t~-21\t~5\t~-1\tend_rod\t0\n/setblock\t~-21\t~6\t~-1\tcarpet\t0\n/setblock\t~-14\t~6\t~-3\toak_stairs\t1\n/setblock\t~-14\t~7\t~-3\toak_stairs\t5\n/setblock\t~-13\t~7\t~-3\twooden_slab\t8\n/setblock\t~-13\t~6\t~-3\tflower_pot\t0\n/setblock\t~-13\t~5\t~-3\twooden_slab\t8\n/fill\t~-16\t~\t~5\t~-20\t~\t~5\tloom\t0\tkeep\n/fill\t~-16\t~\t~\t~-16\t~1\t~\tbirch_trapdoor\t10\n/fill\t~-20\t~\t~2\t~-20\t~3\t~2\tdark_oak_trapdoor\t10\n/fill\t~-20\t~2\t~1\t~-20\t~2\t~-1\tiron_trapdoor\t7\n/fill\t~-20\t~3\t~1\t~-20\t~3\t~-1\tcarpet\t0\n/fill\t~-20\t~\t~-3\t~-20\t~\t~-6\tstone\t4\n/fill\t~-19\t~\t~-7\t~-17\t~\t~-7\tstone\t4\n/fill\t~-20\t~1\t~-3\t~-20\t~1\t~-7\tcarpet\t7\n/fill\t~-19\t~1\t~-7\t~-17\t~1\t~-7\tcarpet\t7\n/fill\t~-20\t~\t~-4\t~-20\t~\t~-5\tcampfire\t0\n/fill\t~-20\t~1\t~-4\t~-20\t~1\t~-5\tiron_trapdoor\t0\n/fill\t~-19\t~\t~-4\t~-19\t~\t~-5\tiron_trapdoor\t8\n/fill\t~-20\t~2\t~-3\t~-20\t~2\t~-6\tstone_slab3\t11\n/fill\t~-20\t~2\t~-7\t~-18\t~2\t~-7\tcarpet\t0\n/fill\t~-20\t~3\t~-7\t~-19\t~3\t~-7\tcarpet\t0\n/setblock\t~-12\t~\t~-3\tend_rod\t0\n/setblock\t~-16\t~2\t~-1\tbirch_trapdoor\t0\n/setblock\t~-16\t~1\t~5\tflower_pot\t0\n/setblock\t~-20\t~1\t~5\tflower_pot\t0\n/setblock\t~-20\t~1\t~1\tflower_pot\t0\n/setblock\t~-20\t~1\t~-1\tflower_pot\t0\n/setblock\t~-16\t~\t~4\tbirch_button\t2\n/setblock\t~-20\t~\t~4\tbirch_button\t2\n/setblock\t~-20\t~1\t~-3\tflower_pot\t0\n/setblock\t~-20\t~\t~-7\tconcrete\t7\n/setblock\t~-20\t~1\t~-7\tflower_pot\t0\n/setblock\t~-20\t~6\t~-3\tflower_pot\t0\n/setblock\t~-15\t~\t~-3\tend_rod\t0\n/setblock\t~-16\t~1\t~-3\tend_rod\t0\n/setblock\t~-20\t~3\t~-5\tcobblestone_wall\t4\n/fill\t~-12\t~1\t~-3\t~-12\t~2\t~-3\tleaves\t0\n/fill\t~-15\t~\t~-3\t~-16\t~1\t~-3\tleaves\t0\tkeep\n/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~-7\n/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-12\t~5\t~5\n/clone\t~-12\t~\t~-3\t~-12\t~2\t~-3\t~-20\t~5\t~5\n/clone\t~-15\t~\t~-3\t~-16\t~1\t~-3\t~-16\t~2\t~-3\n/fill\t~-12\t~8\t~-7\t~-21\t~8\t~7\tlight_block\t15\tkeep\n/fill\t~-20\t~3\t~5\t~-12\t~3\t~-7\tlight_block\t15\tkeep",
+ "type" : 1
+ },
+ {
+ "button_name" : "KillButton",
+ "data" : [
+ {
+ "cmd_line" : "kill@e[type=npc,r=1]",
+ "cmd_ver" : 12
+ }
+ ],
+ "mode" : 0,
+ "text" : "kill@e[type=npc,r=1]",
+ "type" : 1
+ }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cMade By DemonBoy9286
+==============
+Converted By Bash
+==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cAdmins Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4SummonTNT@a",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\ttntexplodes\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfiredamage\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~~~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~1~~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~~~-1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~~~1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~summon\ttnt\t~-1~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/gamerule\ttntexplodes\ttrue\n/gamerule\tfiredamage\ttrue\n/gamerule\tkeepinventory\tfalse\n/execute\t@a\t~~~summon\ttnt\t~~~\n/execute\t@a\t~~~summon\ttnt\t~1~~\n/execute\t@a\t~~~summon\ttnt\t~~~-1\n/execute\t@a\t~~~summon\ttnt\t~~~1\n/execute\t@a\t~~~summon\ttnt\t~-
+	~~",
+      "type" : 1
+   },
+   { 
+      "button_name" : "Â§4Tp@a",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@a\t~\t~\t~", 
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@a\t~\t~\t~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4WeatherClear", 
+      "data" : [
+         {
+            "cmd_line" : "/weather\tclear",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/time\tset\tday",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/weather\tclear\n/time\tset\tday",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4BigHole@a",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@a\t~~~\tfill\t~~~\t~-100\t~-2\t~-100\tair",
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/execute\t@a\t~~~\tfill\t~~~\t~-100\t~-2\t~-100\tair",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillAll",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@a[tag=!save]",
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@a[tag=!save]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Stealth",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tinvisibility\t100000\t255\ttrue",
+            "cmd_ver" : 14
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect\t@p\tinvisibility\t100000\t255\ttrue",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNpc By bash#0067
+Â§7==============
+Â§cjoin discord.gg/horion and go fuck yourself
+Â§7==============Â§5",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:10b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:11b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},CanPlaceOn:["grass","dirt"],Count:64b,Damage:0s,Name:"minecraft:mob_spawner",Slot:12b,WasPickedUp:0b,tag:{Delay:20s,DisplayEntityHeight:1.8f,DisplayEntityScale:1f,DisplayEntityWidth:0.8f,EntityIdentifier:"minecraft:player",MaxNearbyEntities:600s,MaxSpawnDelay:8s,MinSpawnDelay:2s,RequiredPlayerRange:106s,SpawnCount:1s,SpawnRange:5s,display:{Lore:["Â§fby bash"],Name:"Â§cPlayer"}}},{CanDestroy:["command_block","repeating_command_block","chain_command_block","deny","bedrock"],Count:1b,Damage:0s,Name:"minecraft:netherite_pickaxe",Slot:13b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's 32k PickaxeÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:17s,lvl:32767s},{id:16s,lvl:32767s},{id:15s,lvl:32767s},{id:26s,lvl:32767s},{id:28s,lvl:1s}]}},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17879555},CanDestroy:["portal"],CanPlaceOn:["portal"],Count:64b,Damage:0s,Name:"minecraft:portal",Slot:14b,WasPickedUp:0b,tag:{ench:[{id:27s,lvl:-1s},{id:28s,lvl:-1s}]}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:15b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:16b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cBase Builder"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§bBuildFirst",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~-14\t~\t~-14\t~14\t~6\t~26\tobsidian\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-12\t~1\t~-12\t~12\t~5\t~24\tglass\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-13\t~-3\t~-13\t~13\t~6\t~25\tlava\t0\toutline",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~\t~\t~\t~\t~6\t~26\tsealantern\t1\treplace\tobsidian",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~\t~\t~\t~\t~6\t~-26\tsealantern\t1\treplace\tobsidian",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/summon\tskeleton_horse\t~10\t~2\t~\tminecraft:on_saddled\tÂ§lÂ§4.HÂ§5aÂ§4tÂ§5eÂ§4dÂ§5sÂ§4SÂ§5tÂ§4eÂ§5eÂ§4d",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~1\t~23\tchest",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~1\t~23\tchest",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/fill\t~-14\t~\t~-14\t~14\t~6\t~26\tobsidian\t0\thollow\n/fill\t~-12\t~1\t~-12\t~12\t~5\t~24\tglass\t0\thollow\n/fill\t~-13\t~-3\t~-13\t~13\t~6\t~25\tlava\t0\toutline\n/fill\t~\t~\t~\t~\t~6\t~26\tsealantern\t1\treplace\tobsidian\n/fill\t~\t~\t~\t~\t~6\t~-26\tsealantern\t1\treplace\tobsidian\n/summon\tskeleton_horse\t~10\t~2\t~\tminecraft:on_saddled\tï¿½lï¿½4.Hï¿½5aï¿½4tï¿½5eï¿½4dï¿½5sï¿½4Sï¿½5tï¿½4eï¿½5eï¿½4d\n/setblock\t~11\t~1\t~23\tchest\n/setblock\t~10\t~1\t~23\tchest",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§bBuildSecond",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~\t~\t~\t~1\t~6\t~4\tair\t1\treplace\tobsidian",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t0\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t1\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t2\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t3\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t4\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t5\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t6\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t7\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t8\tobsidian\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t9\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t10\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t11\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t12\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t13\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t14\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t15\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t16\tglass\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t17\tglass\t64",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/fill\t~\t~\t~\t~1\t~6\t~4\tair\t1\treplace\tobsidian\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t0\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t1\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t2\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t3\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t4\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t5\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t6\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t7\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t8\tobsidian\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t9\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t10\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t11\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t12\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t13\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t14\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t15\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t16\tglass\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t17\tglass\t64",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§bBuildThird",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t18\tdiamond_helmet\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t19\tdiamond_chestplate\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t20\tdiamond_leggings\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t21\tdiamond_boots\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t22\tdiamond_sword\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t23\tdiamond_pickaxe\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t24\tdiamond_axe\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t25\tdiamond_shovel\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t26\tdiamond_block\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t45\tappleenchanted\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t53\tappleenchanted\t64",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t18\tdiamond_helmet\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t19\tdiamond_chestplate\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t20\tdiamond_leggings\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t21\tdiamond_boots\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t22\tdiamond_sword\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t23\tdiamond_pickaxe\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t24\tdiamond_axe\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t25\tdiamond_shovel\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t26\tdiamond_block\t1\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t45\tappleenchanted\t64\n/replaceitem\tblock\t~10\t~1\t~23\tslot.container\t53\tappleenchanted\t64",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4CmdOutputOff",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\tcommandblockoutput\tfalse",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule\tcommandblockoutput\tfalse",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4HolymodePot",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tregeneration\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tfire_resistance\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tresistance\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tinstant_health\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tconduit_power\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\thealth_boost\t99999999\t3\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect\t@p\tregeneration\t99999999\t3\ttrue\n/effect\t@p\tfire_resistance\t99999999\t3\ttrue\n/effect\t@p\tresistance\t99999999\t3\ttrue\n/effect\t@p\tinstant_health\t99999999\t3\ttrue\n/effect\t@p\tconduit_power\t99999999\t3\ttrue\n/effect\t@p\thealth_boost\t99999999\t3\ttrue",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4BotKill",
+      "data" : [
+         {
+            "cmd_line" : "kill@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNpc By LePro
+Â§7==============
+Â§cconverted by bash#0067, join gg/teYA4Zat and gg/horion ;)
+Â§7==============Â§5",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:18b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cTrollers Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4ClearALLEChests",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t0\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t1\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t2\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t3\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t4\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t5\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t6\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t7\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t8\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t9\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t10\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t11\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t12\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t13\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t14\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t15\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t16\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t17\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t18\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t19\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t20\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t21\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t22\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t23\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t24\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t25\tair",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tentity\t@a\tslot.enderchest\t26\tair",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/replaceitem\tentity\t@a\tslot.enderchest\t0\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t1\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t2\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t3\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t4\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t5\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t6\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t7\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t8\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t9\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t10\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t11\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t12\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t13\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t14\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t15\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t16\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t17\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t18\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t19\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t20\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t21\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t22\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t23\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t24\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t25\tair\n/replaceitem\tentity\t@a\tslot.enderchest\t26\tair",
+      "type" : 1
+   },
+   { 
+      "button_name" : "Â§4SummonLava",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@a\t~~~\tfill\t~5~8~5~-5~~-5\tlava", 
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/gamerule\tfiredamage\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tpvp\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/execute\t@a\t~~~\tfill\t~5~8~5~-5~~-5\tlava\n/gamerule\tfiredamage\ttrue\n/gamerule\tkeepinventory\tfalse\n/gamerule\tpvp\ttrue",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GMC", 
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4ClearAll",
+      "data" : [
+         {
+            "cmd_line" : "/clear\t@a[rm=5]",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/playsound\tambient.weather.lightning.impact\t@a[rm=5]\t~~~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/clear\t@a[rm=5]\n/playsound\tambient.weather.lightning.impact\t@a[rm=5]\t~~~\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Effects",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@a\tinstant_health\t999999\t255\ttrue",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/effect\t@a\tabsorption\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\thealth_boost\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tregeneration\t999999v255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tresistance\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tnight_vision\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tstrength\t999999\t50\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\thaste\t999999\t10\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a\tconduit_power\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect\t@a\tinstant_health\t999999\t255\ttrue\n/effect\t@a\tabsorption\t999999\t255\ttrue\n/effect\t@a\thealth_boost\t999999\t255\ttrue\n/effect\t@a\tregeneration\t999999v255\ttrue\n/effect\t@a\tresistance\t999999\t255\ttrue\n/effect\t@a\tnight_vision\t999999\t255\ttrue\n/effect\t@a\tstrength\t999999\t50\ttrue\n/effect\t@a\thaste\t999999\t10\ttrue\n/effect\t@a\tconduit_power\t999999\t255\ttrue\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GameruleFucker",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\tspawnradius\t0",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/gamerule\tdoimmediaterespawn\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfalldamage\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tnaturalregeneration\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfunctioncommandlimit\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tcommandblockoutput\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tcommandblocksenabled\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\ttntexplodes\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tpvp\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tshowcoordinates\tfalse",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tbeacon.activate\t@p\t~~~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule\tspawnradius\t0\n/gamerule\tdoimmediaterespawn\ttrue\n/gamerule\tkeepinventory\tfalse\n/gamerule\tfalldamage\ttrue\n/gamerule\tnaturalregeneration\tfalse\n/gamerule\tfunctioncommandlimit\t0\n/gamerule\tcommandblockoutput\tfalse\n/gamerule\tcommandblocksenabled\tfalse\n/gamerule\ttntexplodes\ttrue\n/gamerule\tpvp\ttrue\n/gamerule\tshowcoordinates\tfalse\n/playsound\tbeacon.activate\t@p\t~~~",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cNpc By bash#0067
+Â§7==============
+Â§cjoin gg/horion and gg/teYA4Zat. also go kill your self
+Â§7==============Â§5",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:19b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cDifficulty Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4Difficulty_H",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\th",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\th",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Difficulty_N",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tn",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\tn",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Difficulty_E",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\te",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\te",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Difficulty_P",
+      "data" : [
+         {
+            "cmd_line" : "/difficulty\tp",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/difficulty\tp",
+      "type" : 1
+   },
+    {
+      "button_name" : "Â§4GamemodeCAll",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4GamemodeSAll",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "/gamemode\ts\t@a",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cMade By Bash#0067
+Â§7==============
+Â§cjoin gg/horion and gg/6v2EHZ9F
+Â§7==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:20b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17879555},CanDestroy:["portal"],CanPlaceOn:["portal"],Count:64b,Damage:0s,Name:"minecraft:portal",Slot:21b,WasPickedUp:0b,tag:{ench:[{id:27s,lvl:-1s},{id:28s,lvl:-1s}]}},{Count:64b,Damage:0s,Name:"minecraft:enchanted_golden_apple",Slot:22b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's GappleÂ§r Â§kÂ§4hÂ§rÂ§7"},ench:[{id:9s,lvl:111s},{id:9s,lvl:222s},{id:9s,lvl:333s},{id:9s,lvl:444s},{id:9s,lvl:555s}]}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},CanPlaceOn:["grass","dirt"],Count:64b,Damage:0s,Name:"minecraft:mob_spawner",Slot:23b,WasPickedUp:0b,tag:{Delay:20s,DisplayEntityHeight:1.8f,DisplayEntityScale:1f,DisplayEntityWidth:0.8f,EntityIdentifier:"minecraft:armor_stand",MaxNearbyEntities:600s,MaxSpawnDelay:8s,MinSpawnDelay:2s,RequiredPlayerRange:106s,SpawnCount:1s,SpawnRange:5s,display:{Lore:["Â§fby bash"],Name:"Â§cArmor Stand"}}},{Count:1b,Damage:0s,Name:"minecraft:totem_of_undying",Slot:24b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§kÂ§4hÂ§rÂ§4 Bash's TotemÂ§r Â§4Â§khÂ§rÂ§7"},ench:[{id:22s,lvl:420s},{id:22s,lvl:6969s}]}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:25b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cTeleport Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{CustomName:"Â§1",Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4TpAll",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@a\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@a\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@r\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@r\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpRandomToRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@r\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@r\t@r",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpToRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@p\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@p\t@r",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpEntities",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@e\t@p",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@e\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4TpAllToRandom",
+      "data" : [
+         {
+            "cmd_line" : "/tp\t@a\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@a\t@r",
+      "type" : 1
+   }
+]
+",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cnpc by bash#0067
+Â§7==============
+Â§cu should join gg/6v2EHZ9F and gg/horion 
+Â§7==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["grass","leaves","stone_slab","double_stone_slab","stone_slab2","stone_slab3","double_wooden_slab","double_stone_slab3","leaves2","double_plant","wooden_slab","stone_slab4","double_stone_slab4","double_stone_slab2","dispenser","iron_ore","sponge","log","sandstone","coal_ore","gold_ore","glass","gravel","lapis_ore","lapis_block","bed","golden_rail","detector_rail","deadbush","web","tallgrass","jukebox","netherrack","cactus","snow","soul_sand","ice","clay","fence","pumpkin","glowstone","unpowered_repeater","powered_repeater","lit_pumpkin","cake","red_mushroom_block","glass_pane","monster_egg","stonebrick","brown_mushroom_block","trapdoor","iron_bars","melon_block","stone_brick_stairs","vine","mycelium","fence_gate","brick_stairs","waterlily","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","end_portal_frame","dropper","cauldron","mob_spawner","end_stone","brewing_stand","dragon_egg","activator_rail","sandstone_stairs","emerald_ore","spruce_stairs","cobblestone_wall","emerald_block","ender_chest","tripwire_hook","birch_stairs","jungle_stairs","tripWire","flower_pot","wooden_button","skull","anvil","trapped_chest","quartz_block","redstone_block","powered_comparator","daylight_detector","hopper","unpowered_comparator","stained_hardened_clay","seaLantern","prismarine","slime","packed_ice","quartz_stairs","acacia_stairs","stained_glass_pane","log2","dark_oak_stairs","iron_trapdoor","hay_block","hardened_clay","carpet","coal_block","spruce_fence_gate","wall_banner","jungle_fence_gate","standing_banner","red_sandstone","red_sandstone_stairs","birch_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","dark_oak_door","acacia_door","grass_path","purpur_block","chorus_flower","purpur_stairs","jungle_door","magma","nether_wart_block","end_rod","end_bricks","red_nether_brick","bone_block","purple_glazed_terracotta","white_glazed_terracotta","orange_glazed_terracotta","shulker_box","brown_glazed_terracotta","green_glazed_terracotta","magenta_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","yellow_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","silver_glazed_terracotta","pink_glazed_terracotta","blue_glazed_terracotta","red_glazed_terracotta","concrete","black_glazed_terracotta","concretePowder","chorus_plant","stained_glass","prismarine_stairs","observer","dark_prismarine_stairs","prismarine_bricks_stairs","coral","dried_kelp_block","dark_oak_button","seagrass","coral_fan_dead","coral_block","coral_fan","kelp","acacia_button","birch_button","jungle_button","spruce_button","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","sea_pickle","carved_pumpkin","barrier","scaffolding","turtle_egg","bamboo","end_brick_stairs","andesite_stairs","smooth_sandstone_stairs","smooth_red_sandstone_stairs","granite_stairs","polished_diorite_stairs","polished_andesite_stairs","diorite_stairs","polished_granite_stairs","mossy_stone_brick_stairs","normal_stone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","mossy_cobblestone_stairs","lectern","spruce_wall_sign","jungle_wall_sign","acacia_standing_sign","birch_wall_sign","darkoak_standing_sign","jungle_standing_sign","spruce_standing_sign","birch_standing_sign","acacia_wall_sign","darkoak_wall_sign","grindstone","blast_furnace","smoker","cartography_table","bell","fletching_table","campfire","wither_rose","loom","smithing_table","barrel","composter","lantern","wood","honey_block","beehive","bee_nest","honeycomb_block","sand","planks","sapling","bedrock","dirt","cobblestone","stone","stone_pressure_plate","spruce_pressure_plate","jungle_pressure_plate","dark_oak_pressure_plate","heavy_weighted_pressure_plate","light_weighted_pressure_plate","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","ladder","standing_sign","furnace","rail","wooden_door","crafting_table","lever","wall_sign","stone_stairs","iron_door","redstone_ore","redstone_torch","stone_button","snow_layer","unlit_redstone_torch","red_flower","gold_block","iron_block","obsidian","brown_mushroom","wool","red_mushroom","mossy_cobblestone","yellow_flower","brick_block","bookshelf","tnt","torch","oak_stairs","diamond_ore","chest","diamond_block","redstone_wire"],Count:-56b,Damage:0s,Name:"minecraft:movingblock",Slot:26b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§cKill Panel"},ench:[{id:26s,lvl:-32768s},{id:28s,lvl:1s}],id:"MovingBlock",isMovable:1b,movingBlock:{name:"minecraft:wither_rose",states:{direction:2,honey_level:0},version:17879555},movingEntity:{Occupants:[{,TicksLeftToStay:0,ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4KillEntities",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@e",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillRandom",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tp\t@r\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillAll",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@a",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@a",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillAllNpcs",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e[type=npc]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/kill\t@e[type=npc]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4KillNpcs12BR",
+      "data" : [
+         {
+            "cmd_line" : "kill@e[type=npc,r=12]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=12]",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4Creative",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p[r=5]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p[r=5]",
+      "type" : 1
+   }
+]",ChestItems:[{Count:0b,Damage:0s,Name:"",Slot:0b,WasPickedUp:0b}],Chested:0b,Color:0b,Color2:0b,Command:"",CurrentTickCount:0,CustomName:"",ExecuteOnFirstTick:0b,FallDistance:0f,Fire:0s,InterativeText:"Â§cnpc by bash#0067
+Â§7==============
+Â§cjoin gg/6v2EHZ9F and gg/horion pussy
+BR means block radius btw 
+Â§7==============",InventoryVersion:"1.16.221",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LastExecution:0l,LastOutput:"",LastOutputParams:[],LootDropped:0b,MarkVariant:0,Motion:[0f,0f,0f],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[15.5f,19.35f,14.5f],Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,SuccessCount:0,Tags:[],TickDelay:0,Ticking:0b,TrackOutput:1b,UniqueID:-828928688114l,Variant:19,Version:15,definitions:["+minecraft:npc"],identifier:"minecraft:npc"}}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}],RepairCost:0,display:{Name:"Â§rÂ§aâŽ³Â§aâŽ° Â§7Bash's Overseer Box Â§aâŽ±âŽ²"}}}

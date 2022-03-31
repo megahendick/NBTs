@@ -1,0 +1,1 @@
+{Count:64b,Damage:0s,Name:"beehive",tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart",SaveData:{Ticking:1b,TicksLeftToStay:1,Invulnerable:0b,definitions:["+minecraft:pig"],Command:"Gamemode 0 @p",TickDelay:2000}}],RepairCost:0}}

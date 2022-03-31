@@ -1,0 +1,1 @@
+{Count:1b,Damage:0s,Name:"furnace",tag:{StoredXPInt:2147483647,display:{Lore:["break to get xp"],Name:"XP Furnace"}}}
